@@ -1,22 +1,22 @@
 import { useParams, useNavigate } from 'react-router-dom';
 import Header from '../components/Header';
 import SectionListItem from '../components/SectionListItem';
-import { getExamColor } from '../utils/examConfig';
+import EXAM_CONFIG from '../utils/examConfig';
 import { getExamSet } from '../data/registry';
 import useHistory from '../hooks/useHistory';
 import styles from './SectionsPage.module.css';
 
 export default function SectionsPage() {
-  const { examType, examId } = useParams();
+  const { examId } = useParams();
   const navigate = useNavigate();
   const examSet = getExamSet(examId);
-  const accent = getExamColor(examType);
+  const accent = EXAM_CONFIG.color;
   const { getRecord } = useHistory();
 
   if (!examSet) {
     return (
       <div className={styles.page}>
-        <Header onBack={() => navigate(`/${examType}`)} accentColor={accent} />
+        <Header onBack={() => navigate('/')} accentColor={accent} />
         <div className={styles.empty}>試験データが見つかりません</div>
       </div>
     );
@@ -29,7 +29,7 @@ export default function SectionsPage() {
 
   return (
     <div className={styles.page}>
-      <Header onBack={() => navigate(`/${examType}`)} accentColor={accent} />
+      <Header onBack={() => navigate('/')} accentColor={accent} />
 
       <div className={styles.content}>
         {/* Exam info header */}
@@ -62,7 +62,7 @@ export default function SectionsPage() {
               key={section.id}
               section={section}
               accentColor={accent}
-              onClick={() => navigate(`/${examType}/${examId}/${section.id}`)}
+              onClick={() => navigate(`/${examId}/${section.id}`)}
               history={sectionRecords[i]}
             />
           ))}
@@ -72,7 +72,7 @@ export default function SectionsPage() {
           <button
             className={styles.actionButtonPrimary}
             style={{ '--accent': accent }}
-            onClick={() => navigate(`/${examType}/${examId}/all`)}
+            onClick={() => navigate(`/${examId}/all`)}
           >
             全問通し演習（{sections.reduce((sum, s) => sum + (s.questions?.length || 0), 0)}問）
           </button>
