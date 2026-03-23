@@ -25,24 +25,25 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "1人の人物の動作を描写する写真。男性が家具を持ち上げている(is lifting some furniture)様子が写っているため、(B)が正解。",
+          "script": "(A) He's parking a truck.\n(B) He's lifting some furniture.\n(C) He's starting an engine.\n(D) He's driving a car.",
+          "scriptJa": "(A) 男子がトラックを駐車しようとしている。\n(B) 男性が家具を持ち上げている。\n(C) 男性がエンジンをかけている。\n(D) 男性が車を運転している。"
         },
         {
           "id": "q2",
@@ -53,24 +54,25 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "人物・事物・風景の混合描写の写真。人々が机の周りに集まっている(are gathered around a desk)様子が写っているため、(C)が正解。",
+          "script": "(A) Some curtains have been closed.\n(B) Some jackets have been laid on a chair.\n(C) Some people are gathered around a desk.\n(D) Someone is turning on a lamp.",
+          "scriptJa": "(A) カーテンが閉まっている。\n(B) ジャケットが椅子の上に置かれている。\n(C) 人々が机の周りに集まっている。\n(D) 誰かがランプを点けようとしている。"
         },
         {
           "id": "q3",
@@ -81,24 +83,25 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "2人以上が写った写真。女性たちが列に並んで待っている(are waiting in a line)様子が写っているため、(B)が正解。",
+          "script": "(A) One of the women is reaching into her bag.\n(B) The women are waiting in a line.\n(C) The man is leading a tour group.\n(D) The man is opening a cash register.",
+          "scriptJa": "(A) 女性の一人がカバンの中に手を入れている。\n(B) 女性たちが列に並んで待っている。\n(C) 男性が観光団を率いている。\n(D) 男性がレジを開けている。"
         },
         {
           "id": "q4",
@@ -109,24 +112,25 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "人物・事物・風景の混合描写の写真。男性が自転車の上に体を曲げている(is bending over a bicycle)様子が写っているため、(A)が正解。",
+          "script": "(A) The man is bending over a bicycle.\n(B) A wheel has been propped against a stack of bricks.\n(C) The man is collecting some pieces of wood.\n(D) A handrail is being installed.",
+          "scriptJa": "(A) 男性が自転車の上に体を曲げている。\n(B) 車輪がレンガの山に立てかけてある。\n(C) 男性が木の破片を集めている。\n(D) 手すりが設置されているところだ。"
         },
         {
           "id": "q5",
@@ -137,24 +141,25 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "D",
+          "explanation": "事物・風景の写真。額縁(picture frames)が壁にかかっている(are hanging on a wall)様子が写っているため、(D)が正解。",
+          "script": "(A) An armchair has been placed under a window.\n(B) Some reading materials have fallen on the floor.\n(C) Some flowers are being watered.\n(D) Some picture frames are hanging on a wall.",
+          "scriptJa": "(A) 肘掛け椅子が窓の下に置かれている。\n(B) 読み物が床に落ちている。\n(C) 花に水をやっているところだ。\n(D) 額縁が壁にかかっている。"
         },
         {
           "id": "q6",
@@ -164,25 +169,26 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q6.jpg"
+          "answer": "C",
+          "explanation": "人物・事物・風景の混合描写の写真。移動式の食品販売台(a mobile food stand)が歩道の上にある(on a walkway)様子が写っているため、(C)が正解。",
+          "script": "(A) She's adjusting the height of an umbrella.\n(B) She's inspecting the tires on a vending cart.\n(C) There's a mobile food stand on a walkway.\n(D) There are some cooking utensils on the ground.",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q6.jpg",
+          "scriptJa": "(A) 女性がパラソルの高さを調節している。\n(B) 女性が販売カートのタイヤを点検している。\n(C) 移動式の食品販売台が歩道の上にある。\n(D) 調理器具が床にある。"
         }
       ]
     },
@@ -197,7 +203,7 @@
           "id": "q7",
           "number": 7,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q07.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -220,7 +226,7 @@
           "id": "q8",
           "number": 8,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q08.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -243,7 +249,7 @@
           "id": "q9",
           "number": 9,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q09.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -266,7 +272,7 @@
           "id": "q10",
           "number": 10,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q10.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -289,7 +295,7 @@
           "id": "q11",
           "number": 11,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q11.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -312,7 +318,7 @@
           "id": "q12",
           "number": 12,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q12.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -335,7 +341,7 @@
           "id": "q13",
           "number": 13,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q13.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -358,7 +364,7 @@
           "id": "q14",
           "number": 14,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q14.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -381,7 +387,7 @@
           "id": "q15",
           "number": 15,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q15.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -404,7 +410,7 @@
           "id": "q16",
           "number": 16,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q16.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -427,7 +433,7 @@
           "id": "q17",
           "number": 17,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q17.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -450,7 +456,7 @@
           "id": "q18",
           "number": 18,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q18.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -473,7 +479,7 @@
           "id": "q19",
           "number": 19,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q19.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -496,7 +502,7 @@
           "id": "q20",
           "number": 20,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q20.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -519,7 +525,7 @@
           "id": "q21",
           "number": 21,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q21.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -542,7 +548,7 @@
           "id": "q22",
           "number": 22,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q22.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -565,7 +571,7 @@
           "id": "q23",
           "number": 23,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q23.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -588,7 +594,7 @@
           "id": "q24",
           "number": 24,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q24.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -611,7 +617,7 @@
           "id": "q25",
           "number": 25,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q25.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -634,7 +640,7 @@
           "id": "q26",
           "number": 26,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q26.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -657,7 +663,7 @@
           "id": "q27",
           "number": 27,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q27.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -680,7 +686,7 @@
           "id": "q28",
           "number": 28,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q28.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -703,7 +709,7 @@
           "id": "q29",
           "number": 29,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q29.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -726,7 +732,7 @@
           "id": "q30",
           "number": 30,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q30.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -749,7 +755,7 @@
           "id": "q31",
           "number": 31,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q31.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
