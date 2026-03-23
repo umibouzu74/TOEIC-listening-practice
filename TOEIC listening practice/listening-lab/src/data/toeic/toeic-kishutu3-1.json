@@ -1429,23 +1429,23 @@
           "id": "q56",
           "number": 56,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q56.mp3",
-          "prompt": "",
+          "prompt": "What does the woman imply when she says, \"I don't have much to do\"?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) She has time to help."
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) She plans to leave work early."
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Her computer is not working."
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) She has not received an assignment."
             }
           ],
           "answer": "",
@@ -1456,23 +1456,23 @@
           "id": "q57",
           "number": 57,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q57.mp3",
-          "prompt": "",
+          "prompt": "What does the man notice about some medication?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) It needs to be refrigerated."
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) It has expired."
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) The dosage has changed."
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) The supply is limited."
             }
           ],
           "answer": "",
@@ -1483,23 +1483,23 @@
           "id": "q58",
           "number": 58,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q58.mp3",
-          "prompt": "",
+          "prompt": "What does the man suggest doing in the future?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Installing some shelves"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Confirming with a doctor"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Increasing an order amount"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Recommending a different medication"
             }
           ],
           "answer": "",
@@ -1510,23 +1510,23 @@
           "id": "q59",
           "number": 59,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q59.mp3",
-          "prompt": "",
+          "prompt": "Who most likely is the woman?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A travel agent"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) A bank teller"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A lawyer"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) A mail-room worker"
             }
           ],
           "answer": "",
@@ -1537,23 +1537,23 @@
           "id": "q60",
           "number": 60,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q60.mp3",
-          "prompt": "",
+          "prompt": "What kind of document are the speakers discussing?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A user agreement"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) An employment contract"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A list of travel expenses"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) An insurance certificate"
             }
           ],
           "answer": "",
@@ -1564,23 +1564,23 @@
           "id": "q61",
           "number": 61,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q61.mp3",
-          "prompt": "",
+          "prompt": "Why must the document be revised by the end of the month?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) To be included in a personnel file"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) To use in a merger negotiation"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) To meet a production deadline"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) To avoid paying a fine"
             }
           ],
           "answer": "",
@@ -1591,50 +1591,51 @@
           "id": "q62",
           "number": 62,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q62.mp3",
-          "prompt": "",
+          "prompt": "Look at the graphic. How much did the man's company charge for its service?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) $4,456"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) $1,300"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) $10,200"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) $400"
             }
           ],
           "answer": "",
           "explanation": "",
-          "script": ""
+          "script": "",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q62.jpg"
         },
         {
           "id": "q63",
           "number": 63,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q63.mp3",
-          "prompt": "",
+          "prompt": "Why does the man apologize?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Business hours have changed."
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) A price was wrong."
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Some staff arrived late."
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) A request could not be fulfilled."
             }
           ],
           "answer": "",
@@ -1645,23 +1646,23 @@
           "id": "q64",
           "number": 64,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q64.mp3",
-          "prompt": "",
+          "prompt": "What does the woman like about a venue?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) It has a nice view."
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) It is conveniently located."
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) It is tastefully decorated."
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) It can host large events."
             }
           ],
           "answer": "",
@@ -1672,23 +1673,23 @@
           "id": "q65",
           "number": 65,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q65.mp3",
-          "prompt": "",
+          "prompt": "Why is the man surprised?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A popular band is coming to town."
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) The woman plays a musical instrument."
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) The woman was able to get concert tickets."
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Some musicians scheduled a second concert."
             }
           ],
           "answer": "",
@@ -1699,50 +1700,51 @@
           "id": "q66",
           "number": 66,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q66.mp3",
-          "prompt": "",
+          "prompt": "Look at the graphic. In which section does the woman have seats?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Section 1"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Section 2"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Section 3"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Section 4"
             }
           ],
           "answer": "",
           "explanation": "",
-          "script": ""
+          "script": "",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q66.jpg"
         },
         {
           "id": "q67",
           "number": 67,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q67.mp3",
-          "prompt": "",
+          "prompt": "What is the woman doing this weekend?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Practicing with her band"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Entering a radio contest"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Moving to Boston"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Attending a party"
             }
           ],
           "answer": "",
@@ -1753,23 +1755,23 @@
           "id": "q68",
           "number": 68,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q68.mp3",
-          "prompt": "",
+          "prompt": "Who most likely is the man?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A maintenance worker"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) A property manager"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A real estate agent"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) A bank employee"
             }
           ],
           "answer": "",
@@ -1780,50 +1782,51 @@
           "id": "q69",
           "number": 69,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q69.mp3",
-          "prompt": "",
+          "prompt": "Look at the graphic. Which name needs to be changed?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Tanaka"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Zhao"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Mukherjee"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Tremblay"
             }
           ],
           "answer": "",
           "explanation": "",
-          "script": ""
+          "script": "",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q69.jpg"
         },
         {
           "id": "q70",
           "number": 70,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q70.mp3",
-          "prompt": "",
+          "prompt": "What does the woman say she is going to do tomorrow?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Fill out a registration form"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Meet with some neighbors"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Order some furniture"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Make a payment"
             }
           ],
           "answer": "",
@@ -1843,23 +1846,23 @@
           "id": "q71",
           "number": 71,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q71.mp3",
-          "prompt": "",
+          "prompt": "What kind of business is the speaker most likely calling?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A hair salon"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) An insurance company"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A car dealership"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) An eye doctor's office"
             }
           ],
           "answer": "",
@@ -1870,23 +1873,23 @@
           "id": "q72",
           "number": 72,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q72.mp3",
-          "prompt": "",
+          "prompt": "What does the speaker say about her appointment?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) It is too far away."
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) It needs to be rescheduled."
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) It is too expensive."
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) It should be with a different person."
             }
           ],
           "answer": "",
@@ -1897,23 +1900,23 @@
           "id": "q73",
           "number": 73,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q73.mp3",
-          "prompt": "",
+          "prompt": "What is the speaker interested in learning more about?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Payment methods"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Delivery options"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A warranty"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) A job opening"
             }
           ],
           "answer": "",
@@ -1924,23 +1927,23 @@
           "id": "q74",
           "number": 74,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q74.mp3",
-          "prompt": "",
+          "prompt": "What is being advertised?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A factory tour"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) A baking competition"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A grand opening"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) An art show"
             }
           ],
           "answer": "",
@@ -1951,23 +1954,23 @@
           "id": "q75",
           "number": 75,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q75.mp3",
-          "prompt": "",
+          "prompt": "What will participants receive?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A poster"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) A promotional mug"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A company T-shirt"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) A photograph"
             }
           ],
           "answer": "",
@@ -1978,23 +1981,23 @@
           "id": "q76",
           "number": 76,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q76.mp3",
-          "prompt": "",
+          "prompt": "What can the listeners do on a Web site?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Find a recipe"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Fill out an entry form"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) View a product list"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Download a coupon"
             }
           ],
           "answer": "",
@@ -2005,23 +2008,23 @@
           "id": "q77",
           "number": 77,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q77.mp3",
-          "prompt": "",
+          "prompt": "Where does the announcement take place?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) At a sports arena"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) At a concert hall"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) At an art museum"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) At a movie theater"
             }
           ],
           "answer": "",
@@ -2032,23 +2035,23 @@
           "id": "q78",
           "number": 78,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q78.mp3",
-          "prompt": "",
+          "prompt": "Why does the speaker apologize?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A presenter has been delayed."
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Some lights have gone out."
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A sound system is broken."
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) A construction project is noisy."
             }
           ],
           "answer": "",
@@ -2059,23 +2062,23 @@
           "id": "q79",
           "number": 79,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q79.mp3",
-          "prompt": "",
+          "prompt": "What does the speaker offer the listeners?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A promotional item"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) A parking voucher"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Discounted snacks"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Free tickets"
             }
           ],
           "answer": "",
@@ -2086,23 +2089,23 @@
           "id": "q80",
           "number": 80,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q80.mp3",
-          "prompt": "",
+          "prompt": "What event is taking place?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A technology conference"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) A product demonstration"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A company fund-raiser"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) A training workshop"
             }
           ],
           "answer": "",
@@ -2113,23 +2116,23 @@
           "id": "q81",
           "number": 81,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q81.mp3",
-          "prompt": "",
+          "prompt": "Why does the speaker say, \"And over 300 people are here\"?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) To propose moving to a larger venue"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) To indicate that some advertising was successful"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) To emphasize the importance of working quickly"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) To suggest more volunteers are needed"
             }
           ],
           "answer": "",
@@ -2140,23 +2143,23 @@
           "id": "q82",
           "number": 82,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q82.mp3",
-          "prompt": "",
+          "prompt": "What does the speaker ask the listeners to do?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Provide feedback"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Silence mobile phones"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Review an event program"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Enjoy some refreshments"
             }
           ],
           "answer": "",
@@ -2167,23 +2170,23 @@
           "id": "q83",
           "number": 83,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q83.mp3",
-          "prompt": "",
+          "prompt": "What is the purpose of the plan?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) To support local businesses"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) To promote tourism"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) To decrease traffic"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) To reduce government spending"
             }
           ],
           "answer": "",
@@ -2194,23 +2197,23 @@
           "id": "q84",
           "number": 84,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q84.mp3",
-          "prompt": "",
+          "prompt": "Who does the speaker say will receive a discount?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Commuters"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Senior citizens"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Students"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) City officials"
             }
           ],
           "answer": "",
@@ -2221,23 +2224,23 @@
           "id": "q85",
           "number": 85,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q85.mp3",
-          "prompt": "",
+          "prompt": "What will happen after three months?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A survey will be distributed."
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) A new director will take over."
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A bus line will be added."
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) A program evaluation will take place."
             }
           ],
           "answer": "",
@@ -2248,23 +2251,23 @@
           "id": "q86",
           "number": 86,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q86.mp3",
-          "prompt": "",
+          "prompt": "What event is the speaker discussing?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A sports competition"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) A music festival"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A cooking demonstration"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) A historical play"
             }
           ],
           "answer": "",
@@ -2275,23 +2278,23 @@
           "id": "q87",
           "number": 87,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q87.mp3",
-          "prompt": "",
+          "prompt": "Why does the speaker say, \"tickets are almost sold out\"?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) To encourage the listeners to enter a contest"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) To suggest that the listeners arrive early"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) To complain that an event space is too small"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) To praise the results of a marketing plan"
             }
           ],
           "answer": "",
@@ -2302,23 +2305,23 @@
           "id": "q88",
           "number": 88,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q88.mp3",
-          "prompt": "",
+          "prompt": "What will happen tomorrow morning?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A new venue will open."
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) A prize winner will be announced."
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) An interview will take place."
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) A video will be filmed."
             }
           ],
           "answer": "",
@@ -2329,23 +2332,23 @@
           "id": "q89",
           "number": 89,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q89.mp3",
-          "prompt": "",
+          "prompt": "What type of business does the speaker work for?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A computer company"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) A construction firm"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) A furniture manufacturer"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) An office-supply distributor"
             }
           ],
           "answer": "",
@@ -2356,23 +2359,23 @@
           "id": "q90",
           "number": 90,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q90.mp3",
-          "prompt": "",
+          "prompt": "What does the speaker say is an advantage of the new material?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) It is inexpensive."
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) It is durable."
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) It is lightweight."
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) It comes in many colors."
             }
           ],
           "answer": "",
@@ -2383,23 +2386,23 @@
           "id": "q91",
           "number": 91,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q91.mp3",
-          "prompt": "",
+          "prompt": "What will the listeners do next?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Sign up for a mailing list"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Watch an instructional video"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Enter a contest"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Look at a sample"
             }
           ],
           "answer": "",
@@ -2410,23 +2413,23 @@
           "id": "q92",
           "number": 92,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q92.mp3",
-          "prompt": "",
+          "prompt": "Which department does the speaker work in?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Product Development"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Human Resources"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Legal"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Accounting"
             }
           ],
           "answer": "",
@@ -2437,23 +2440,23 @@
           "id": "q93",
           "number": 93,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q93.mp3",
-          "prompt": "",
+          "prompt": "Why does the speaker say, \"there is a need for a skilled software engineer\"?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) To recommend an employee sign up for more training"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) To indicate that a project deadline will be extended"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) To approve a request to transfer"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) To suggest consulting with an expert"
             }
           ],
           "answer": "",
@@ -2464,23 +2467,23 @@
           "id": "q94",
           "number": 94,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q94.mp3",
-          "prompt": "",
+          "prompt": "What does the speaker want to discuss with the listener?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Some sales results"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Some client feedback"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) An office renovation"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) A work schedule"
             }
           ],
           "answer": "",
@@ -2491,23 +2494,23 @@
           "id": "q95",
           "number": 95,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q95.mp3",
-          "prompt": "",
+          "prompt": "Why are guests invited on the speaker's radio show?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) To discuss their businesses"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) To talk about local history"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) To teach communication skills"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) To offer travel tips"
             }
           ],
           "answer": "",
@@ -2518,23 +2521,23 @@
           "id": "q96",
           "number": 96,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q96.mp3",
-          "prompt": "",
+          "prompt": "What can the listeners do on a Web site?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) View photos of famous guests"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Sign up for a special service"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Read about upcoming programs"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Listen to previous episodes"
             }
           ],
           "answer": "",
@@ -2545,77 +2548,79 @@
           "id": "q97",
           "number": 97,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q97.mp3",
-          "prompt": "",
+          "prompt": "Look at the graphic. Which day is this episode being aired?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Tuesday"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Wednesday"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Thursday"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Friday"
             }
           ],
           "answer": "",
           "explanation": "",
-          "script": ""
+          "script": "",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q97.jpg"
         },
         {
           "id": "q98",
           "number": 98,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q98.mp3",
-          "prompt": "",
+          "prompt": "Look at the graphic. Where will the scarves and ties be displayed?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) On Shelf 1"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) On Shelf 2"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) On Shelf 3"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) On Shelf 4"
             }
           ],
           "answer": "",
           "explanation": "",
-          "script": ""
+          "script": "",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q98.jpg"
         },
         {
           "id": "q99",
           "number": 99,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q99.mp3",
-          "prompt": "",
+          "prompt": "What should be displayed near the cash registers?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) Coupons"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Hats"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Gloves"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Socks"
             }
           ],
           "answer": "",
@@ -2626,23 +2631,23 @@
           "id": "q100",
           "number": 100,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q100.mp3",
-          "prompt": "",
+          "prompt": "What should the listener expect to receive in an e-mail?",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": "(A) A payment schedule"
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": "(B) Photographs"
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": "(C) Shipping information"
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": "(D) Display measurements"
             }
           ],
           "answer": "",
