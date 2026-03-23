@@ -56,6 +56,17 @@ export default function PassageGroup({
         accentColor={accent}
       />
 
+      {/* Group image (shown once for graphic questions) */}
+      {questions[0]?.image && (
+        <div className={styles.groupImage}>
+          <img
+            src={questions[0].image}
+            alt={`${passageLabel || '問題'}の図表`}
+            className={styles.groupImageImg}
+          />
+        </div>
+      )}
+
       {/* Individual question cards (without audio) */}
       {questions.map((q) => {
         const isChecked = checkedQuestions.has(q.id);

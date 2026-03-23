@@ -69,8 +69,8 @@ export default function QuestionCard({
         <p className={styles.prompt}>{question.prompt}</p>
       )}
 
-      {/* Image */}
-      {question.image && (
+      {/* Image (skip when inside PassageGroup — shown at group level) */}
+      {!hideAudio && question.image && (
         <div className={styles.imageWrapper}>
           <img
             src={question.image}

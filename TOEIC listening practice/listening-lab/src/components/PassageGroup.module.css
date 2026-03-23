@@ -24,6 +24,20 @@
   color: var(--color-text-muted);
 }
 
+.groupImage {
+  display: flex;
+  justify-content: center;
+  padding: 8px 0;
+}
+
+.groupImageImg {
+  max-width: 100%;
+  max-height: 300px;
+  object-fit: contain;
+  border: 1px solid var(--color-border, #e0e0e0);
+  border-radius: 8px;
+}
+
 .replaySection {
   margin-top: 4px;
 }
