@@ -1,0 +1,233 @@
+{
+  "examType": "toeic",
+  "id": "toeic-kishutu3-1",
+  "meta": {
+    "title": "TOEIC L&R",
+    "subtitle": "既出問題集3 TEST 1",
+    "book": "既出問題集3",
+    "test": 1,
+    "totalTime": 45
+  },
+  "sections": [
+    {
+      "id": "part1",
+      "title": "Part 1",
+      "description": "写真描写問題 — 写真を見て、最も適切な描写を選びなさい。",
+      "questionCount": 6,
+      "choiceCount": 4,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q01.mp3",
+          "prompt": "",
+          "choices": [
+            { "label": "A", "text": "(A)" },
+            { "label": "B", "text": "(B)" },
+            { "label": "C", "text": "(C)" },
+            { "label": "D", "text": "(D)" }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q02.mp3",
+          "prompt": "",
+          "choices": [
+            { "label": "A", "text": "(A)" },
+            { "label": "B", "text": "(B)" },
+            { "label": "C", "text": "(C)" },
+            { "label": "D", "text": "(D)" }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q03.mp3",
+          "prompt": "",
+          "choices": [
+            { "label": "A", "text": "(A)" },
+            { "label": "B", "text": "(B)" },
+            { "label": "C", "text": "(C)" },
+            { "label": "D", "text": "(D)" }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q04.mp3",
+          "prompt": "",
+          "choices": [
+            { "label": "A", "text": "(A)" },
+            { "label": "B", "text": "(B)" },
+            { "label": "C", "text": "(C)" },
+            { "label": "D", "text": "(D)" }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q05.mp3",
+          "prompt": "",
+          "choices": [
+            { "label": "A", "text": "(A)" },
+            { "label": "B", "text": "(B)" },
+            { "label": "C", "text": "(C)" },
+            { "label": "D", "text": "(D)" }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q06.mp3",
+          "prompt": "",
+          "choices": [
+            { "label": "A", "text": "(A)" },
+            { "label": "B", "text": "(B)" },
+            { "label": "C", "text": "(C)" },
+            { "label": "D", "text": "(D)" }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "part2",
+      "title": "Part 2",
+      "description": "応答問題 — 質問または発言を聞き、最も適切な応答を選びなさい。",
+      "questionCount": 25,
+      "choiceCount": 3,
+      "questions": [
+        { "id": "q7", "number": 7, "audio": "audio/TOEIC/TOEIC 既出3-1/Q07.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q8", "number": 8, "audio": "audio/TOEIC/TOEIC 既出3-1/Q08.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q9", "number": 9, "audio": "audio/TOEIC/TOEIC 既出3-1/Q09.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q10", "number": 10, "audio": "audio/TOEIC/TOEIC 既出3-1/Q10.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q11", "number": 11, "audio": "audio/TOEIC/TOEIC 既出3-1/Q11.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q12", "number": 12, "audio": "audio/TOEIC/TOEIC 既出3-1/Q12.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q13", "number": 13, "audio": "audio/TOEIC/TOEIC 既出3-1/Q13.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q14", "number": 14, "audio": "audio/TOEIC/TOEIC 既出3-1/Q14.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q15", "number": 15, "audio": "audio/TOEIC/TOEIC 既出3-1/Q15.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q16", "number": 16, "audio": "audio/TOEIC/TOEIC 既出3-1/Q16.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q17", "number": 17, "audio": "audio/TOEIC/TOEIC 既出3-1/Q17.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q18", "number": 18, "audio": "audio/TOEIC/TOEIC 既出3-1/Q18.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q19", "number": 19, "audio": "audio/TOEIC/TOEIC 既出3-1/Q19.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q20", "number": 20, "audio": "audio/TOEIC/TOEIC 既出3-1/Q20.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q21", "number": 21, "audio": "audio/TOEIC/TOEIC 既出3-1/Q21.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q22", "number": 22, "audio": "audio/TOEIC/TOEIC 既出3-1/Q22.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q23", "number": 23, "audio": "audio/TOEIC/TOEIC 既出3-1/Q23.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q24", "number": 24, "audio": "audio/TOEIC/TOEIC 既出3-1/Q24.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q25", "number": 25, "audio": "audio/TOEIC/TOEIC 既出3-1/Q25.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q26", "number": 26, "audio": "audio/TOEIC/TOEIC 既出3-1/Q26.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q27", "number": 27, "audio": "audio/TOEIC/TOEIC 既出3-1/Q27.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q28", "number": 28, "audio": "audio/TOEIC/TOEIC 既出3-1/Q28.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q29", "number": 29, "audio": "audio/TOEIC/TOEIC 既出3-1/Q29.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q30", "number": 30, "audio": "audio/TOEIC/TOEIC 既出3-1/Q30.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q31", "number": 31, "audio": "audio/TOEIC/TOEIC 既出3-1/Q31.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" }
+      ]
+    },
+    {
+      "id": "part3",
+      "title": "Part 3",
+      "description": "会話問題 — 会話を聞き、各設問に対して最も適切な答えを選びなさい。",
+      "questionCount": 39,
+      "choiceCount": 4,
+      "questions": [
+        { "id": "q32", "number": 32, "audio": "audio/TOEIC/TOEIC 既出3-1/Q32.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q33", "number": 33, "audio": "audio/TOEIC/TOEIC 既出3-1/Q33.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q34", "number": 34, "audio": "audio/TOEIC/TOEIC 既出3-1/Q34.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q35", "number": 35, "audio": "audio/TOEIC/TOEIC 既出3-1/Q35.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q36", "number": 36, "audio": "audio/TOEIC/TOEIC 既出3-1/Q36.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q37", "number": 37, "audio": "audio/TOEIC/TOEIC 既出3-1/Q37.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q38", "number": 38, "audio": "audio/TOEIC/TOEIC 既出3-1/Q38.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q39", "number": 39, "audio": "audio/TOEIC/TOEIC 既出3-1/Q39.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q40", "number": 40, "audio": "audio/TOEIC/TOEIC 既出3-1/Q40.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q41", "number": 41, "audio": "audio/TOEIC/TOEIC 既出3-1/Q41.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q42", "number": 42, "audio": "audio/TOEIC/TOEIC 既出3-1/Q42.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q43", "number": 43, "audio": "audio/TOEIC/TOEIC 既出3-1/Q43.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q44", "number": 44, "audio": "audio/TOEIC/TOEIC 既出3-1/Q44.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q45", "number": 45, "audio": "audio/TOEIC/TOEIC 既出3-1/Q45.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q46", "number": 46, "audio": "audio/TOEIC/TOEIC 既出3-1/Q46.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q47", "number": 47, "audio": "audio/TOEIC/TOEIC 既出3-1/Q47.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q48", "number": 48, "audio": "audio/TOEIC/TOEIC 既出3-1/Q48.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q49", "number": 49, "audio": "audio/TOEIC/TOEIC 既出3-1/Q49.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q50", "number": 50, "audio": "audio/TOEIC/TOEIC 既出3-1/Q50.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q51", "number": 51, "audio": "audio/TOEIC/TOEIC 既出3-1/Q51.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q52", "number": 52, "audio": "audio/TOEIC/TOEIC 既出3-1/Q52.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q53", "number": 53, "audio": "audio/TOEIC/TOEIC 既出3-1/Q53.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q54", "number": 54, "audio": "audio/TOEIC/TOEIC 既出3-1/Q54.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q55", "number": 55, "audio": "audio/TOEIC/TOEIC 既出3-1/Q55.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q56", "number": 56, "audio": "audio/TOEIC/TOEIC 既出3-1/Q56.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q57", "number": 57, "audio": "audio/TOEIC/TOEIC 既出3-1/Q57.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q58", "number": 58, "audio": "audio/TOEIC/TOEIC 既出3-1/Q58.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q59", "number": 59, "audio": "audio/TOEIC/TOEIC 既出3-1/Q59.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q60", "number": 60, "audio": "audio/TOEIC/TOEIC 既出3-1/Q60.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q61", "number": 61, "audio": "audio/TOEIC/TOEIC 既出3-1/Q61.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q62", "number": 62, "audio": "audio/TOEIC/TOEIC 既出3-1/Q62.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q63", "number": 63, "audio": "audio/TOEIC/TOEIC 既出3-1/Q63.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q64", "number": 64, "audio": "audio/TOEIC/TOEIC 既出3-1/Q64.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q65", "number": 65, "audio": "audio/TOEIC/TOEIC 既出3-1/Q65.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q66", "number": 66, "audio": "audio/TOEIC/TOEIC 既出3-1/Q66.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q67", "number": 67, "audio": "audio/TOEIC/TOEIC 既出3-1/Q67.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q68", "number": 68, "audio": "audio/TOEIC/TOEIC 既出3-1/Q68.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q69", "number": 69, "audio": "audio/TOEIC/TOEIC 既出3-1/Q69.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q70", "number": 70, "audio": "audio/TOEIC/TOEIC 既出3-1/Q70.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" }
+      ]
+    },
+    {
+      "id": "part4",
+      "title": "Part 4",
+      "description": "説明文問題 — 説明文を聞き、各設問に対して最も適切な答えを選びなさい。",
+      "questionCount": 30,
+      "choiceCount": 4,
+      "questions": [
+        { "id": "q71", "number": 71, "audio": "audio/TOEIC/TOEIC 既出3-1/Q71.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q72", "number": 72, "audio": "audio/TOEIC/TOEIC 既出3-1/Q72.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q73", "number": 73, "audio": "audio/TOEIC/TOEIC 既出3-1/Q73.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q74", "number": 74, "audio": "audio/TOEIC/TOEIC 既出3-1/Q74.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q75", "number": 75, "audio": "audio/TOEIC/TOEIC 既出3-1/Q75.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q76", "number": 76, "audio": "audio/TOEIC/TOEIC 既出3-1/Q76.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q77", "number": 77, "audio": "audio/TOEIC/TOEIC 既出3-1/Q77.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q78", "number": 78, "audio": "audio/TOEIC/TOEIC 既出3-1/Q78.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q79", "number": 79, "audio": "audio/TOEIC/TOEIC 既出3-1/Q79.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q80", "number": 80, "audio": "audio/TOEIC/TOEIC 既出3-1/Q80.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q81", "number": 81, "audio": "audio/TOEIC/TOEIC 既出3-1/Q81.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q82", "number": 82, "audio": "audio/TOEIC/TOEIC 既出3-1/Q82.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q83", "number": 83, "audio": "audio/TOEIC/TOEIC 既出3-1/Q83.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q84", "number": 84, "audio": "audio/TOEIC/TOEIC 既出3-1/Q84.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q85", "number": 85, "audio": "audio/TOEIC/TOEIC 既出3-1/Q85.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q86", "number": 86, "audio": "audio/TOEIC/TOEIC 既出3-1/Q86.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q87", "number": 87, "audio": "audio/TOEIC/TOEIC 既出3-1/Q87.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q88", "number": 88, "audio": "audio/TOEIC/TOEIC 既出3-1/Q88.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q89", "number": 89, "audio": "audio/TOEIC/TOEIC 既出3-1/Q89.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q90", "number": 90, "audio": "audio/TOEIC/TOEIC 既出3-1/Q90.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q91", "number": 91, "audio": "audio/TOEIC/TOEIC 既出3-1/Q91.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q92", "number": 92, "audio": "audio/TOEIC/TOEIC 既出3-1/Q92.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q93", "number": 93, "audio": "audio/TOEIC/TOEIC 既出3-1/Q93.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q94", "number": 94, "audio": "audio/TOEIC/TOEIC 既出3-1/Q94.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q95", "number": 95, "audio": "audio/TOEIC/TOEIC 既出3-1/Q95.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q96", "number": 96, "audio": "audio/TOEIC/TOEIC 既出3-1/Q96.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q97", "number": 97, "audio": "audio/TOEIC/TOEIC 既出3-1/Q97.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q98", "number": 98, "audio": "audio/TOEIC/TOEIC 既出3-1/Q98.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q99", "number": 99, "audio": "audio/TOEIC/TOEIC 既出3-1/Q99.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
+        { "id": "q100", "number": 100, "audio": "audio/TOEIC/TOEIC 既出3-1/Q100.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" }
+      ]
+    }
+  ]
+}
