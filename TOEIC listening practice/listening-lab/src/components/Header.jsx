@@ -49,9 +49,9 @@ export default function Header({ onBack, accentColor, showSubtitle = false }) {
             />
           </svg>
           <div className={styles.titleGroup}>
-            <span className={styles.title}>Listening Lab</span>
+            <span className={styles.title}>TOEIC Listening Practice</span>
             {showSubtitle && (
-              <span className={styles.subtitle}>英語リスニング演習</span>
+              <span className={styles.subtitle}>TOEIC L&R リスニング演習</span>
             )}
           </div>
         </div>

@@ -1,7 +1,7 @@
 {
-  "name": "Listening Lab",
-  "short_name": "Listening Lab",
-  "description": "英語リスニング演習",
+  "name": "TOEIC Listening Practice",
+  "short_name": "TOEIC Listening",
+  "description": "TOEIC L&R リスニング演習",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0f0f1a",

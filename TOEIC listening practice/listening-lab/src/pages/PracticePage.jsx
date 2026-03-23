@@ -9,14 +9,14 @@ import ScoreBanner from '../components/ScoreBanner';
 import FocusedPracticeView from '../components/FocusedPracticeView';
 import useAudioPlayer from '../hooks/useAudioPlayer';
 import useHistory from '../hooks/useHistory';
-import { getExamColor } from '../utils/examConfig';
+import EXAM_CONFIG from '../utils/examConfig';
 import { getExamSet } from '../data/registry';
 import styles from './PracticePage.module.css';
 
 export default function PracticePage() {
-  const { examType, examId, sectionId } = useParams();
+  const { examId, sectionId } = useParams();
   const navigate = useNavigate();
-  const accent = getExamColor(examType);
+  const accent = EXAM_CONFIG.color;
   const examSet = getExamSet(examId);
   const { saveRecord } = useHistory();
 
@@ -174,7 +174,7 @@ export default function PracticePage() {
   if (!examSet) {
     return (
       <div className={styles.page}>
-        <Header onBack={() => navigate(`/${examType}`)} accentColor={accent} />
+        <Header onBack={() => navigate('/')} accentColor={accent} />
         <div className={styles.empty}>試験データが見つかりません</div>
       </div>
     );
@@ -183,7 +183,7 @@ export default function PracticePage() {
   if (questions.length === 0) {
     return (
       <div className={styles.page}>
-        <Header onBack={() => navigate(`/${examType}/${examId}`)} accentColor={accent} />
+        <Header onBack={() => navigate(`/${examId}`)} accentColor={accent} />
         <div className={styles.empty}>問題が見つかりません</div>
       </div>
     );
@@ -192,7 +192,7 @@ export default function PracticePage() {
   return (
     <div className={styles.page}>
       <Header
-        onBack={() => navigate(`/${examType}/${examId}`)}
+        onBack={() => navigate(`/${examId}`)}
         accentColor={accent}
       />
 
@@ -202,7 +202,7 @@ export default function PracticePage() {
           <h2 className={styles.sectionTitle}>{examSet.meta.title} — {sectionTitle}</h2>
         )}
 
-        {/* Instruction audio (e.g. Eiken part explanations) */}
+        {/* Instruction audio (e.g. part explanations) */}
         {instructionAudio && (
           <div className={styles.audioSection}>
             <MiniAudioPlayer
@@ -378,7 +378,7 @@ export default function PracticePage() {
               </button>
               <button
                 className={styles.backButton}
-                onClick={() => navigate(`/${examType}/${examId}`)}
+                onClick={() => navigate(`/${examId}`)}
               >
                 セクション選択に戻る
               </button>
