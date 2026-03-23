@@ -25,19 +25,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -53,19 +53,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -81,19 +81,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -109,19 +109,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -137,19 +137,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -164,19 +164,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             },
             {
               "label": "D",
-              "text": "(D)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -197,19 +197,19 @@
           "id": "q7",
           "number": 7,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q07.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -220,19 +220,19 @@
           "id": "q8",
           "number": 8,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q08.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -243,19 +243,19 @@
           "id": "q9",
           "number": 9,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q09.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -266,19 +266,19 @@
           "id": "q10",
           "number": 10,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q10.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -289,19 +289,19 @@
           "id": "q11",
           "number": 11,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q11.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -312,19 +312,19 @@
           "id": "q12",
           "number": 12,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q12.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -335,19 +335,19 @@
           "id": "q13",
           "number": 13,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q13.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -358,19 +358,19 @@
           "id": "q14",
           "number": 14,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q14.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -381,19 +381,19 @@
           "id": "q15",
           "number": 15,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q15.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -404,19 +404,19 @@
           "id": "q16",
           "number": 16,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q16.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -427,19 +427,19 @@
           "id": "q17",
           "number": 17,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q17.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -450,19 +450,19 @@
           "id": "q18",
           "number": 18,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q18.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -473,19 +473,19 @@
           "id": "q19",
           "number": 19,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q19.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -496,19 +496,19 @@
           "id": "q20",
           "number": 20,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q20.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -519,19 +519,19 @@
           "id": "q21",
           "number": 21,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q21.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -542,19 +542,19 @@
           "id": "q22",
           "number": 22,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q22.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -565,19 +565,19 @@
           "id": "q23",
           "number": 23,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q23.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -588,19 +588,19 @@
           "id": "q24",
           "number": 24,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q24.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -611,19 +611,19 @@
           "id": "q25",
           "number": 25,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q25.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -634,19 +634,19 @@
           "id": "q26",
           "number": 26,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q26.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -657,19 +657,19 @@
           "id": "q27",
           "number": 27,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q27.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -680,19 +680,19 @@
           "id": "q28",
           "number": 28,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q28.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -703,19 +703,19 @@
           "id": "q29",
           "number": 29,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q29.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -726,19 +726,19 @@
           "id": "q30",
           "number": 30,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q30.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -749,19 +749,19 @@
           "id": "q31",
           "number": 31,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q31.mp3",
-          "prompt": "Mark your answer on your answer sheet.",
+          "prompt": "",
           "choices": [
             {
               "label": "A",
-              "text": "(A)"
+              "text": ""
             },
             {
               "label": "B",
-              "text": "(B)"
+              "text": ""
             },
             {
               "label": "C",
-              "text": "(C)"
+              "text": ""
             }
           ],
           "answer": "",
@@ -785,19 +785,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A move to a new city"
+              "text": "A move to a new city"
             },
             {
               "label": "B",
-              "text": "(B) A business trip"
+              "text": "A business trip"
             },
             {
               "label": "C",
-              "text": "(C) A building tour"
+              "text": "A building tour"
             },
             {
               "label": "D",
-              "text": "(D) A meeting with visiting colleagues"
+              "text": "A meeting with visiting colleagues"
             }
           ],
           "answer": "",
@@ -812,19 +812,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) An accountant"
+              "text": "An accountant"
             },
             {
               "label": "B",
-              "text": "(B) An administrative assistant"
+              "text": "An administrative assistant"
             },
             {
               "label": "C",
-              "text": "(C) A marketing director"
+              "text": "A marketing director"
             },
             {
               "label": "D",
-              "text": "(D) A company president"
+              "text": "A company president"
             }
           ],
           "answer": "",
@@ -839,19 +839,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A building map"
+              "text": "A building map"
             },
             {
               "label": "B",
-              "text": "(B) A room key"
+              "text": "A room key"
             },
             {
               "label": "C",
-              "text": "(C) An ID card"
+              "text": "An ID card"
             },
             {
               "label": "D",
-              "text": "(D) A parking pass"
+              "text": "A parking pass"
             }
           ],
           "answer": "",
@@ -866,19 +866,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Writing a budget"
+              "text": "Writing a budget"
             },
             {
               "label": "B",
-              "text": "(B) Reviewing job applications"
+              "text": "Reviewing job applications"
             },
             {
               "label": "C",
-              "text": "(C) Organizing a company newsletter"
+              "text": "Organizing a company newsletter"
             },
             {
               "label": "D",
-              "text": "(D) Updating an employee handbook"
+              "text": "Updating an employee handbook"
             }
           ],
           "answer": "",
@@ -893,19 +893,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Organize a trade show"
+              "text": "Organize a trade show"
             },
             {
               "label": "B",
-              "text": "(B) Open a new store"
+              "text": "Open a new store"
             },
             {
               "label": "C",
-              "text": "(C) Redesign a product catalog"
+              "text": "Redesign a product catalog"
             },
             {
               "label": "D",
-              "text": "(D) Hire some team members"
+              "text": "Hire some team members"
             }
           ],
           "answer": "",
@@ -920,19 +920,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Order some business cards"
+              "text": "Order some business cards"
             },
             {
               "label": "B",
-              "text": "(B) Write a press release"
+              "text": "Write a press release"
             },
             {
               "label": "C",
-              "text": "(C) Provide some additional details"
+              "text": "Provide some additional details"
             },
             {
               "label": "D",
-              "text": "(D) Set up a meeting time"
+              "text": "Set up a meeting time"
             }
           ],
           "answer": "",
@@ -947,19 +947,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A job interview"
+              "text": "A job interview"
             },
             {
               "label": "B",
-              "text": "(B) A fashion show"
+              "text": "A fashion show"
             },
             {
               "label": "C",
-              "text": "(C) A family celebration"
+              "text": "A family celebration"
             },
             {
               "label": "D",
-              "text": "(D) A television appearance"
+              "text": "A television appearance"
             }
           ],
           "answer": "",
@@ -974,19 +974,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) The fabric"
+              "text": "The fabric"
             },
             {
               "label": "B",
-              "text": "(B) The price"
+              "text": "The price"
             },
             {
               "label": "C",
-              "text": "(C) The style"
+              "text": "The style"
             },
             {
               "label": "D",
-              "text": "(D) The color"
+              "text": "The color"
             }
           ],
           "answer": "",
@@ -1001,19 +1001,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Some accessories"
+              "text": "Some accessories"
             },
             {
               "label": "B",
-              "text": "(B) Alterations"
+              "text": "Alterations"
             },
             {
               "label": "C",
-              "text": "(C) Sales tax"
+              "text": "Sales tax"
             },
             {
               "label": "D",
-              "text": "(D) Delivery"
+              "text": "Delivery"
             }
           ],
           "answer": "",
@@ -1028,19 +1028,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A legal consulting firm"
+              "text": "A legal consulting firm"
             },
             {
               "label": "B",
-              "text": "(B) An architecture firm"
+              "text": "An architecture firm"
             },
             {
               "label": "C",
-              "text": "(C) A film production company"
+              "text": "A film production company"
             },
             {
               "label": "D",
-              "text": "(D) A book publishing company"
+              "text": "A book publishing company"
             }
           ],
           "answer": "",
@@ -1055,19 +1055,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) The length of a project"
+              "text": "The length of a project"
             },
             {
               "label": "B",
-              "text": "(B) The cost of an order"
+              "text": "The cost of an order"
             },
             {
               "label": "C",
-              "text": "(C) The opinion of the public"
+              "text": "The opinion of the public"
             },
             {
               "label": "D",
-              "text": "(D) The skills of some workers"
+              "text": "The skills of some workers"
             }
           ],
           "answer": "",
@@ -1082,19 +1082,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Submit an application"
+              "text": "Submit an application"
             },
             {
               "label": "B",
-              "text": "(B) Speak at a meeting"
+              "text": "Speak at a meeting"
             },
             {
               "label": "C",
-              "text": "(C) Review some books"
+              "text": "Review some books"
             },
             {
               "label": "D",
-              "text": "(D) Measure a space"
+              "text": "Measure a space"
             }
           ],
           "answer": "",
@@ -1109,19 +1109,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A store manager"
+              "text": "A store manager"
             },
             {
               "label": "B",
-              "text": "(B) A construction worker"
+              "text": "A construction worker"
             },
             {
               "label": "C",
-              "text": "(C) A journalist"
+              "text": "A journalist"
             },
             {
               "label": "D",
-              "text": "(D) An artist"
+              "text": "An artist"
             }
           ],
           "answer": "",
@@ -1136,19 +1136,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Some walls are being painted."
+              "text": "Some walls are being painted."
             },
             {
               "label": "B",
-              "text": "(B) Some floors are being replaced."
+              "text": "Some floors are being replaced."
             },
             {
               "label": "C",
-              "text": "(C) Some windows are being installed."
+              "text": "Some windows are being installed."
             },
             {
               "label": "D",
-              "text": "(D) Some light fixtures are being repaired."
+              "text": "Some light fixtures are being repaired."
             }
           ],
           "answer": "",
@@ -1163,19 +1163,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Visit a gift shop"
+              "text": "Visit a gift shop"
             },
             {
               "label": "B",
-              "text": "(B) Send a package"
+              "text": "Send a package"
             },
             {
               "label": "C",
-              "text": "(C) Wait for a bus"
+              "text": "Wait for a bus"
             },
             {
               "label": "D",
-              "text": "(D) Take a photograph"
+              "text": "Take a photograph"
             }
           ],
           "answer": "",
@@ -1190,19 +1190,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Electronics"
+              "text": "Electronics"
             },
             {
               "label": "B",
-              "text": "(B) Clothing"
+              "text": "Clothing"
             },
             {
               "label": "C",
-              "text": "(C) Food"
+              "text": "Food"
             },
             {
               "label": "D",
-              "text": "(D) Automobiles"
+              "text": "Automobiles"
             }
           ],
           "answer": "",
@@ -1217,19 +1217,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Some software is expensive."
+              "text": "Some software is expensive."
             },
             {
               "label": "B",
-              "text": "(B) A color is very bright."
+              "text": "A color is very bright."
             },
             {
               "label": "C",
-              "text": "(C) The man has completed a report."
+              "text": "The man has completed a report."
             },
             {
               "label": "D",
-              "text": "(D) The man bought a new car."
+              "text": "The man bought a new car."
             }
           ],
           "answer": "",
@@ -1244,19 +1244,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) To request assistance reviewing a document"
+              "text": "To request assistance reviewing a document"
             },
             {
               "label": "B",
-              "text": "(B) To recommend using a document as a reference"
+              "text": "To recommend using a document as a reference"
             },
             {
               "label": "C",
-              "text": "(C) To report that a task has been completed"
+              "text": "To report that a task has been completed"
             },
             {
               "label": "D",
-              "text": "(D) To indicate that a file is in the wrong location"
+              "text": "To indicate that a file is in the wrong location"
             }
           ],
           "answer": "",
@@ -1271,19 +1271,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) An executive will visit."
+              "text": "An executive will visit."
             },
             {
               "label": "B",
-              "text": "(B) An employee will retire."
+              "text": "An employee will retire."
             },
             {
               "label": "C",
-              "text": "(C) A product will be released."
+              "text": "A product will be released."
             },
             {
               "label": "D",
-              "text": "(D) A study will be completed."
+              "text": "A study will be completed."
             }
           ],
           "answer": "",
@@ -1298,19 +1298,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Where he would be working"
+              "text": "Where he would be working"
             },
             {
               "label": "B",
-              "text": "(B) When he would be starting a job"
+              "text": "When he would be starting a job"
             },
             {
               "label": "C",
-              "text": "(C) How to get to an office building"
+              "text": "How to get to an office building"
             },
             {
               "label": "D",
-              "text": "(D) Why an event time has changed"
+              "text": "Why an event time has changed"
             }
           ],
           "answer": "",
@@ -1325,19 +1325,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A work vehicle"
+              "text": "A work vehicle"
             },
             {
               "label": "B",
-              "text": "(B) A private office"
+              "text": "A private office"
             },
             {
               "label": "C",
-              "text": "(C) Moving expenses"
+              "text": "Moving expenses"
             },
             {
               "label": "D",
-              "text": "(D) Visitors' meals"
+              "text": "Visitors' meals"
             }
           ],
           "answer": "",
@@ -1352,19 +1352,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Manufacturing"
+              "text": "Manufacturing"
             },
             {
               "label": "B",
-              "text": "(B) Agriculture"
+              "text": "Agriculture"
             },
             {
               "label": "C",
-              "text": "(C) Transportation"
+              "text": "Transportation"
             },
             {
               "label": "D",
-              "text": "(D) Construction"
+              "text": "Construction"
             }
           ],
           "answer": "",
@@ -1379,19 +1379,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Increase tourism"
+              "text": "Increase tourism"
             },
             {
               "label": "B",
-              "text": "(B) Generate electricity"
+              "text": "Generate electricity"
             },
             {
               "label": "C",
-              "text": "(C) Preserve natural resources"
+              "text": "Preserve natural resources"
             },
             {
               "label": "D",
-              "text": "(D) Improve property values"
+              "text": "Improve property values"
             }
           ],
           "answer": "",
@@ -1406,19 +1406,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Permits need to be approved."
+              "text": "Permits need to be approved."
             },
             {
               "label": "B",
-              "text": "(B) Employees need to be trained."
+              "text": "Employees need to be trained."
             },
             {
               "label": "C",
-              "text": "(C) Materials need to be ordered."
+              "text": "Materials need to be ordered."
             },
             {
               "label": "D",
-              "text": "(D) Inspections need to be made."
+              "text": "Inspections need to be made."
             }
           ],
           "answer": "",
@@ -1433,19 +1433,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) She has time to help."
+              "text": "She has time to help."
             },
             {
               "label": "B",
-              "text": "(B) She plans to leave work early."
+              "text": "She plans to leave work early."
             },
             {
               "label": "C",
-              "text": "(C) Her computer is not working."
+              "text": "Her computer is not working."
             },
             {
               "label": "D",
-              "text": "(D) She has not received an assignment."
+              "text": "She has not received an assignment."
             }
           ],
           "answer": "",
@@ -1460,19 +1460,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) It needs to be refrigerated."
+              "text": "It needs to be refrigerated."
             },
             {
               "label": "B",
-              "text": "(B) It has expired."
+              "text": "It has expired."
             },
             {
               "label": "C",
-              "text": "(C) The dosage has changed."
+              "text": "The dosage has changed."
             },
             {
               "label": "D",
-              "text": "(D) The supply is limited."
+              "text": "The supply is limited."
             }
           ],
           "answer": "",
@@ -1487,19 +1487,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Installing some shelves"
+              "text": "Installing some shelves"
             },
             {
               "label": "B",
-              "text": "(B) Confirming with a doctor"
+              "text": "Confirming with a doctor"
             },
             {
               "label": "C",
-              "text": "(C) Increasing an order amount"
+              "text": "Increasing an order amount"
             },
             {
               "label": "D",
-              "text": "(D) Recommending a different medication"
+              "text": "Recommending a different medication"
             }
           ],
           "answer": "",
@@ -1514,19 +1514,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A travel agent"
+              "text": "A travel agent"
             },
             {
               "label": "B",
-              "text": "(B) A bank teller"
+              "text": "A bank teller"
             },
             {
               "label": "C",
-              "text": "(C) A lawyer"
+              "text": "A lawyer"
             },
             {
               "label": "D",
-              "text": "(D) A mail-room worker"
+              "text": "A mail-room worker"
             }
           ],
           "answer": "",
@@ -1541,19 +1541,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A user agreement"
+              "text": "A user agreement"
             },
             {
               "label": "B",
-              "text": "(B) An employment contract"
+              "text": "An employment contract"
             },
             {
               "label": "C",
-              "text": "(C) A list of travel expenses"
+              "text": "A list of travel expenses"
             },
             {
               "label": "D",
-              "text": "(D) An insurance certificate"
+              "text": "An insurance certificate"
             }
           ],
           "answer": "",
@@ -1568,19 +1568,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) To be included in a personnel file"
+              "text": "To be included in a personnel file"
             },
             {
               "label": "B",
-              "text": "(B) To use in a merger negotiation"
+              "text": "To use in a merger negotiation"
             },
             {
               "label": "C",
-              "text": "(C) To meet a production deadline"
+              "text": "To meet a production deadline"
             },
             {
               "label": "D",
-              "text": "(D) To avoid paying a fine"
+              "text": "To avoid paying a fine"
             }
           ],
           "answer": "",
@@ -1595,19 +1595,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) $4,456"
+              "text": "$4,456"
             },
             {
               "label": "B",
-              "text": "(B) $1,300"
+              "text": "$1,300"
             },
             {
               "label": "C",
-              "text": "(C) $10,200"
+              "text": "$10,200"
             },
             {
               "label": "D",
-              "text": "(D) $400"
+              "text": "$400"
             }
           ],
           "answer": "",
@@ -1623,19 +1623,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Business hours have changed."
+              "text": "Business hours have changed."
             },
             {
               "label": "B",
-              "text": "(B) A price was wrong."
+              "text": "A price was wrong."
             },
             {
               "label": "C",
-              "text": "(C) Some staff arrived late."
+              "text": "Some staff arrived late."
             },
             {
               "label": "D",
-              "text": "(D) A request could not be fulfilled."
+              "text": "A request could not be fulfilled."
             }
           ],
           "answer": "",
@@ -1650,19 +1650,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) It has a nice view."
+              "text": "It has a nice view."
             },
             {
               "label": "B",
-              "text": "(B) It is conveniently located."
+              "text": "It is conveniently located."
             },
             {
               "label": "C",
-              "text": "(C) It is tastefully decorated."
+              "text": "It is tastefully decorated."
             },
             {
               "label": "D",
-              "text": "(D) It can host large events."
+              "text": "It can host large events."
             }
           ],
           "answer": "",
@@ -1677,19 +1677,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A popular band is coming to town."
+              "text": "A popular band is coming to town."
             },
             {
               "label": "B",
-              "text": "(B) The woman plays a musical instrument."
+              "text": "The woman plays a musical instrument."
             },
             {
               "label": "C",
-              "text": "(C) The woman was able to get concert tickets."
+              "text": "The woman was able to get concert tickets."
             },
             {
               "label": "D",
-              "text": "(D) Some musicians scheduled a second concert."
+              "text": "Some musicians scheduled a second concert."
             }
           ],
           "answer": "",
@@ -1705,19 +1705,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Section 1"
+              "text": "Section 1"
             },
             {
               "label": "B",
-              "text": "(B) Section 2"
+              "text": "Section 2"
             },
             {
               "label": "C",
-              "text": "(C) Section 3"
+              "text": "Section 3"
             },
             {
               "label": "D",
-              "text": "(D) Section 4"
+              "text": "Section 4"
             }
           ],
           "answer": "",
@@ -1732,19 +1732,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Practicing with her band"
+              "text": "Practicing with her band"
             },
             {
               "label": "B",
-              "text": "(B) Entering a radio contest"
+              "text": "Entering a radio contest"
             },
             {
               "label": "C",
-              "text": "(C) Moving to Boston"
+              "text": "Moving to Boston"
             },
             {
               "label": "D",
-              "text": "(D) Attending a party"
+              "text": "Attending a party"
             }
           ],
           "answer": "",
@@ -1759,19 +1759,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A maintenance worker"
+              "text": "A maintenance worker"
             },
             {
               "label": "B",
-              "text": "(B) A property manager"
+              "text": "A property manager"
             },
             {
               "label": "C",
-              "text": "(C) A real estate agent"
+              "text": "A real estate agent"
             },
             {
               "label": "D",
-              "text": "(D) A bank employee"
+              "text": "A bank employee"
             }
           ],
           "answer": "",
@@ -1787,19 +1787,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Tanaka"
+              "text": "Tanaka"
             },
             {
               "label": "B",
-              "text": "(B) Zhao"
+              "text": "Zhao"
             },
             {
               "label": "C",
-              "text": "(C) Mukherjee"
+              "text": "Mukherjee"
             },
             {
               "label": "D",
-              "text": "(D) Tremblay"
+              "text": "Tremblay"
             }
           ],
           "answer": "",
@@ -1814,19 +1814,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Fill out a registration form"
+              "text": "Fill out a registration form"
             },
             {
               "label": "B",
-              "text": "(B) Meet with some neighbors"
+              "text": "Meet with some neighbors"
             },
             {
               "label": "C",
-              "text": "(C) Order some furniture"
+              "text": "Order some furniture"
             },
             {
               "label": "D",
-              "text": "(D) Make a payment"
+              "text": "Make a payment"
             }
           ],
           "answer": "",
@@ -1850,19 +1850,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A hair salon"
+              "text": "A hair salon"
             },
             {
               "label": "B",
-              "text": "(B) An insurance company"
+              "text": "An insurance company"
             },
             {
               "label": "C",
-              "text": "(C) A car dealership"
+              "text": "A car dealership"
             },
             {
               "label": "D",
-              "text": "(D) An eye doctor's office"
+              "text": "An eye doctor's office"
             }
           ],
           "answer": "",
@@ -1877,19 +1877,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) It is too far away."
+              "text": "It is too far away."
             },
             {
               "label": "B",
-              "text": "(B) It needs to be rescheduled."
+              "text": "It needs to be rescheduled."
             },
             {
               "label": "C",
-              "text": "(C) It is too expensive."
+              "text": "It is too expensive."
             },
             {
               "label": "D",
-              "text": "(D) It should be with a different person."
+              "text": "It should be with a different person."
             }
           ],
           "answer": "",
@@ -1904,19 +1904,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Payment methods"
+              "text": "Payment methods"
             },
             {
               "label": "B",
-              "text": "(B) Delivery options"
+              "text": "Delivery options"
             },
             {
               "label": "C",
-              "text": "(C) A warranty"
+              "text": "A warranty"
             },
             {
               "label": "D",
-              "text": "(D) A job opening"
+              "text": "A job opening"
             }
           ],
           "answer": "",
@@ -1931,19 +1931,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A factory tour"
+              "text": "A factory tour"
             },
             {
               "label": "B",
-              "text": "(B) A baking competition"
+              "text": "A baking competition"
             },
             {
               "label": "C",
-              "text": "(C) A grand opening"
+              "text": "A grand opening"
             },
             {
               "label": "D",
-              "text": "(D) An art show"
+              "text": "An art show"
             }
           ],
           "answer": "",
@@ -1958,19 +1958,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A poster"
+              "text": "A poster"
             },
             {
               "label": "B",
-              "text": "(B) A promotional mug"
+              "text": "A promotional mug"
             },
             {
               "label": "C",
-              "text": "(C) A company T-shirt"
+              "text": "A company T-shirt"
             },
             {
               "label": "D",
-              "text": "(D) A photograph"
+              "text": "A photograph"
             }
           ],
           "answer": "",
@@ -1985,19 +1985,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Find a recipe"
+              "text": "Find a recipe"
             },
             {
               "label": "B",
-              "text": "(B) Fill out an entry form"
+              "text": "Fill out an entry form"
             },
             {
               "label": "C",
-              "text": "(C) View a product list"
+              "text": "View a product list"
             },
             {
               "label": "D",
-              "text": "(D) Download a coupon"
+              "text": "Download a coupon"
             }
           ],
           "answer": "",
@@ -2012,19 +2012,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) At a sports arena"
+              "text": "At a sports arena"
             },
             {
               "label": "B",
-              "text": "(B) At a concert hall"
+              "text": "At a concert hall"
             },
             {
               "label": "C",
-              "text": "(C) At an art museum"
+              "text": "At an art museum"
             },
             {
               "label": "D",
-              "text": "(D) At a movie theater"
+              "text": "At a movie theater"
             }
           ],
           "answer": "",
@@ -2039,19 +2039,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A presenter has been delayed."
+              "text": "A presenter has been delayed."
             },
             {
               "label": "B",
-              "text": "(B) Some lights have gone out."
+              "text": "Some lights have gone out."
             },
             {
               "label": "C",
-              "text": "(C) A sound system is broken."
+              "text": "A sound system is broken."
             },
             {
               "label": "D",
-              "text": "(D) A construction project is noisy."
+              "text": "A construction project is noisy."
             }
           ],
           "answer": "",
@@ -2066,19 +2066,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A promotional item"
+              "text": "A promotional item"
             },
             {
               "label": "B",
-              "text": "(B) A parking voucher"
+              "text": "A parking voucher"
             },
             {
               "label": "C",
-              "text": "(C) Discounted snacks"
+              "text": "Discounted snacks"
             },
             {
               "label": "D",
-              "text": "(D) Free tickets"
+              "text": "Free tickets"
             }
           ],
           "answer": "",
@@ -2093,19 +2093,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A technology conference"
+              "text": "A technology conference"
             },
             {
               "label": "B",
-              "text": "(B) A product demonstration"
+              "text": "A product demonstration"
             },
             {
               "label": "C",
-              "text": "(C) A company fund-raiser"
+              "text": "A company fund-raiser"
             },
             {
               "label": "D",
-              "text": "(D) A training workshop"
+              "text": "A training workshop"
             }
           ],
           "answer": "",
@@ -2120,19 +2120,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) To propose moving to a larger venue"
+              "text": "To propose moving to a larger venue"
             },
             {
               "label": "B",
-              "text": "(B) To indicate that some advertising was successful"
+              "text": "To indicate that some advertising was successful"
             },
             {
               "label": "C",
-              "text": "(C) To emphasize the importance of working quickly"
+              "text": "To emphasize the importance of working quickly"
             },
             {
               "label": "D",
-              "text": "(D) To suggest more volunteers are needed"
+              "text": "To suggest more volunteers are needed"
             }
           ],
           "answer": "",
@@ -2147,19 +2147,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Provide feedback"
+              "text": "Provide feedback"
             },
             {
               "label": "B",
-              "text": "(B) Silence mobile phones"
+              "text": "Silence mobile phones"
             },
             {
               "label": "C",
-              "text": "(C) Review an event program"
+              "text": "Review an event program"
             },
             {
               "label": "D",
-              "text": "(D) Enjoy some refreshments"
+              "text": "Enjoy some refreshments"
             }
           ],
           "answer": "",
@@ -2174,19 +2174,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) To support local businesses"
+              "text": "To support local businesses"
             },
             {
               "label": "B",
-              "text": "(B) To promote tourism"
+              "text": "To promote tourism"
             },
             {
               "label": "C",
-              "text": "(C) To decrease traffic"
+              "text": "To decrease traffic"
             },
             {
               "label": "D",
-              "text": "(D) To reduce government spending"
+              "text": "To reduce government spending"
             }
           ],
           "answer": "",
@@ -2201,19 +2201,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Commuters"
+              "text": "Commuters"
             },
             {
               "label": "B",
-              "text": "(B) Senior citizens"
+              "text": "Senior citizens"
             },
             {
               "label": "C",
-              "text": "(C) Students"
+              "text": "Students"
             },
             {
               "label": "D",
-              "text": "(D) City officials"
+              "text": "City officials"
             }
           ],
           "answer": "",
@@ -2228,19 +2228,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A survey will be distributed."
+              "text": "A survey will be distributed."
             },
             {
               "label": "B",
-              "text": "(B) A new director will take over."
+              "text": "A new director will take over."
             },
             {
               "label": "C",
-              "text": "(C) A bus line will be added."
+              "text": "A bus line will be added."
             },
             {
               "label": "D",
-              "text": "(D) A program evaluation will take place."
+              "text": "A program evaluation will take place."
             }
           ],
           "answer": "",
@@ -2255,19 +2255,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A sports competition"
+              "text": "A sports competition"
             },
             {
               "label": "B",
-              "text": "(B) A music festival"
+              "text": "A music festival"
             },
             {
               "label": "C",
-              "text": "(C) A cooking demonstration"
+              "text": "A cooking demonstration"
             },
             {
               "label": "D",
-              "text": "(D) A historical play"
+              "text": "A historical play"
             }
           ],
           "answer": "",
@@ -2282,19 +2282,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) To encourage the listeners to enter a contest"
+              "text": "To encourage the listeners to enter a contest"
             },
             {
               "label": "B",
-              "text": "(B) To suggest that the listeners arrive early"
+              "text": "To suggest that the listeners arrive early"
             },
             {
               "label": "C",
-              "text": "(C) To complain that an event space is too small"
+              "text": "To complain that an event space is too small"
             },
             {
               "label": "D",
-              "text": "(D) To praise the results of a marketing plan"
+              "text": "To praise the results of a marketing plan"
             }
           ],
           "answer": "",
@@ -2309,19 +2309,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A new venue will open."
+              "text": "A new venue will open."
             },
             {
               "label": "B",
-              "text": "(B) A prize winner will be announced."
+              "text": "A prize winner will be announced."
             },
             {
               "label": "C",
-              "text": "(C) An interview will take place."
+              "text": "An interview will take place."
             },
             {
               "label": "D",
-              "text": "(D) A video will be filmed."
+              "text": "A video will be filmed."
             }
           ],
           "answer": "",
@@ -2336,19 +2336,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A computer company"
+              "text": "A computer company"
             },
             {
               "label": "B",
-              "text": "(B) A construction firm"
+              "text": "A construction firm"
             },
             {
               "label": "C",
-              "text": "(C) A furniture manufacturer"
+              "text": "A furniture manufacturer"
             },
             {
               "label": "D",
-              "text": "(D) An office-supply distributor"
+              "text": "An office-supply distributor"
             }
           ],
           "answer": "",
@@ -2363,19 +2363,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) It is inexpensive."
+              "text": "It is inexpensive."
             },
             {
               "label": "B",
-              "text": "(B) It is durable."
+              "text": "It is durable."
             },
             {
               "label": "C",
-              "text": "(C) It is lightweight."
+              "text": "It is lightweight."
             },
             {
               "label": "D",
-              "text": "(D) It comes in many colors."
+              "text": "It comes in many colors."
             }
           ],
           "answer": "",
@@ -2390,19 +2390,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Sign up for a mailing list"
+              "text": "Sign up for a mailing list"
             },
             {
               "label": "B",
-              "text": "(B) Watch an instructional video"
+              "text": "Watch an instructional video"
             },
             {
               "label": "C",
-              "text": "(C) Enter a contest"
+              "text": "Enter a contest"
             },
             {
               "label": "D",
-              "text": "(D) Look at a sample"
+              "text": "Look at a sample"
             }
           ],
           "answer": "",
@@ -2417,19 +2417,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Product Development"
+              "text": "Product Development"
             },
             {
               "label": "B",
-              "text": "(B) Human Resources"
+              "text": "Human Resources"
             },
             {
               "label": "C",
-              "text": "(C) Legal"
+              "text": "Legal"
             },
             {
               "label": "D",
-              "text": "(D) Accounting"
+              "text": "Accounting"
             }
           ],
           "answer": "",
@@ -2444,19 +2444,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) To recommend an employee sign up for more training"
+              "text": "To recommend an employee sign up for more training"
             },
             {
               "label": "B",
-              "text": "(B) To indicate that a project deadline will be extended"
+              "text": "To indicate that a project deadline will be extended"
             },
             {
               "label": "C",
-              "text": "(C) To approve a request to transfer"
+              "text": "To approve a request to transfer"
             },
             {
               "label": "D",
-              "text": "(D) To suggest consulting with an expert"
+              "text": "To suggest consulting with an expert"
             }
           ],
           "answer": "",
@@ -2471,19 +2471,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Some sales results"
+              "text": "Some sales results"
             },
             {
               "label": "B",
-              "text": "(B) Some client feedback"
+              "text": "Some client feedback"
             },
             {
               "label": "C",
-              "text": "(C) An office renovation"
+              "text": "An office renovation"
             },
             {
               "label": "D",
-              "text": "(D) A work schedule"
+              "text": "A work schedule"
             }
           ],
           "answer": "",
@@ -2498,19 +2498,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) To discuss their businesses"
+              "text": "To discuss their businesses"
             },
             {
               "label": "B",
-              "text": "(B) To talk about local history"
+              "text": "To talk about local history"
             },
             {
               "label": "C",
-              "text": "(C) To teach communication skills"
+              "text": "To teach communication skills"
             },
             {
               "label": "D",
-              "text": "(D) To offer travel tips"
+              "text": "To offer travel tips"
             }
           ],
           "answer": "",
@@ -2526,19 +2526,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) View photos of famous guests"
+              "text": "View photos of famous guests"
             },
             {
               "label": "B",
-              "text": "(B) Sign up for a special service"
+              "text": "Sign up for a special service"
             },
             {
               "label": "C",
-              "text": "(C) Read about upcoming programs"
+              "text": "Read about upcoming programs"
             },
             {
               "label": "D",
-              "text": "(D) Listen to previous episodes"
+              "text": "Listen to previous episodes"
             }
           ],
           "answer": "",
@@ -2553,19 +2553,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Tuesday"
+              "text": "Tuesday"
             },
             {
               "label": "B",
-              "text": "(B) Wednesday"
+              "text": "Wednesday"
             },
             {
               "label": "C",
-              "text": "(C) Thursday"
+              "text": "Thursday"
             },
             {
               "label": "D",
-              "text": "(D) Friday"
+              "text": "Friday"
             }
           ],
           "answer": "",
@@ -2580,19 +2580,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) On Shelf 1"
+              "text": "On Shelf 1"
             },
             {
               "label": "B",
-              "text": "(B) On Shelf 2"
+              "text": "On Shelf 2"
             },
             {
               "label": "C",
-              "text": "(C) On Shelf 3"
+              "text": "On Shelf 3"
             },
             {
               "label": "D",
-              "text": "(D) On Shelf 4"
+              "text": "On Shelf 4"
             }
           ],
           "answer": "",
@@ -2608,19 +2608,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) Coupons"
+              "text": "Coupons"
             },
             {
               "label": "B",
-              "text": "(B) Hats"
+              "text": "Hats"
             },
             {
               "label": "C",
-              "text": "(C) Gloves"
+              "text": "Gloves"
             },
             {
               "label": "D",
-              "text": "(D) Socks"
+              "text": "Socks"
             }
           ],
           "answer": "",
@@ -2635,19 +2635,19 @@
           "choices": [
             {
               "label": "A",
-              "text": "(A) A payment schedule"
+              "text": "A payment schedule"
             },
             {
               "label": "B",
-              "text": "(B) Photographs"
+              "text": "Photographs"
             },
             {
               "label": "C",
-              "text": "(C) Shipping information"
+              "text": "Shipping information"
             },
             {
               "label": "D",
-              "text": "(D) Display measurements"
+              "text": "Display measurements"
             }
           ],
           "answer": "",
