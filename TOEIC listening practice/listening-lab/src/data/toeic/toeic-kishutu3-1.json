@@ -20,6 +20,7 @@
           "id": "q1",
           "number": 1,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q01.mp3",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q01.jpg",
           "prompt": "",
           "choices": [
             { "label": "A", "text": "(A)" },
@@ -35,6 +36,7 @@
           "id": "q2",
           "number": 2,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q02.mp3",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q02.jpg",
           "prompt": "",
           "choices": [
             { "label": "A", "text": "(A)" },
@@ -50,6 +52,7 @@
           "id": "q3",
           "number": 3,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q03.mp3",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q03.jpg",
           "prompt": "",
           "choices": [
             { "label": "A", "text": "(A)" },
@@ -65,6 +68,7 @@
           "id": "q4",
           "number": 4,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q04.mp3",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q04.jpg",
           "prompt": "",
           "choices": [
             { "label": "A", "text": "(A)" },
@@ -80,6 +84,7 @@
           "id": "q5",
           "number": 5,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q05.mp3",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q05.jpg",
           "prompt": "",
           "choices": [
             { "label": "A", "text": "(A)" },
