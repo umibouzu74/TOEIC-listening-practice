@@ -20,7 +20,7 @@
           "id": "q1",
           "number": 1,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q01.mp3",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q01.jpg",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q1.jpg",
           "prompt": "",
           "choices": [
             {
@@ -48,7 +48,7 @@
           "id": "q2",
           "number": 2,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q02.mp3",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q02.jpg",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q2.jpg",
           "prompt": "",
           "choices": [
             {
@@ -76,7 +76,7 @@
           "id": "q3",
           "number": 3,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q03.mp3",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q03.jpg",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q3.jpg",
           "prompt": "",
           "choices": [
             {
@@ -104,7 +104,7 @@
           "id": "q4",
           "number": 4,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q04.mp3",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q04.jpg",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q4.jpg",
           "prompt": "",
           "choices": [
             {
@@ -132,7 +132,7 @@
           "id": "q5",
           "number": 5,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q05.mp3",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q05.jpg",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q5.jpg",
           "prompt": "",
           "choices": [
             {
@@ -182,7 +182,7 @@
           "answer": "",
           "explanation": "",
           "script": "",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q06.jpg"
+          "image": "images/TOEIC/TOEIC 既出3-1/Q6.jpg"
         }
       ]
     },
