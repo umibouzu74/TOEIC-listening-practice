@@ -177,7 +177,10 @@ for (const row of questionsRaw) {
     audio: audioPath || undefined,
     passageAudio: passageAudioPath || undefined,
     passageLabel: String(row.passageLabel || "").trim() || undefined,
-    prompt: String(row.prompt || "").trim() || undefined,
+    prompt: String(row.prompt || "").trim() ||
+      (examType === "toeic" && secId === "part2"
+        ? "Mark your answer on your answer sheet."
+        : undefined),
     promptJa: String(row.promptJa || "").trim() || undefined,
     choices,
     answer: String(row.answer || "").trim(),

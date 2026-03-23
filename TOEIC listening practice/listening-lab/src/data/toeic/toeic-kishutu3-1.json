@@ -20,12 +20,25 @@
           "id": "q1",
           "number": 1,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q01.mp3",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q01.jpg",
           "prompt": "",
           "choices": [
-            { "label": "A", "text": "(A)" },
-            { "label": "B", "text": "(B)" },
-            { "label": "C", "text": "(C)" },
-            { "label": "D", "text": "(D)" }
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            },
+            {
+              "label": "D",
+              "text": "(D)"
+            }
           ],
           "answer": "",
           "explanation": "",
@@ -35,12 +48,25 @@
           "id": "q2",
           "number": 2,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q02.mp3",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q02.jpg",
           "prompt": "",
           "choices": [
-            { "label": "A", "text": "(A)" },
-            { "label": "B", "text": "(B)" },
-            { "label": "C", "text": "(C)" },
-            { "label": "D", "text": "(D)" }
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            },
+            {
+              "label": "D",
+              "text": "(D)"
+            }
           ],
           "answer": "",
           "explanation": "",
@@ -50,12 +76,25 @@
           "id": "q3",
           "number": 3,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q03.mp3",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q03.jpg",
           "prompt": "",
           "choices": [
-            { "label": "A", "text": "(A)" },
-            { "label": "B", "text": "(B)" },
-            { "label": "C", "text": "(C)" },
-            { "label": "D", "text": "(D)" }
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            },
+            {
+              "label": "D",
+              "text": "(D)"
+            }
           ],
           "answer": "",
           "explanation": "",
@@ -65,12 +104,25 @@
           "id": "q4",
           "number": 4,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q04.mp3",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q04.jpg",
           "prompt": "",
           "choices": [
-            { "label": "A", "text": "(A)" },
-            { "label": "B", "text": "(B)" },
-            { "label": "C", "text": "(C)" },
-            { "label": "D", "text": "(D)" }
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            },
+            {
+              "label": "D",
+              "text": "(D)"
+            }
           ],
           "answer": "",
           "explanation": "",
@@ -80,12 +132,25 @@
           "id": "q5",
           "number": 5,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q05.mp3",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q05.jpg",
           "prompt": "",
           "choices": [
-            { "label": "A", "text": "(A)" },
-            { "label": "B", "text": "(B)" },
-            { "label": "C", "text": "(C)" },
-            { "label": "D", "text": "(D)" }
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            },
+            {
+              "label": "D",
+              "text": "(D)"
+            }
           ],
           "answer": "",
           "explanation": "",
@@ -97,14 +162,27 @@
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q06.mp3",
           "prompt": "",
           "choices": [
-            { "label": "A", "text": "(A)" },
-            { "label": "B", "text": "(B)" },
-            { "label": "C", "text": "(C)" },
-            { "label": "D", "text": "(D)" }
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            },
+            {
+              "label": "D",
+              "text": "(D)"
+            }
           ],
           "answer": "",
           "explanation": "",
-          "script": ""
+          "script": "",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q06.jpg"
         }
       ]
     },
@@ -115,31 +193,581 @@
       "questionCount": 25,
       "choiceCount": 3,
       "questions": [
-        { "id": "q7", "number": 7, "audio": "audio/TOEIC/TOEIC 既出3-1/Q07.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q8", "number": 8, "audio": "audio/TOEIC/TOEIC 既出3-1/Q08.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q9", "number": 9, "audio": "audio/TOEIC/TOEIC 既出3-1/Q09.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q10", "number": 10, "audio": "audio/TOEIC/TOEIC 既出3-1/Q10.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q11", "number": 11, "audio": "audio/TOEIC/TOEIC 既出3-1/Q11.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q12", "number": 12, "audio": "audio/TOEIC/TOEIC 既出3-1/Q12.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q13", "number": 13, "audio": "audio/TOEIC/TOEIC 既出3-1/Q13.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q14", "number": 14, "audio": "audio/TOEIC/TOEIC 既出3-1/Q14.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q15", "number": 15, "audio": "audio/TOEIC/TOEIC 既出3-1/Q15.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q16", "number": 16, "audio": "audio/TOEIC/TOEIC 既出3-1/Q16.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q17", "number": 17, "audio": "audio/TOEIC/TOEIC 既出3-1/Q17.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q18", "number": 18, "audio": "audio/TOEIC/TOEIC 既出3-1/Q18.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q19", "number": 19, "audio": "audio/TOEIC/TOEIC 既出3-1/Q19.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q20", "number": 20, "audio": "audio/TOEIC/TOEIC 既出3-1/Q20.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q21", "number": 21, "audio": "audio/TOEIC/TOEIC 既出3-1/Q21.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q22", "number": 22, "audio": "audio/TOEIC/TOEIC 既出3-1/Q22.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q23", "number": 23, "audio": "audio/TOEIC/TOEIC 既出3-1/Q23.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q24", "number": 24, "audio": "audio/TOEIC/TOEIC 既出3-1/Q24.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q25", "number": 25, "audio": "audio/TOEIC/TOEIC 既出3-1/Q25.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q26", "number": 26, "audio": "audio/TOEIC/TOEIC 既出3-1/Q26.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q27", "number": 27, "audio": "audio/TOEIC/TOEIC 既出3-1/Q27.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q28", "number": 28, "audio": "audio/TOEIC/TOEIC 既出3-1/Q28.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q29", "number": 29, "audio": "audio/TOEIC/TOEIC 既出3-1/Q29.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q30", "number": 30, "audio": "audio/TOEIC/TOEIC 既出3-1/Q30.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q31", "number": 31, "audio": "audio/TOEIC/TOEIC 既出3-1/Q31.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }], "answer": "", "explanation": "", "script": "" }
+        {
+          "id": "q7",
+          "number": 7,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q07.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q08.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q09.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q10.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q11.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q12.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q13.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q14.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q15.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q16.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q17.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q18.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q19.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q20.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q21.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q22.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q23.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q24.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q25.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q26",
+          "number": 26,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q26.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q27.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q28.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q29.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q30.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q31.mp3",
+          "prompt": "Mark your answer on your answer sheet.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A)"
+            },
+            {
+              "label": "B",
+              "text": "(B)"
+            },
+            {
+              "label": "C",
+              "text": "(C)"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        }
       ]
     },
     {
@@ -149,45 +777,1062 @@
       "questionCount": 39,
       "choiceCount": 4,
       "questions": [
-        { "id": "q32", "number": 32, "audio": "audio/TOEIC/TOEIC 既出3-1/Q32.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q33", "number": 33, "audio": "audio/TOEIC/TOEIC 既出3-1/Q33.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q34", "number": 34, "audio": "audio/TOEIC/TOEIC 既出3-1/Q34.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q35", "number": 35, "audio": "audio/TOEIC/TOEIC 既出3-1/Q35.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q36", "number": 36, "audio": "audio/TOEIC/TOEIC 既出3-1/Q36.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q37", "number": 37, "audio": "audio/TOEIC/TOEIC 既出3-1/Q37.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q38", "number": 38, "audio": "audio/TOEIC/TOEIC 既出3-1/Q38.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q39", "number": 39, "audio": "audio/TOEIC/TOEIC 既出3-1/Q39.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q40", "number": 40, "audio": "audio/TOEIC/TOEIC 既出3-1/Q40.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q41", "number": 41, "audio": "audio/TOEIC/TOEIC 既出3-1/Q41.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q42", "number": 42, "audio": "audio/TOEIC/TOEIC 既出3-1/Q42.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q43", "number": 43, "audio": "audio/TOEIC/TOEIC 既出3-1/Q43.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q44", "number": 44, "audio": "audio/TOEIC/TOEIC 既出3-1/Q44.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q45", "number": 45, "audio": "audio/TOEIC/TOEIC 既出3-1/Q45.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q46", "number": 46, "audio": "audio/TOEIC/TOEIC 既出3-1/Q46.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q47", "number": 47, "audio": "audio/TOEIC/TOEIC 既出3-1/Q47.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q48", "number": 48, "audio": "audio/TOEIC/TOEIC 既出3-1/Q48.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q49", "number": 49, "audio": "audio/TOEIC/TOEIC 既出3-1/Q49.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q50", "number": 50, "audio": "audio/TOEIC/TOEIC 既出3-1/Q50.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q51", "number": 51, "audio": "audio/TOEIC/TOEIC 既出3-1/Q51.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q52", "number": 52, "audio": "audio/TOEIC/TOEIC 既出3-1/Q52.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q53", "number": 53, "audio": "audio/TOEIC/TOEIC 既出3-1/Q53.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q54", "number": 54, "audio": "audio/TOEIC/TOEIC 既出3-1/Q54.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q55", "number": 55, "audio": "audio/TOEIC/TOEIC 既出3-1/Q55.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q56", "number": 56, "audio": "audio/TOEIC/TOEIC 既出3-1/Q56.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q57", "number": 57, "audio": "audio/TOEIC/TOEIC 既出3-1/Q57.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q58", "number": 58, "audio": "audio/TOEIC/TOEIC 既出3-1/Q58.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q59", "number": 59, "audio": "audio/TOEIC/TOEIC 既出3-1/Q59.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q60", "number": 60, "audio": "audio/TOEIC/TOEIC 既出3-1/Q60.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q61", "number": 61, "audio": "audio/TOEIC/TOEIC 既出3-1/Q61.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q62", "number": 62, "audio": "audio/TOEIC/TOEIC 既出3-1/Q62.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q63", "number": 63, "audio": "audio/TOEIC/TOEIC 既出3-1/Q63.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q64", "number": 64, "audio": "audio/TOEIC/TOEIC 既出3-1/Q64.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q65", "number": 65, "audio": "audio/TOEIC/TOEIC 既出3-1/Q65.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q66", "number": 66, "audio": "audio/TOEIC/TOEIC 既出3-1/Q66.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q67", "number": 67, "audio": "audio/TOEIC/TOEIC 既出3-1/Q67.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q68", "number": 68, "audio": "audio/TOEIC/TOEIC 既出3-1/Q68.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q69", "number": 69, "audio": "audio/TOEIC/TOEIC 既出3-1/Q69.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q70", "number": 70, "audio": "audio/TOEIC/TOEIC 既出3-1/Q70.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" }
+        {
+          "id": "q32",
+          "number": 32,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q32.mp3",
+          "prompt": "What is the woman preparing for?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A move to a new city"
+            },
+            {
+              "label": "B",
+              "text": "(B) A business trip"
+            },
+            {
+              "label": "C",
+              "text": "(C) A building tour"
+            },
+            {
+              "label": "D",
+              "text": "(D) A meeting with visiting colleagues"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q33.mp3",
+          "prompt": "Who most likely is the man?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) An accountant"
+            },
+            {
+              "label": "B",
+              "text": "(B) An administrative assistant"
+            },
+            {
+              "label": "C",
+              "text": "(C) A marketing director"
+            },
+            {
+              "label": "D",
+              "text": "(D) A company president"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q34.mp3",
+          "prompt": "What does the woman want to pick up on Friday morning?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A building map"
+            },
+            {
+              "label": "B",
+              "text": "(B) A room key"
+            },
+            {
+              "label": "C",
+              "text": "(C) An ID card"
+            },
+            {
+              "label": "D",
+              "text": "(D) A parking pass"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q35.mp3",
+          "prompt": "What task is the man responsible for?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Writing a budget"
+            },
+            {
+              "label": "B",
+              "text": "(B) Reviewing job applications"
+            },
+            {
+              "label": "C",
+              "text": "(C) Organizing a company newsletter"
+            },
+            {
+              "label": "D",
+              "text": "(D) Updating an employee handbook"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q36",
+          "number": 36,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q36.mp3",
+          "prompt": "What does the woman want to do next year?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Organize a trade show"
+            },
+            {
+              "label": "B",
+              "text": "(B) Open a new store"
+            },
+            {
+              "label": "C",
+              "text": "(C) Redesign a product catalog"
+            },
+            {
+              "label": "D",
+              "text": "(D) Hire some team members"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q37.mp3",
+          "prompt": "What does the man ask the woman to do?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Order some business cards"
+            },
+            {
+              "label": "B",
+              "text": "(B) Write a press release"
+            },
+            {
+              "label": "C",
+              "text": "(C) Provide some additional details"
+            },
+            {
+              "label": "D",
+              "text": "(D) Set up a meeting time"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q38.mp3",
+          "prompt": "What does the woman need a suit for?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A job interview"
+            },
+            {
+              "label": "B",
+              "text": "(B) A fashion show"
+            },
+            {
+              "label": "C",
+              "text": "(C) A family celebration"
+            },
+            {
+              "label": "D",
+              "text": "(D) A television appearance"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q39.mp3",
+          "prompt": "What does the woman dislike about a suit on display?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) The fabric"
+            },
+            {
+              "label": "B",
+              "text": "(B) The price"
+            },
+            {
+              "label": "C",
+              "text": "(C) The style"
+            },
+            {
+              "label": "D",
+              "text": "(D) The color"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q40.mp3",
+          "prompt": "What does the man say that the price includes?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Some accessories"
+            },
+            {
+              "label": "B",
+              "text": "(B) Alterations"
+            },
+            {
+              "label": "C",
+              "text": "(C) Sales tax"
+            },
+            {
+              "label": "D",
+              "text": "(D) Delivery"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q41.mp3",
+          "prompt": "What kind of business does the man most likely work for?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A legal consulting firm"
+            },
+            {
+              "label": "B",
+              "text": "(B) An architecture firm"
+            },
+            {
+              "label": "C",
+              "text": "(C) A film production company"
+            },
+            {
+              "label": "D",
+              "text": "(D) A book publishing company"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q42.mp3",
+          "prompt": "What does the woman say she is concerned about?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) The length of a project"
+            },
+            {
+              "label": "B",
+              "text": "(B) The cost of an order"
+            },
+            {
+              "label": "C",
+              "text": "(C) The opinion of the public"
+            },
+            {
+              "label": "D",
+              "text": "(D) The skills of some workers"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q43.mp3",
+          "prompt": "What does the woman agree to let the man do?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Submit an application"
+            },
+            {
+              "label": "B",
+              "text": "(B) Speak at a meeting"
+            },
+            {
+              "label": "C",
+              "text": "(C) Review some books"
+            },
+            {
+              "label": "D",
+              "text": "(D) Measure a space"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q44.mp3",
+          "prompt": "Who most likely is Axel Schmidt?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A store manager"
+            },
+            {
+              "label": "B",
+              "text": "(B) A construction worker"
+            },
+            {
+              "label": "C",
+              "text": "(C) A journalist"
+            },
+            {
+              "label": "D",
+              "text": "(D) An artist"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q45.mp3",
+          "prompt": "What renovation does the woman mention?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Some walls are being painted."
+            },
+            {
+              "label": "B",
+              "text": "(B) Some floors are being replaced."
+            },
+            {
+              "label": "C",
+              "text": "(C) Some windows are being installed."
+            },
+            {
+              "label": "D",
+              "text": "(D) Some light fixtures are being repaired."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q46",
+          "number": 46,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q46.mp3",
+          "prompt": "What does the woman encourage the man to do?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Visit a gift shop"
+            },
+            {
+              "label": "B",
+              "text": "(B) Send a package"
+            },
+            {
+              "label": "C",
+              "text": "(C) Wait for a bus"
+            },
+            {
+              "label": "D",
+              "text": "(D) Take a photograph"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q47",
+          "number": 47,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q47.mp3",
+          "prompt": "What does the speakers' company most likely sell?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Electronics"
+            },
+            {
+              "label": "B",
+              "text": "(B) Clothing"
+            },
+            {
+              "label": "C",
+              "text": "(C) Food"
+            },
+            {
+              "label": "D",
+              "text": "(D) Automobiles"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q48",
+          "number": 48,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q48.mp3",
+          "prompt": "Why is the woman surprised?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Some software is expensive."
+            },
+            {
+              "label": "B",
+              "text": "(B) A color is very bright."
+            },
+            {
+              "label": "C",
+              "text": "(C) The man has completed a report."
+            },
+            {
+              "label": "D",
+              "text": "(D) The man bought a new car."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q49",
+          "number": 49,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q49.mp3",
+          "prompt": "Why does the woman say, \"The slides are available on our company intranet\"?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) To request assistance reviewing a document"
+            },
+            {
+              "label": "B",
+              "text": "(B) To recommend using a document as a reference"
+            },
+            {
+              "label": "C",
+              "text": "(C) To report that a task has been completed"
+            },
+            {
+              "label": "D",
+              "text": "(D) To indicate that a file is in the wrong location"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q50",
+          "number": 50,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q50.mp3",
+          "prompt": "According to the woman, what will happen at the end of November?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) An executive will visit."
+            },
+            {
+              "label": "B",
+              "text": "(B) An employee will retire."
+            },
+            {
+              "label": "C",
+              "text": "(C) A product will be released."
+            },
+            {
+              "label": "D",
+              "text": "(D) A study will be completed."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q51",
+          "number": 51,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q51.mp3",
+          "prompt": "What does the man want to know?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Where he would be working"
+            },
+            {
+              "label": "B",
+              "text": "(B) When he would be starting a job"
+            },
+            {
+              "label": "C",
+              "text": "(C) How to get to an office building"
+            },
+            {
+              "label": "D",
+              "text": "(D) Why an event time has changed"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q52",
+          "number": 52,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q52.mp3",
+          "prompt": "What does the woman say the company will pay for?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A work vehicle"
+            },
+            {
+              "label": "B",
+              "text": "(B) A private office"
+            },
+            {
+              "label": "C",
+              "text": "(C) Moving expenses"
+            },
+            {
+              "label": "D",
+              "text": "(D) Visitors' meals"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q53",
+          "number": 53,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q53.mp3",
+          "prompt": "What industry do the speakers work in?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Manufacturing"
+            },
+            {
+              "label": "B",
+              "text": "(B) Agriculture"
+            },
+            {
+              "label": "C",
+              "text": "(C) Transportation"
+            },
+            {
+              "label": "D",
+              "text": "(D) Construction"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q54",
+          "number": 54,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q54.mp3",
+          "prompt": "What does the woman say a project will do for a city?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Increase tourism"
+            },
+            {
+              "label": "B",
+              "text": "(B) Generate electricity"
+            },
+            {
+              "label": "C",
+              "text": "(C) Preserve natural resources"
+            },
+            {
+              "label": "D",
+              "text": "(D) Improve property values"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q55",
+          "number": 55,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q55.mp3",
+          "prompt": "What does Gerhard say needs to be done?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Permits need to be approved."
+            },
+            {
+              "label": "B",
+              "text": "(B) Employees need to be trained."
+            },
+            {
+              "label": "C",
+              "text": "(C) Materials need to be ordered."
+            },
+            {
+              "label": "D",
+              "text": "(D) Inspections need to be made."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q56",
+          "number": 56,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q56.mp3",
+          "prompt": "What does the woman imply when she says, \"I don't have much to do\"?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) She has time to help."
+            },
+            {
+              "label": "B",
+              "text": "(B) She plans to leave work early."
+            },
+            {
+              "label": "C",
+              "text": "(C) Her computer is not working."
+            },
+            {
+              "label": "D",
+              "text": "(D) She has not received an assignment."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q57",
+          "number": 57,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q57.mp3",
+          "prompt": "What does the man notice about some medication?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) It needs to be refrigerated."
+            },
+            {
+              "label": "B",
+              "text": "(B) It has expired."
+            },
+            {
+              "label": "C",
+              "text": "(C) The dosage has changed."
+            },
+            {
+              "label": "D",
+              "text": "(D) The supply is limited."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q58",
+          "number": 58,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q58.mp3",
+          "prompt": "What does the man suggest doing in the future?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Installing some shelves"
+            },
+            {
+              "label": "B",
+              "text": "(B) Confirming with a doctor"
+            },
+            {
+              "label": "C",
+              "text": "(C) Increasing an order amount"
+            },
+            {
+              "label": "D",
+              "text": "(D) Recommending a different medication"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q59",
+          "number": 59,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q59.mp3",
+          "prompt": "Who most likely is the woman?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A travel agent"
+            },
+            {
+              "label": "B",
+              "text": "(B) A bank teller"
+            },
+            {
+              "label": "C",
+              "text": "(C) A lawyer"
+            },
+            {
+              "label": "D",
+              "text": "(D) A mail-room worker"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q60",
+          "number": 60,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q60.mp3",
+          "prompt": "What kind of document are the speakers discussing?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A user agreement"
+            },
+            {
+              "label": "B",
+              "text": "(B) An employment contract"
+            },
+            {
+              "label": "C",
+              "text": "(C) A list of travel expenses"
+            },
+            {
+              "label": "D",
+              "text": "(D) An insurance certificate"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q61",
+          "number": 61,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q61.mp3",
+          "prompt": "Why must the document be revised by the end of the month?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) To be included in a personnel file"
+            },
+            {
+              "label": "B",
+              "text": "(B) To use in a merger negotiation"
+            },
+            {
+              "label": "C",
+              "text": "(C) To meet a production deadline"
+            },
+            {
+              "label": "D",
+              "text": "(D) To avoid paying a fine"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q62",
+          "number": 62,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q62.mp3",
+          "prompt": "Look at the graphic. How much did the man's company charge for its service?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) $4,456"
+            },
+            {
+              "label": "B",
+              "text": "(B) $1,300"
+            },
+            {
+              "label": "C",
+              "text": "(C) $10,200"
+            },
+            {
+              "label": "D",
+              "text": "(D) $400"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": "",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q62.jpg"
+        },
+        {
+          "id": "q63",
+          "number": 63,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q63.mp3",
+          "prompt": "Why does the man apologize?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Business hours have changed."
+            },
+            {
+              "label": "B",
+              "text": "(B) A price was wrong."
+            },
+            {
+              "label": "C",
+              "text": "(C) Some staff arrived late."
+            },
+            {
+              "label": "D",
+              "text": "(D) A request could not be fulfilled."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q64",
+          "number": 64,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q64.mp3",
+          "prompt": "What does the woman like about a venue?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) It has a nice view."
+            },
+            {
+              "label": "B",
+              "text": "(B) It is conveniently located."
+            },
+            {
+              "label": "C",
+              "text": "(C) It is tastefully decorated."
+            },
+            {
+              "label": "D",
+              "text": "(D) It can host large events."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q65",
+          "number": 65,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q65.mp3",
+          "prompt": "Why is the man surprised?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A popular band is coming to town."
+            },
+            {
+              "label": "B",
+              "text": "(B) The woman plays a musical instrument."
+            },
+            {
+              "label": "C",
+              "text": "(C) The woman was able to get concert tickets."
+            },
+            {
+              "label": "D",
+              "text": "(D) Some musicians scheduled a second concert."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": "",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q65.jpg"
+        },
+        {
+          "id": "q66",
+          "number": 66,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q66.mp3",
+          "prompt": "Look at the graphic. In which section does the woman have seats?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Section 1"
+            },
+            {
+              "label": "B",
+              "text": "(B) Section 2"
+            },
+            {
+              "label": "C",
+              "text": "(C) Section 3"
+            },
+            {
+              "label": "D",
+              "text": "(D) Section 4"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q67",
+          "number": 67,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q67.mp3",
+          "prompt": "What is the woman doing this weekend?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Practicing with her band"
+            },
+            {
+              "label": "B",
+              "text": "(B) Entering a radio contest"
+            },
+            {
+              "label": "C",
+              "text": "(C) Moving to Boston"
+            },
+            {
+              "label": "D",
+              "text": "(D) Attending a party"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q68",
+          "number": 68,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q68.mp3",
+          "prompt": "Who most likely is the man?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A maintenance worker"
+            },
+            {
+              "label": "B",
+              "text": "(B) A property manager"
+            },
+            {
+              "label": "C",
+              "text": "(C) A real estate agent"
+            },
+            {
+              "label": "D",
+              "text": "(D) A bank employee"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": "",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q68.jpg"
+        },
+        {
+          "id": "q69",
+          "number": 69,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q69.mp3",
+          "prompt": "Look at the graphic. Which name needs to be changed?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Tanaka"
+            },
+            {
+              "label": "B",
+              "text": "(B) Zhao"
+            },
+            {
+              "label": "C",
+              "text": "(C) Mukherjee"
+            },
+            {
+              "label": "D",
+              "text": "(D) Tremblay"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q70",
+          "number": 70,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q70.mp3",
+          "prompt": "What does the woman say she is going to do tomorrow?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Fill out a registration form"
+            },
+            {
+              "label": "B",
+              "text": "(B) Meet with some neighbors"
+            },
+            {
+              "label": "C",
+              "text": "(C) Order some furniture"
+            },
+            {
+              "label": "D",
+              "text": "(D) Make a payment"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        }
       ]
     },
     {
@@ -197,36 +1842,818 @@
       "questionCount": 30,
       "choiceCount": 4,
       "questions": [
-        { "id": "q71", "number": 71, "audio": "audio/TOEIC/TOEIC 既出3-1/Q71.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q72", "number": 72, "audio": "audio/TOEIC/TOEIC 既出3-1/Q72.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q73", "number": 73, "audio": "audio/TOEIC/TOEIC 既出3-1/Q73.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q74", "number": 74, "audio": "audio/TOEIC/TOEIC 既出3-1/Q74.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q75", "number": 75, "audio": "audio/TOEIC/TOEIC 既出3-1/Q75.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q76", "number": 76, "audio": "audio/TOEIC/TOEIC 既出3-1/Q76.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q77", "number": 77, "audio": "audio/TOEIC/TOEIC 既出3-1/Q77.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q78", "number": 78, "audio": "audio/TOEIC/TOEIC 既出3-1/Q78.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q79", "number": 79, "audio": "audio/TOEIC/TOEIC 既出3-1/Q79.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q80", "number": 80, "audio": "audio/TOEIC/TOEIC 既出3-1/Q80.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q81", "number": 81, "audio": "audio/TOEIC/TOEIC 既出3-1/Q81.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q82", "number": 82, "audio": "audio/TOEIC/TOEIC 既出3-1/Q82.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q83", "number": 83, "audio": "audio/TOEIC/TOEIC 既出3-1/Q83.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q84", "number": 84, "audio": "audio/TOEIC/TOEIC 既出3-1/Q84.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q85", "number": 85, "audio": "audio/TOEIC/TOEIC 既出3-1/Q85.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q86", "number": 86, "audio": "audio/TOEIC/TOEIC 既出3-1/Q86.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q87", "number": 87, "audio": "audio/TOEIC/TOEIC 既出3-1/Q87.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q88", "number": 88, "audio": "audio/TOEIC/TOEIC 既出3-1/Q88.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q89", "number": 89, "audio": "audio/TOEIC/TOEIC 既出3-1/Q89.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q90", "number": 90, "audio": "audio/TOEIC/TOEIC 既出3-1/Q90.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q91", "number": 91, "audio": "audio/TOEIC/TOEIC 既出3-1/Q91.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q92", "number": 92, "audio": "audio/TOEIC/TOEIC 既出3-1/Q92.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q93", "number": 93, "audio": "audio/TOEIC/TOEIC 既出3-1/Q93.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q94", "number": 94, "audio": "audio/TOEIC/TOEIC 既出3-1/Q94.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q95", "number": 95, "audio": "audio/TOEIC/TOEIC 既出3-1/Q95.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q96", "number": 96, "audio": "audio/TOEIC/TOEIC 既出3-1/Q96.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q97", "number": 97, "audio": "audio/TOEIC/TOEIC 既出3-1/Q97.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q98", "number": 98, "audio": "audio/TOEIC/TOEIC 既出3-1/Q98.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q99", "number": 99, "audio": "audio/TOEIC/TOEIC 既出3-1/Q99.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" },
-        { "id": "q100", "number": 100, "audio": "audio/TOEIC/TOEIC 既出3-1/Q100.mp3", "prompt": "", "choices": [{ "label": "A", "text": "(A)" }, { "label": "B", "text": "(B)" }, { "label": "C", "text": "(C)" }, { "label": "D", "text": "(D)" }], "answer": "", "explanation": "", "script": "" }
+        {
+          "id": "q71",
+          "number": 71,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q71.mp3",
+          "prompt": "What kind of business is the speaker most likely calling?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A hair salon"
+            },
+            {
+              "label": "B",
+              "text": "(B) An insurance company"
+            },
+            {
+              "label": "C",
+              "text": "(C) A car dealership"
+            },
+            {
+              "label": "D",
+              "text": "(D) An eye doctor's office"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q72",
+          "number": 72,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q72.mp3",
+          "prompt": "What does the speaker say about her appointment?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) It is too far away."
+            },
+            {
+              "label": "B",
+              "text": "(B) It needs to be rescheduled."
+            },
+            {
+              "label": "C",
+              "text": "(C) It is too expensive."
+            },
+            {
+              "label": "D",
+              "text": "(D) It should be with a different person."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q73",
+          "number": 73,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q73.mp3",
+          "prompt": "What is the speaker interested in learning more about?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Payment methods"
+            },
+            {
+              "label": "B",
+              "text": "(B) Delivery options"
+            },
+            {
+              "label": "C",
+              "text": "(C) A warranty"
+            },
+            {
+              "label": "D",
+              "text": "(D) A job opening"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q74",
+          "number": 74,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q74.mp3",
+          "prompt": "What is being advertised?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A factory tour"
+            },
+            {
+              "label": "B",
+              "text": "(B) A baking competition"
+            },
+            {
+              "label": "C",
+              "text": "(C) A grand opening"
+            },
+            {
+              "label": "D",
+              "text": "(D) An art show"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q75",
+          "number": 75,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q75.mp3",
+          "prompt": "What will participants receive?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A poster"
+            },
+            {
+              "label": "B",
+              "text": "(B) A promotional mug"
+            },
+            {
+              "label": "C",
+              "text": "(C) A company T-shirt"
+            },
+            {
+              "label": "D",
+              "text": "(D) A photograph"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q76",
+          "number": 76,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q76.mp3",
+          "prompt": "What can the listeners do on a Web site?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Find a recipe"
+            },
+            {
+              "label": "B",
+              "text": "(B) Fill out an entry form"
+            },
+            {
+              "label": "C",
+              "text": "(C) View a product list"
+            },
+            {
+              "label": "D",
+              "text": "(D) Download a coupon"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q77",
+          "number": 77,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q77.mp3",
+          "prompt": "Where does the announcement take place?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) At a sports arena"
+            },
+            {
+              "label": "B",
+              "text": "(B) At a concert hall"
+            },
+            {
+              "label": "C",
+              "text": "(C) At an art museum"
+            },
+            {
+              "label": "D",
+              "text": "(D) At a movie theater"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q78",
+          "number": 78,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q78.mp3",
+          "prompt": "Why does the speaker apologize?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A presenter has been delayed."
+            },
+            {
+              "label": "B",
+              "text": "(B) Some lights have gone out."
+            },
+            {
+              "label": "C",
+              "text": "(C) A sound system is broken."
+            },
+            {
+              "label": "D",
+              "text": "(D) A construction project is noisy."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q79",
+          "number": 79,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q79.mp3",
+          "prompt": "What does the speaker offer the listeners?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A promotional item"
+            },
+            {
+              "label": "B",
+              "text": "(B) A parking voucher"
+            },
+            {
+              "label": "C",
+              "text": "(C) Discounted snacks"
+            },
+            {
+              "label": "D",
+              "text": "(D) Free tickets"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q80",
+          "number": 80,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q80.mp3",
+          "prompt": "What event is taking place?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A technology conference"
+            },
+            {
+              "label": "B",
+              "text": "(B) A product demonstration"
+            },
+            {
+              "label": "C",
+              "text": "(C) A company fund-raiser"
+            },
+            {
+              "label": "D",
+              "text": "(D) A training workshop"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q81",
+          "number": 81,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q81.mp3",
+          "prompt": "Why does the speaker say, \"And over 300 people are here\"?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) To propose moving to a larger venue"
+            },
+            {
+              "label": "B",
+              "text": "(B) To indicate that some advertising was successful"
+            },
+            {
+              "label": "C",
+              "text": "(C) To emphasize the importance of working quickly"
+            },
+            {
+              "label": "D",
+              "text": "(D) To suggest more volunteers are needed"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q82",
+          "number": 82,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q82.mp3",
+          "prompt": "What does the speaker ask the listeners to do?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Provide feedback"
+            },
+            {
+              "label": "B",
+              "text": "(B) Silence mobile phones"
+            },
+            {
+              "label": "C",
+              "text": "(C) Review an event program"
+            },
+            {
+              "label": "D",
+              "text": "(D) Enjoy some refreshments"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q83",
+          "number": 83,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q83.mp3",
+          "prompt": "What is the purpose of the plan?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) To support local businesses"
+            },
+            {
+              "label": "B",
+              "text": "(B) To promote tourism"
+            },
+            {
+              "label": "C",
+              "text": "(C) To decrease traffic"
+            },
+            {
+              "label": "D",
+              "text": "(D) To reduce government spending"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q84",
+          "number": 84,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q84.mp3",
+          "prompt": "Who does the speaker say will receive a discount?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Commuters"
+            },
+            {
+              "label": "B",
+              "text": "(B) Senior citizens"
+            },
+            {
+              "label": "C",
+              "text": "(C) Students"
+            },
+            {
+              "label": "D",
+              "text": "(D) City officials"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q85",
+          "number": 85,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q85.mp3",
+          "prompt": "What will happen after three months?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A survey will be distributed."
+            },
+            {
+              "label": "B",
+              "text": "(B) A new director will take over."
+            },
+            {
+              "label": "C",
+              "text": "(C) A bus line will be added."
+            },
+            {
+              "label": "D",
+              "text": "(D) A program evaluation will take place."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q86",
+          "number": 86,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q86.mp3",
+          "prompt": "What event is the speaker discussing?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A sports competition"
+            },
+            {
+              "label": "B",
+              "text": "(B) A music festival"
+            },
+            {
+              "label": "C",
+              "text": "(C) A cooking demonstration"
+            },
+            {
+              "label": "D",
+              "text": "(D) A historical play"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q87",
+          "number": 87,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q87.mp3",
+          "prompt": "Why does the speaker say, \"tickets are almost sold out\"?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) To encourage the listeners to enter a contest"
+            },
+            {
+              "label": "B",
+              "text": "(B) To suggest that the listeners arrive early"
+            },
+            {
+              "label": "C",
+              "text": "(C) To complain that an event space is too small"
+            },
+            {
+              "label": "D",
+              "text": "(D) To praise the results of a marketing plan"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q88",
+          "number": 88,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q88.mp3",
+          "prompt": "What will happen tomorrow morning?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A new venue will open."
+            },
+            {
+              "label": "B",
+              "text": "(B) A prize winner will be announced."
+            },
+            {
+              "label": "C",
+              "text": "(C) An interview will take place."
+            },
+            {
+              "label": "D",
+              "text": "(D) A video will be filmed."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q89",
+          "number": 89,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q89.mp3",
+          "prompt": "What type of business does the speaker work for?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A computer company"
+            },
+            {
+              "label": "B",
+              "text": "(B) A construction firm"
+            },
+            {
+              "label": "C",
+              "text": "(C) A furniture manufacturer"
+            },
+            {
+              "label": "D",
+              "text": "(D) An office-supply distributor"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q90",
+          "number": 90,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q90.mp3",
+          "prompt": "What does the speaker say is an advantage of the new material?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) It is inexpensive."
+            },
+            {
+              "label": "B",
+              "text": "(B) It is durable."
+            },
+            {
+              "label": "C",
+              "text": "(C) It is lightweight."
+            },
+            {
+              "label": "D",
+              "text": "(D) It comes in many colors."
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q91",
+          "number": 91,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q91.mp3",
+          "prompt": "What will the listeners do next?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Sign up for a mailing list"
+            },
+            {
+              "label": "B",
+              "text": "(B) Watch an instructional video"
+            },
+            {
+              "label": "C",
+              "text": "(C) Enter a contest"
+            },
+            {
+              "label": "D",
+              "text": "(D) Look at a sample"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q92",
+          "number": 92,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q92.mp3",
+          "prompt": "Which department does the speaker work in?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Product Development"
+            },
+            {
+              "label": "B",
+              "text": "(B) Human Resources"
+            },
+            {
+              "label": "C",
+              "text": "(C) Legal"
+            },
+            {
+              "label": "D",
+              "text": "(D) Accounting"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q93",
+          "number": 93,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q93.mp3",
+          "prompt": "Why does the speaker say, \"there is a need for a skilled software engineer\"?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) To recommend an employee sign up for more training"
+            },
+            {
+              "label": "B",
+              "text": "(B) To indicate that a project deadline will be extended"
+            },
+            {
+              "label": "C",
+              "text": "(C) To approve a request to transfer"
+            },
+            {
+              "label": "D",
+              "text": "(D) To suggest consulting with an expert"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q94",
+          "number": 94,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q94.mp3",
+          "prompt": "What does the speaker want to discuss with the listener?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Some sales results"
+            },
+            {
+              "label": "B",
+              "text": "(B) Some client feedback"
+            },
+            {
+              "label": "C",
+              "text": "(C) An office renovation"
+            },
+            {
+              "label": "D",
+              "text": "(D) A work schedule"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q95",
+          "number": 95,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q95.mp3",
+          "prompt": "Why are guests invited on the speaker's radio show?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) To discuss their businesses"
+            },
+            {
+              "label": "B",
+              "text": "(B) To talk about local history"
+            },
+            {
+              "label": "C",
+              "text": "(C) To teach communication skills"
+            },
+            {
+              "label": "D",
+              "text": "(D) To offer travel tips"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": "",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q95.jpg"
+        },
+        {
+          "id": "q96",
+          "number": 96,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q96.mp3",
+          "prompt": "What can the listeners do on a Web site?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) View photos of famous guests"
+            },
+            {
+              "label": "B",
+              "text": "(B) Sign up for a special service"
+            },
+            {
+              "label": "C",
+              "text": "(C) Read about upcoming programs"
+            },
+            {
+              "label": "D",
+              "text": "(D) Listen to previous episodes"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q97",
+          "number": 97,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q97.mp3",
+          "prompt": "Look at the graphic. Which day is this episode being aired?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Tuesday"
+            },
+            {
+              "label": "B",
+              "text": "(B) Wednesday"
+            },
+            {
+              "label": "C",
+              "text": "(C) Thursday"
+            },
+            {
+              "label": "D",
+              "text": "(D) Friday"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q98",
+          "number": 98,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q98.mp3",
+          "prompt": "Look at the graphic. Where will the scarves and ties be displayed?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) On Shelf 1"
+            },
+            {
+              "label": "B",
+              "text": "(B) On Shelf 2"
+            },
+            {
+              "label": "C",
+              "text": "(C) On Shelf 3"
+            },
+            {
+              "label": "D",
+              "text": "(D) On Shelf 4"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": "",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q98.jpg"
+        },
+        {
+          "id": "q99",
+          "number": 99,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q99.mp3",
+          "prompt": "What should be displayed near the cash registers?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) Coupons"
+            },
+            {
+              "label": "B",
+              "text": "(B) Hats"
+            },
+            {
+              "label": "C",
+              "text": "(C) Gloves"
+            },
+            {
+              "label": "D",
+              "text": "(D) Socks"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        },
+        {
+          "id": "q100",
+          "number": 100,
+          "audio": "audio/TOEIC/TOEIC 既出3-1/Q100.mp3",
+          "prompt": "What should the listener expect to receive in an e-mail?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "(A) A payment schedule"
+            },
+            {
+              "label": "B",
+              "text": "(B) Photographs"
+            },
+            {
+              "label": "C",
+              "text": "(C) Shipping information"
+            },
+            {
+              "label": "D",
+              "text": "(D) Display measurements"
+            }
+          ],
+          "answer": "",
+          "explanation": "",
+          "script": ""
+        }
       ]
     }
   ]
