@@ -1,0 +1,244 @@
+.page {
+  min-height: 100vh;
+  padding-bottom: 2rem;
+}
+
+.content {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1rem 1rem 0;
+}
+
+.sectionTitle {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  margin-bottom: 0.75rem;
+}
+
+.audioSection {
+  margin-bottom: 1rem;
+}
+
+.progressBar {
+  margin-bottom: 1rem;
+}
+
+.progressInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  margin-bottom: 6px;
+}
+
+.focusToggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border: 1px solid var(--color-border);
+  border-radius: 14px;
+  background: transparent;
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  min-height: 28px;
+  min-width: auto;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.focusToggle:active {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.progressTrack {
+  position: relative;
+  height: 3px;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.progressFill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  border-radius: 2px;
+  transition: width 0.3s ease;
+  opacity: 0.35;
+}
+
+.progressFillChecked {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  border-radius: 2px;
+  transition: width 0.3s ease;
+  background: var(--color-correct);
+}
+
+.sectionDivider {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  padding-bottom: 6px;
+  margin-bottom: 4px;
+  border-bottom: 2px solid var(--color-border);
+}
+
+.filterRow {
+  margin-bottom: 1rem;
+}
+
+.filterToggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0.625rem 1rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  background: transparent;
+  color: var(--color-text-secondary);
+  font-size: 0.8rem;
+  font-weight: 500;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.filterToggle:active {
+  border-color: var(--color-border-hover);
+}
+
+.filterActive {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.questions {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.submitRow {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1.25rem;
+}
+
+.submitButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0.875rem 1rem;
+  border-radius: var(--radius-md);
+  border: none;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: opacity 0.15s;
+}
+
+.submitButton:active {
+  opacity: 0.9;
+}
+
+.submitButton:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.submitButtonSecondary {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  color: var(--color-text-muted);
+  font-weight: 500;
+  font-size: 0.85rem;
+  margin-top: 8px;
+}
+
+.submitButtonSecondary:active {
+  border-color: var(--color-border-hover);
+}
+
+.resultSection {
+  margin-top: 1.25rem;
+}
+
+.resultActions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 1.25rem;
+}
+
+.retryButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0.875rem 1rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--accent);
+  background: transparent;
+  color: var(--accent);
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: background 0.15s;
+}
+
+.retryButton:active {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.focusReviewButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0.875rem 1rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--accent);
+  background: transparent;
+  color: var(--accent);
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: background 0.15s;
+}
+
+.focusReviewButton:active {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.backButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0.875rem 1rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  background: transparent;
+  color: var(--color-text-secondary);
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: border-color 0.15s;
+}
+
+.backButton:active {
+  border-color: var(--color-border-hover);
+}
+
+.empty {
+  text-align: center;
+  color: var(--color-text-muted);
+  padding: 3rem 1rem;
+  font-size: 0.9rem;
+}
