@@ -37,3 +37,20 @@ React + Vite で構築し、GitHub Pages にデプロイする。
 - src/data/toeic/ : 問題データJSON
 - src/utils/ : 設定・ユーティリティ
 - public/audio/TOEIC/ : 音声ファイル
+
+## Data Extraction Workflow
+問題データの抽出は以下のフローで行う:
+1. Claude Project で解答PDF から JSON を抽出（extracted/partN.json）
+2. GitHub に手動アップロード
+3. Claude Code でマージ:
+```
+cd "TOEIC listening practice/listening-lab"
+git pull
+node scripts/merge-extracted.js extracted/part3.json --part 3
+node scripts/validate-data.js --part 3
+```
+
+### Scripts
+- scripts/merge-extracted.js — 抽出JSONを既存データにマージ（--dry-run でプレビュー可）
+- scripts/validate-data.js — マージ後のデータ整合性チェック
+- extracted/ — 抽出JSONの置き場（GitHub経由で受け渡し）
