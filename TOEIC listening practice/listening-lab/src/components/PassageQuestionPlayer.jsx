@@ -118,7 +118,7 @@ export default function PassageQuestionPlayer({
     seek(Math.min(duration || 0, currentTime + SKIP_SEC));
   }, [currentTime, duration, seek]);
 
-  if (!passageSrc && questionAudios.length === 0) return null;
+  if (sources.length === 0) return null;
 
   if (error) {
     return (

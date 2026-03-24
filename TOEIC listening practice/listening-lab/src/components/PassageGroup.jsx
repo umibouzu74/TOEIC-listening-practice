@@ -86,8 +86,8 @@ export default function PassageGroup({
         );
       })}
 
-      {/* Replay passage only (after all group questions checked) */}
-      {allGroupChecked && (
+      {/* Replay passage only (after all group questions checked, when separate passage audio exists) */}
+      {allGroupChecked && passageAudio && (
         <div className={styles.replaySection}>
           <MiniAudioPlayer
             src={passageAudio}
