@@ -7,7 +7,6 @@ import QuestionCard from '../components/QuestionCard';
 import PassageGroup from '../components/PassageGroup';
 import ScoreBanner from '../components/ScoreBanner';
 import FocusedPracticeView from '../components/FocusedPracticeView';
-import SequentialPracticeView from '../components/SequentialPracticeView';
 import useAudioPlayer from '../hooks/useAudioPlayer';
 import useHistory from '../hooks/useHistory';
 import EXAM_CONFIG from '../utils/examConfig';
@@ -22,13 +21,14 @@ export default function PracticePage() {
   const { saveRecord } = useHistory();
 
   // Build questions list
-  const { questions, sectionAudio, sectionTitle, instructionAudio } = useMemo(() => {
-    if (!examSet) return { questions: [], sectionAudio: null, sectionTitle: '', instructionAudio: null };
+  const { questions, sectionAudio, sectionTitle, instructionAudio, groupSize } = useMemo(() => {
+    if (!examSet) return { questions: [], sectionAudio: null, sectionTitle: '', instructionAudio: null, groupSize: null };
 
     let qs;
     let secAudio = null;
     let secTitle = '';
     let instrAudio = null;
+    let grpSize = null;
 
     if (sectionId === 'all') {
       qs = examSet.sections.flatMap((s) =>
@@ -36,33 +36,39 @@ export default function PracticePage() {
           ...q,
           id: `${s.id}_${q.id}`,
           _sectionTitle: qi === 0 ? s.title : null,
+          _groupSize: s.groupSize || null,
         }))
       );
       secTitle = '全問通し演習';
     } else {
       const section = examSet.sections.find((s) => s.id === sectionId);
-      if (!section) return { questions: [], sectionAudio: null, sectionTitle: '', instructionAudio: null };
+      if (!section) return { questions: [], sectionAudio: null, sectionTitle: '', instructionAudio: null, groupSize: null };
       qs = section.questions || [];
       secAudio = section.audioFile || section.audio || null;
       secTitle = section.title || '';
       instrAudio = section.instructionAudio || null;
+      grpSize = section.groupSize || null;
     }
 
-    return { questions: qs, sectionAudio: secAudio, sectionTitle: secTitle, instructionAudio: instrAudio };
+    return { questions: qs, sectionAudio: secAudio, sectionTitle: secTitle, instructionAudio: instrAudio, groupSize: grpSize };
   }, [examSet, sectionId]);
 
   // Section-level audio player (only used when section has a single audio file)
   const audio = useAudioPlayer(sectionAudio);
 
   // Build render items: group consecutive questions that share passageAudio,
-  // or render them individually if they don't have passageAudio
+  // auto-group by groupSize (e.g. Part 3/4 = 3 questions per group),
+  // or render them individually
   const renderItems = useMemo(() => {
     const items = [];
     let currentGroup = null;
 
     questions.forEach((q, i) => {
+      // Per-question groupSize (for 'all' mode) or section-level groupSize
+      const qGroupSize = q._groupSize || groupSize;
+
       if (q.passageAudio && q.audio) {
-        // This question belongs to a passage group
+        // Group by shared passageAudio (explicit passage groups)
         if (currentGroup && currentGroup.passageAudio === q.passageAudio) {
           currentGroup.questions.push(q);
         } else {
@@ -71,6 +77,24 @@ export default function PracticePage() {
             passageAudio: q.passageAudio,
             passageLabel: q.passageLabel || '本文',
             questions: [q],
+            _groupKey: q.passageAudio,
+          };
+          items.push(currentGroup);
+        }
+      } else if (qGroupSize && q.audio) {
+        // Auto-group by groupSize (e.g. 3 questions per group for Part 3/4)
+        const groupIndex = Math.floor(i / qGroupSize);
+        if (currentGroup && currentGroup._autoGroupIndex === groupIndex && currentGroup._autoGroupSize === qGroupSize) {
+          currentGroup.questions.push(q);
+        } else {
+          currentGroup = {
+            type: 'passageGroup',
+            passageAudio: null,
+            passageLabel: null, // generated after loop
+            questions: [q],
+            _autoGroupIndex: groupIndex,
+            _autoGroupSize: qGroupSize,
+            _groupKey: `auto_${groupIndex}_${qGroupSize}`,
           };
           items.push(currentGroup);
         }
@@ -80,8 +104,18 @@ export default function PracticePage() {
       }
     });
 
+    // Generate labels for auto-grouped items
+    items.forEach((item) => {
+      if (item.type === 'passageGroup' && !item.passageAudio && !item.passageLabel) {
+        const first = item.questions[0];
+        const last = item.questions[item.questions.length - 1];
+        item.passageLabel = `Q${first.number}–Q${last.number}`;
+        item._groupKey = `auto_q${first.number}_q${last.number}`;
+      }
+    });
+
     return items;
-  }, [questions]);
+  }, [questions, groupSize]);
 
   // Track which passageAudio labels have been shown (for non-grouped questions only)
   const passageAudioShown = useMemo(() => {
@@ -98,7 +132,6 @@ export default function PracticePage() {
   const [answers, setAnswers] = useState({});
   const [checkedQuestions, setCheckedQuestions] = useState(new Set());
   const [focusedMode, setFocusedMode] = useState(false);
-  const [sequentialMode, setSequentialMode] = useState(false);
   const [showOnlyWrong, setShowOnlyWrong] = useState(false);
   const questionRefs = useRef({});
   const historySavedRef = useRef(false);
@@ -236,31 +269,18 @@ export default function PracticePage() {
                   : `${answeredCount} / ${questions.length} 回答済み`
                 }
               </span>
-              <div style={{ display: 'flex', gap: '6px' }}>
-                <button
-                  className={styles.focusToggle}
-                  onClick={() => setSequentialMode(true)}
-                  style={{ '--accent': accent }}
-                  aria-label="連続出題"
-                >
-                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-                    <path d="M4 3L12 8L4 13V3Z" stroke="currentColor" strokeWidth="1.3" strokeLinejoin="round"/>
-                  </svg>
-                  連続出題
-                </button>
-                <button
-                  className={styles.focusToggle}
-                  onClick={() => setFocusedMode(true)}
-                  style={{ '--accent': accent }}
-                  aria-label="1問ずつ表示"
-                >
-                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-                    <rect x="2" y="3" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3"/>
-                    <rect x="2" y="9" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3" opacity="0.3"/>
-                  </svg>
-                  1問ずつ
-                </button>
-              </div>
+              <button
+                className={styles.focusToggle}
+                onClick={() => setFocusedMode(true)}
+                style={{ '--accent': accent }}
+                aria-label="1問ずつ表示"
+              >
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                  <rect x="2" y="3" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3"/>
+                  <rect x="2" y="9" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3" opacity="0.3"/>
+                </svg>
+                1問ずつ
+              </button>
             </div>
             <div className={styles.progressTrack}>
               {checkedCount > 0 && (
@@ -304,7 +324,7 @@ export default function PracticePage() {
             if (item.type === 'passageGroup') {
               return (
                 <PassageGroup
-                  key={item.passageAudio}
+                  key={item._groupKey || item.passageAudio}
                   passageAudio={item.passageAudio}
                   passageLabel={item.passageLabel}
                   questions={item.questions}
@@ -417,20 +437,6 @@ export default function PracticePage() {
         />
       )}
 
-      {/* Sequential group practice overlay */}
-      {sequentialMode && (
-        <SequentialPracticeView
-          renderItems={renderItems}
-          answers={answers}
-          checkedQuestions={checkedQuestions}
-          onAnswer={handleAnswer}
-          onCheck={handleCheckQuestion}
-          onClose={() => setSequentialMode(false)}
-          accentColor={accent}
-          sectionTitle={sectionTitle}
-          examTitle={examSet?.meta?.title}
-        />
-      )}
     </div>
   );
 }
