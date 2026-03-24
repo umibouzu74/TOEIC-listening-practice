@@ -1,0 +1,242 @@
+[
+  {
+    "id": "q71",
+    "number": 71,
+    "answer": "D",
+    "script": "Hello, this is Karen Smith. I have an appointment with Dr. Miller for my annual eye exam on Tuesday. Unfortunately, I won't be able to make it. If possible, I'd like to reschedule for later in the week. If Dr. Miller is available in the afternoon, that would work better for me. I also wanted to ask about your warranty for eyeglasses. What exactly does the warranty cover? Thank you, and please call me back at 555-0110.",
+    "scriptJa": "もしもし、カレン・スミスです。火曜日にミラー先生の年に一度の視力検査の予約を入れているのですが、残念ながら行けなくなりました。可能であれば、今週の後半に変更したいのですが。ミラー先生が午後に空いていれば、その方が都合がいいです。それから、眼鏡の保証についてもお聞きしたいのですが、正確にどのような内容が保証されるのでしょうか？よろしくお願いします。555-0110に折り返しお電話ください。",
+    "explanation": "話者が冒頭で火曜日にミラー先生の年に一度の視力検査の予約があると述べていることから、眼科に電話をかけているとわかるため、(D)が正解。"
+  },
+  {
+    "id": "q72",
+    "number": 72,
+    "answer": "B",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が残念ながら行けなくなったので今週後半に変更したいと述べているため、予約の日程変更が必要であり、(B)が正解。"
+  },
+  {
+    "id": "q73",
+    "number": 73,
+    "answer": "C",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が後半で眼鏡の保証について質問し、正確にどのような内容が保証されるのか聞きたいと述べているため、(C)が正解。"
+  },
+  {
+    "id": "q74",
+    "number": 74,
+    "answer": "A",
+    "script": "Curious about how chocolate is made? Then come visit us at Bodin's Chocolate Factory! You'll have a great time. We offer guided tours every Saturday and Sunday at our factory, located directly across from Appleton Shopping Center. During your two-hour visit, you'll observe the creation and packaging of Bodin's products. And each visitor will get their picture taken with Cheery, our adorable chocolate mascot, to take home as a souvenir. Right now, with the coupon available on our Web site, you can bring in a group of twelve or more people for half the price. Download yours today!",
+    "scriptJa": "チョコレートがどうやって作られるか気になりませんか？それならボダンのチョコレート工場にぜひお越しください！きっと楽しい時間を過ごせますよ。毎週土曜日と日曜日に、アップルトン・ショッピングセンターの真向かいにある工場でガイド付きツアーを提供しています。2時間の見学で、ボダン製品の製造と包装の工程をご覧いただけます。そして、すべての来場者が当社の可愛いチョコレートマスコット「チアリー」と一緒に写真を撮って、記念品としてお持ち帰りいただけます。現在、ウェブサイトのクーポンを使えば、12名以上の団体で半額になります。今すぐダウンロードしてください！",
+    "explanation": "話者がチョコレート工場でガイド付きツアーを提供していると述べていることから、工場見学の広告であるため、(A)が正解。"
+  },
+  {
+    "id": "q75",
+    "number": 75,
+    "answer": "D",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者がすべての来場者がチョコレートマスコットのチアリーと一緒に写真を撮って記念品として持ち帰れると述べているため、(D)が正解。"
+  },
+  {
+    "id": "q76",
+    "number": 76,
+    "answer": "D",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が後半でウェブサイトのクーポンを使えば12名以上の団体で半額になると述べ、今すぐダウンロードするよう勧めているため、(D)が正解。"
+  },
+  {
+    "id": "q77",
+    "number": 77,
+    "answer": "D",
+    "script": "Attention, everyone. Unfortunately, we've had to stop the movie. As you've probably noticed, we're having technical difficulties with the audio. I'm very sorry about this — we take our sound quality seriously and want you to know we'll have technicians here as soon as possible to resolve this issue. As you exit, please stop by the customer service desk in the lobby to pick up two free tickets for your next movie. Again, my apologies for the inconvenience.",
+    "scriptJa": "皆様にお知らせいたします。残念ながら、映画を中断せざるを得なくなりました。お気づきかと思いますが、音声に技術的な問題が発生しています。大変申し訳ございません。音質には真剣に取り組んでおり、できるだけ早く技術者を呼んでこの問題を解決いたします。お帰りの際は、ロビーのカスタマーサービスカウンターにお立ち寄りいただき、次回の映画の無料チケット2枚をお受け取りください。重ねてご不便をおかけして申し訳ございません。",
+    "explanation": "話者が映画を中断せざるを得なくなったと述べていることから、映画館でのアナウンスであるとわかるため、(D)が正解。"
+  },
+  {
+    "id": "q78",
+    "number": 78,
+    "answer": "C",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が音声に技術的な問題が発生していると述べて謝罪しているため、(C)が正解。"
+  },
+  {
+    "id": "q79",
+    "number": 79,
+    "answer": "D",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者がロビーのカスタマーサービスカウンターで次回の映画の無料チケット2枚を受け取るよう案内しているため、(D)が正解。"
+  },
+  {
+    "id": "q80",
+    "number": 80,
+    "answer": "A",
+    "script": "Welcome to Branson Tech's second annual conference on computer security. We decided to try something different to publicize the event this year. We advertised primarily through social media rather than by e-mail newsletters or on company Web sites. And over 300 people are here! The first presentations will begin in fifteen minutes. The talks will take place in different rooms throughout the building, so please be sure to check your programs for the list of topics, speakers, and locations.",
+    "scriptJa": "ブランソン・テック社の第2回コンピュータセキュリティ年次会議にようこそ。今年はイベントの宣伝方法を変えてみることにしました。メールニュースレターや企業ウェブサイトではなく、主にソーシャルメディアを通じて広告しました。そして300名以上の方々にお越しいただきました！最初のプレゼンテーションは15分後に始まります。講演は建物内のさまざまな部屋で行われますので、プログラムでトピック、講演者、場所の一覧を必ずご確認ください。",
+    "explanation": "話者がブランソン・テック社のコンピュータセキュリティ年次会議への歓迎を述べていることから、テクノロジーカンファレンスであるため、(A)が正解。"
+  },
+  {
+    "id": "q81",
+    "number": 81,
+    "answer": "B",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が今年はソーシャルメディアで広告したと述べた後、300名以上が来場したと言っている。これは新しい広告方法が成功したことを示すためであるため、(B)が正解。"
+  },
+  {
+    "id": "q82",
+    "number": 82,
+    "answer": "C",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が最後にプログラムでトピック、講演者、場所の一覧を確認するよう求めているため、(C)が正解。"
+  },
+  {
+    "id": "q83",
+    "number": 83,
+    "answer": "C",
+    "script": "Welcome, everyone. On behalf of the Department of Transportation, I'd like to announce a new experimental program to reduce traffic in Greenville. Beginning in January, there will be a ten-dollar fee for each car that enters the city. There will, however, be a lower fee for people who commute to Greenville for work. They will be asked to pay five dollars rather than ten dollars. These charges are aimed at deterring drivers from coming into this very crowded area. The program will be in effect for three months. After that, we will determine if the program has decreased traffic congestion enough to continue it permanently.",
+    "scriptJa": "皆様、ようこそ。交通局を代表して、グリーンビルの交通量を削減するための新しい実験的プログラムを発表いたします。1月から、市内に入るすべての車に10ドルの料金が課されます。ただし、グリーンビルに通勤する方々にはより低い料金が適用されます。10ドルではなく5ドルの支払いとなります。これらの料金は、この非常に混雑した地域に車で来ることを抑制することを目的としています。このプログラムは3か月間実施されます。その後、交通渋滞が十分に緩和されたかどうかを判断し、恒久的に継続するかを決定します。",
+    "explanation": "話者が交通局を代表してグリーンビルの交通量を削減するための新プログラムを発表すると述べているため、(C)が正解。"
+  },
+  {
+    "id": "q84",
+    "number": 84,
+    "answer": "A",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者がグリーンビルに通勤する人々にはより低い料金が適用されると述べているため、(A)が正解。"
+  },
+  {
+    "id": "q85",
+    "number": 85,
+    "answer": "D",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者がプログラムは3か月間実施され、その後交通渋滞が十分に緩和されたかを判断すると述べているため、(D)が正解。"
+  },
+  {
+    "id": "q86",
+    "number": 86,
+    "answer": "B",
+    "script": "Thanks for tuning in to Music Today on Radio 49. First, a reminder that the Classical Music Festival is this weekend. Radio 49 is giving listeners a chance to win a pair of tickets by entering a contest. And tickets are almost sold out. Just go to our Web site and tell us what you enjoy most on our station, and we'll pick a winner at random. This year is the tenth anniversary of the event, which was founded by a famous classical musician, Umesh Gupta. On tomorrow morning's program, Mr. Gupta will be here for an interview about the history of the festival. Be sure to join us for that.",
+    "scriptJa": "ラジオ49の「ミュージック・トゥデイ」をお聴きいただきありがとうございます。まず、クラシック音楽祭が今週末に開催されることをお知らせします。ラジオ49では、コンテストに参加してチケット2枚を獲得するチャンスをリスナーの皆さんに提供しています。チケットはほぼ完売です。ウェブサイトにアクセスして、当局で一番楽しんでいる番組を教えてください。抽選で当選者を選びます。今年はこのイベントの10周年で、有名なクラシック音楽家のウメシュ・グプタ氏が創設しました。明日の朝の番組では、グプタ氏がここに来て祭典の歴史についてインタビューを行います。ぜひご参加ください。",
+    "explanation": "話者がクラシック音楽祭が今週末に開催されることを知らせていることから、音楽祭について話しているため、(B)が正解。"
+  },
+  {
+    "id": "q87",
+    "number": 87,
+    "answer": "A",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者がコンテストに参加してチケットを獲得するチャンスがあると述べた後、チケットはほぼ完売だと言っている。これはリスナーにコンテストへの参加を急がせるためであるため、(A)が正解。"
+  },
+  {
+    "id": "q88",
+    "number": 88,
+    "answer": "C",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が明日の朝の番組でグプタ氏が祭典の歴史についてインタビューを行うと述べているため、(C)が正解。"
+  },
+  {
+    "id": "q89",
+    "number": 89,
+    "answer": "C",
+    "script": "Thank you for visiting our booth here at the trade fair. We're so excited to show you our new patio furniture. You're probably familiar with our wooden outdoor tables and chairs, and we want you to know that we've expanded that line to include plastic furniture. This furniture is very durable. It can withstand any kind of weather — and it needs no maintenance. I'm going to hand out a sample of the plastic material we use. Please pass it around after you've had a chance to look at it.",
+    "scriptJa": "こちらの見本市で当社のブースにお越しいただきありがとうございます。新しいパティオ家具をご紹介できることをとても楽しみにしています。当社の木製アウトドアテーブルや椅子はすでにご存じかと思いますが、このラインナップをプラスチック家具にも拡大したことをお知らせします。この家具は非常に耐久性があります。どんな天候にも耐えられ、メンテナンスも不要です。当社が使用しているプラスチック素材のサンプルをお配りします。ご覧になったら隣の方にお回しください。",
+    "explanation": "話者が冒頭で見本市のブースへの来場に感謝し、新しいパティオ家具を紹介すると述べていることから、家具製造会社であるとわかるため、(C)が正解。"
+  },
+  {
+    "id": "q90",
+    "number": 90,
+    "answer": "B",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者がプラスチック家具のラインナップに拡大したと述べ、非常に耐久性があると説明しているため、(B)が正解。"
+  },
+  {
+    "id": "q91",
+    "number": 91,
+    "answer": "D",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が最後にプラスチック素材のサンプルを配るのでご覧になったら隣の方にお回しくださいと述べているため、(D)が正解。"
+  },
+  {
+    "id": "q92",
+    "number": 92,
+    "answer": "B",
+    "script": "This is Noriko, the human resources supervisor here in Albany. I'm calling about your request to transfer to our branch in Havertown... I know your commute is difficult, and it takes you over an hour to drive to this office. So I've contacted the manager at that location, and there is a need for a skilled software engineer. There are a few forms that you'll need to fill out, though, to complete the request. Now we need to talk about your work schedule to decide when you'll start at the new location. Please call me back.",
+    "scriptJa": "オルバニーの人事課長のノリコです。ハーバータウン支店への転勤のご要望についてお電話しています。通勤が大変なのは承知しています。この事務所まで車で1時間以上かかりますよね。そこで、あちらの支店のマネージャーに連絡したところ、熟練のソフトウェアエンジニアが必要だとのことです。ただし、要望を完了するためにいくつかの書類に記入していただく必要があります。それから、新しい勤務地でいつから働き始めるか決めるために、勤務スケジュールについて話し合う必要があります。折り返しお電話ください。",
+    "explanation": "話者が冒頭でオルバニーの人事課長のノリコと名乗っていることから、人事部であるとわかるため、(B)が正解。"
+  },
+  {
+    "id": "q93",
+    "number": 93,
+    "answer": "C",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者がハーバータウン支店への転勤要望について電話し、あちらの支店のマネージャーに連絡して熟練ソフトウェアエンジニアが必要だと確認したと述べていることから、転勤要請を承認するためであるため、(C)が正解。"
+  },
+  {
+    "id": "q94",
+    "number": 94,
+    "answer": "D",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が後半で新しい勤務地でいつから働き始めるか決めるために勤務スケジュールについて話し合う必要があると述べているため、(D)が正解。"
+  },
+  {
+    "id": "q95",
+    "number": 95,
+    "answer": "A",
+    "script": "You're listening to Making My Company with Mark Sullivan. In each episode I invite entrepreneurs from around the world to talk about how they built their successful businesses. In celebration of our radio show's ten-year anniversary, our Web site now has all of our previously aired episodes. You can access them with the click of a button. You can even download them onto mobile devices to listen to on the go! OK, now, I welcome Haru Nakamura to the show. Ms. Nakamura is excited to be here today.",
+    "scriptJa": "皆さんはマーク・サリバンの「マイ・カンパニーを作る」をお聴きいただいています。毎回、世界中の起業家をお招きして、成功したビジネスをどのように築いたかについてお話しいただいています。ラジオ番組の10周年を記念して、ウェブサイトに過去の放送回をすべて掲載しました。ボタン一つでアクセスできます。モバイル端末にダウンロードして移動中に聴くこともできますよ！さて、今日はハル・ナカムラさんをお迎えします。ナカムラさんは今日ここに来られてとても楽しみにしているようです。",
+    "explanation": "話者が毎回世界中の起業家を招いて成功したビジネスの構築について話してもらうと述べていることから、ゲストはビジネスについて話すために招かれているため、(A)が正解。"
+  },
+  {
+    "id": "q96",
+    "number": 96,
+    "answer": "D",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者がウェブサイトに過去の放送回をすべて掲載し、ボタン一つでアクセスできると述べているため、(D)が正解。"
+  },
+  {
+    "id": "q97",
+    "number": 97,
+    "answer": "C",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が最後にハル・ナカムラさんを紹介し、今日ここに来て楽しみにしていると述べている。スケジュール表によるとナカムラさんは木曜日のゲストであるため、(C)が正解。"
+  },
+  {
+    "id": "q98",
+    "number": 98,
+    "answer": "A",
+    "script": "It's Akira, calling from the district manager's office. The visual merchandising team wants to make a slight change to the fall display standards that we sent you yesterday. They want to move the shirts with the vertical stripes — hang them instead of having them displayed on the shelf. We'll display some colorful accessories there instead, like scarves and ties. Also, hang all the socks on gridwall panels by the cash registers. Those sell best when people can grab them when they walk up to pay. The thicker, cold-weather socks will be shipped to you soon. You'll get an e-mail confirmation with the details when they're sent.",
+    "scriptJa": "アキラです、地区マネージャーの事務所からお電話しています。ビジュアルマーチャンダイジングチームが、昨日お送りした秋の陳列基準を少し変更したいとのことです。縦縞のシャツを棚に陳列するのではなく、吊るして展示してほしいそうです。代わりにスカーフやネクタイなどの華やかなアクセサリーをそこに陳列します。また、靴下はすべてレジの横にある格子パネルに吊るしてください。お客様がお会計の際に手に取れる場所が一番売れるんです。厚手の冬用靴下はもうすぐ届きます。発送時に詳細を記載したメール確認書をお送りします。",
+    "explanation": "話者が縦縞のシャツを棚から移動させ、代わりにスカーフやネクタイなどのアクセサリーを陳列すると述べている。陳列図によると、シャツが棚1に表示されているので、スカーフとネクタイは棚1に陳列されるため、(A)が正解。"
+  },
+  {
+    "id": "q99",
+    "number": 99,
+    "answer": "D",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が靴下をすべてレジの横にある格子パネルに吊るすよう指示しているため、(D)が正解。"
+  },
+  {
+    "id": "q100",
+    "number": 100,
+    "answer": "C",
+    "script": "",
+    "scriptJa": "",
+    "explanation": "話者が最後に厚手の冬用靴下がもうすぐ届き、発送時に詳細を記載したメール確認書を送ると述べているため、(C)が正解。"
+  }
+]
