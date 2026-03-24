@@ -831,9 +831,10 @@
               "text": "A meeting with visiting colleagues"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "D",
+          "explanation": "女性が最初の発言で金曜日にニューヨークオフィスの同僚と会議をするために会議室を予約したいと述べているため、(D)が正解。",
+          "script": "W: Hi, it's Martina from Accounting. I'd like to reserve the main conference room for a meeting I'll be leading on Friday with colleagues from our New York office.\nM: Sure, that shouldn't be a problem. What time is the meeting?\nW: It's from nine to eleven A.M.\nM: OK — I'll block off that time slot for you. Do you need any special equipment besides a laptop and projector?\nW: No, but I'll need the key so I can go in a little early and set up. Can I pick that up on Friday morning?\nM: Absolutely.",
+          "scriptJa": "W: こんにちは、経理部のマルティナです。金曜日にニューヨークオフィスの同僚と会議をするので、メインの会議室を予約したいのですが。\nM: もちろん、問題ありません。会議は何時ですか？\nW: 午前9時から11時までです。\nM: わかりました。その時間帯を確保しておきます。ノートパソコンとプロジェクター以外に特別な機器は必要ですか？\nW: いいえ、でも少し早く入って準備できるように鍵が必要です。金曜の朝に受け取りに行ってもいいですか？\nM: もちろんです。"
         },
         {
           "id": "q33",
@@ -858,8 +859,8 @@
               "text": "A company president"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "男性が会議の時間を確認し、時間帯を確保すると述べていることから、事務補助の役割だとわかるため、(B)が正解。",
           "script": ""
         },
         {
@@ -885,8 +886,8 @@
               "text": "A parking pass"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "女性が3番目の発言で少し早く入って準備できるように鍵が必要だと述べ、金曜の朝に受け取りに行けるか尋ねているため、(B)が正解。",
           "script": ""
         },
         {
@@ -912,9 +913,10 @@
               "text": "Updating an employee handbook"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "女性が最初の発言で来年の予算案の作成を始めたか尋ねていることから、男性の担当業務は予算作成であるため、(A)が正解。",
+          "script": "W: Satoshi, have you already started working on the budget for next year?\nM: Not yet... but I do plan to start it in the next day or so.\nW: OK, perfect. I'd like to add some new engineers to my team next year if we can afford it. I thought one might be enough, but I realized we'll probably need three to handle our company's new contracts.\nM: No problem. I can include that in the budget. I'll just need the details about the positions, including the job titles and expected salaries. Could you send that to me?",
+          "scriptJa": "W: サトシ、来年の予算案の作成はもう始めましたか？\nM: まだです…でも明日あたりには始める予定です。\nW: そうですか、よかった。来年、余裕があれば私のチームに新しいエンジニアを何名か追加したいんです。1名で十分かと思っていましたが、会社の新しい契約を処理するには3名必要だと気づきました。\nM: 問題ありません。予算に含めておきます。役職名と予想年俸などの詳細情報が必要なので、送っていただけますか？"
         },
         {
           "id": "q36",
@@ -939,8 +941,8 @@
               "text": "Hire some team members"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "女性が2番目の発言で来年チームに新しいエンジニアを追加したいと述べているため、(D)が正解。",
           "script": ""
         },
         {
@@ -966,8 +968,8 @@
               "text": "Set up a meeting time"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "男性が最後の発言で役職名と予想年俸の詳細情報を送ってほしいと頼んでいるため、(C)が正解。",
           "script": ""
         },
         {
@@ -993,9 +995,10 @@
               "text": "A television appearance"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "女性が最初の発言で来週就職面接があるので新しいスーツを買いたいと述べているため、(A)が正解。",
+          "script": "M: Welcome to Business Suit Outlet. How can I help you?\nW: Hello. I'm interviewing for a job next week, and I wanted to buy a new suit.\nM: Congratulations! Do you have anything particular in mind?\nW: Well, there's one in your display window that looks nice. But I don't really like the color...\nM: That one only comes in black. But we do have suits in other colors that are fashionable and appropriate for business.\nW: OK. I can only spend 150 dollars, and I'd like a style similar to the one in the window.\nM: Let me show you some suits in that price range. By the way, any alterations needed for the suit are included in the price.",
+          "scriptJa": "M: スーツアウトレットへようこそ。いかがなさいましたか？\nW: こんにちは。来週就職面接があるので、新しいスーツを買いたいのですが。\nM: おめでとうございます！何か特にお考えのものはありますか？\nW: ええ、ショーウィンドウに素敵なものがあるのですが、色があまり好みではなくて…\nM: あちらは黒しかないんです。でも他の色で、おしゃれでビジネスにも適したスーツもございますよ。\nW: そうですか。予算は150ドルまでで、ショーウィンドウのものと似たスタイルがいいのですが。\nM: その価格帯のスーツをお見せしましょう。ちなみに、スーツに必要なお直しはすべて価格に含まれています。"
         },
         {
           "id": "q39",
@@ -1020,8 +1023,8 @@
               "text": "The color"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "女性が2番目の発言でショーウィンドウのスーツは素敵だが色が好みではないと述べているため、(D)が正解。",
           "script": ""
         },
         {
@@ -1047,8 +1050,8 @@
               "text": "Delivery"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "男性が最後の発言でスーツに必要なお直しはすべて価格に含まれていると述べているため、(B)が正解。",
           "script": ""
         },
         {
@@ -1074,9 +1077,10 @@
               "text": "A book publishing company"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "男性が最初の発言で図書館のロビーで映画のシーンを撮影したいと述べていることから、映画制作会社で働いていることがわかるため、(C)が正解。",
+          "script": "W: Ellenville Public Library. How can I help you?\nM: Hi, I'm calling from the company Grover and James. We're interested in filming a scene for a movie in the lobby of the library. Its historic architecture is just what we're looking for.\nW: Well... we actually had a film shoot in our library last year. And the thing is... they said it would take one day and it ended up taking three. I'm concerned that will happen again.\nM: I understand, but this is a very short scene.\nW: Well, we have a board meeting here next week. I could give you ten minutes at the beginning to give us the details.",
+          "scriptJa": "W: エレンビル公立図書館です。いかがなさいましたか？\nM: こんにちは、グローバー・アンド・ジェームズ社から電話しています。図書館のロビーで映画のワンシーンを撮影したいのですが。歴史的な建築様式がまさに私たちが探しているものなんです。\nW: そうですか…実は昨年も図書館で映画撮影があったんです。それで問題は…1日で終わると言っていたのに結局3日かかったんです。また同じことが起きないか心配で。\nM: わかります。でも今回はとても短いシーンなんです。\nW: そうですね、来週ここで理事会があるんです。最初に10分ほどお時間をとって詳細をお聞きすることはできますよ。"
         },
         {
           "id": "q42",
@@ -1101,8 +1105,8 @@
               "text": "The skills of some workers"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "女性が2番目の発言で昨年の撮影が1日の予定が3日かかったと述べ、また同じことが起きないか心配だと言っているため、プロジェクトの期間を懸念しており、(A)が正解。",
           "script": ""
         },
         {
@@ -1128,8 +1132,8 @@
               "text": "Measure a space"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "女性が最後の発言で来週の理事会の最初に10分ほど時間をとって詳細を説明してもらえると述べているため、(B)が正解。",
           "script": ""
         },
         {
@@ -1155,9 +1159,10 @@
               "text": "An artist"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "D",
+          "explanation": "男性が最初の発言でアクセル・シュミットの絵画を探していることから、シュミットは画家であるとわかるため、(D)が正解。",
+          "script": "M: Excuse me, I'm looking for Axel Schmidt's painting titled The Tulips.\nW: Unfortunately, his paintings aren't on display. But it's just temporary — we're putting new flooring in that gallery. If you come back in a couple of weeks, the floors will be done, and you can see all of Schmidt's artwork.\nM: Oh, that's too bad. I really wanted to see that painting.\nW: I'm sorry about that. But we sell items featuring that painting in the gift shop. You could buy a souvenir so you could enjoy The Tulips every day!",
+          "scriptJa": "M: すみません、アクセル・シュミットの《チューリップ》という絵を探しているのですが。\nW: 残念ながら、彼の絵は現在展示されていません。でも一時的なもので、あのギャラリーの床を新しく張り替えているんです。2週間後に戻っていただければ、床の工事が終わってシュミットの作品をすべてご覧いただけますよ。\nM: それは残念です。あの絵をぜひ見たかったのですが。\nW: 申し訳ございません。でもギフトショップであの絵が描かれた商品を販売していますよ。記念品を購入すれば、毎日《チューリップ》を楽しめますよ！"
         },
         {
           "id": "q45",
@@ -1182,8 +1187,8 @@
               "text": "Some light fixtures are being repaired."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "女性が最初の発言でギャラリーの床を新しく張り替えていると述べているため、(B)が正解。",
           "script": ""
         },
         {
@@ -1209,8 +1214,8 @@
               "text": "Take a photograph"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "女性が最後の発言でギフトショップであの絵が描かれた商品を販売しており、記念品を買えば毎日楽しめると勧めているため、(A)が正解。",
           "script": ""
         },
         {
@@ -1236,9 +1241,10 @@
               "text": "Automobiles"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "D",
+          "explanation": "女性が最初の発言で販売報告書をまだ作成しているか尋ね、自動車販売店からデータを集めていると述べていることから、自動車を販売する会社に勤めていることがわかるため、(D)が正解。",
+          "script": "W: Hey, Dmitry. Are you still working on your sales report? Collecting all the data from the car dealerships in my region is taking me such a long time. Especially because this year management wants additional information on vehicle purchases, like model and color...\nM: Are you using the sales computation software? That's what I used for my report, and it worked really well.\nW: Oh — you already finished it?\nM: Well — I'm done collecting and analyzing the data, but I'm having trouble with the presentation. We didn't get any guidelines for that.\nW: Remember Julie's presentation last year? It was very impressive. The slides are available on our company intranet.",
+          "scriptJa": "W: ねえ、ドミトリー。まだ販売報告書を作成しているの？担当地域の自動車販売店からデータを全部集めるのにすごく時間がかかっていて。特に今年は経営陣が車両購入に関してモデルや色などの追加情報を求めているから…\nM: 販売計算ソフトウェアを使っている？僕は報告書にそれを使ったんだけど、本当に効果的だったよ。\nW: えっ、もう終わったの？\nM: うーん、データの収集と分析は終わったんだけど、プレゼンテーションに困っていて。ガイドラインが何もなかったんだ。\nW: 去年のジュリーのプレゼンを覚えてる？とても素晴らしかったわよ。スライドは社内イントラネットで見られるわ。"
         },
         {
           "id": "q48",
@@ -1263,8 +1269,8 @@
               "text": "The man bought a new car."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "男性が販売計算ソフトウェアを使っているか尋ね、報告書に使って効果的だったと述べたのに対し、女性がもう終わったのかと驚いているため、(C)が正解。",
           "script": ""
         },
         {
@@ -1290,8 +1296,8 @@
               "text": "To indicate that a file is in the wrong location"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "男性がプレゼンテーションに困っていると述べた後、女性が去年のジュリーのプレゼンが素晴らしかったと言い、スライドが社内イントラネットで見られると伝えている。これは参考資料として活用するよう勧めているため、(B)が正解。",
           "script": ""
         },
         {
@@ -1317,9 +1323,10 @@
               "text": "A study will be completed."
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "女性が最初の発言でローザ・ガルシアが11月末に退職すると述べているため、(B)が正解。",
+          "script": "W: Thanks for coming in, Omar. You might've heard that Rosa Garcia is retiring at the end of November. This means her position as director of information security in Singapore will be vacant. I'd like to know if you'd be interested.\nM: Oh! That would be a promotion for me. Well, hmm, I'll need a little time to think about it and talk it over with my family. I do have a question. When would I start the position?\nW: The first week of December ideally. We'd pay for all your moving expenses, of course. If you decide to accept the offer.",
+          "scriptJa": "W: 来てくれてありがとう、オマール。ローザ・ガルシアが11月末に退職するという話は聞いたかもしれないわね。つまりシンガポールの情報セキュリティ部長の職が空くことになるの。興味があるかどうか聞きたくて。\nM: えっ！それは僕にとって昇進になりますね。うーん、少し考える時間が必要です。家族とも相談したいので。一つ質問があるのですが、いつからその職に就くことになりますか？\nW: 理想的には12月の第1週です。もちろん引っ越し費用はすべて会社が負担します。オファーを受けていただけるなら。"
         },
         {
           "id": "q51",
@@ -1344,8 +1351,8 @@
               "text": "Why an event time has changed"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "男性がいつからその職に就くことになるのか質問していることから、仕事を始める時期を知りたがっているため、(B)が正解。",
           "script": ""
         },
         {
@@ -1371,8 +1378,8 @@
               "text": "Visitors' meals"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "女性が最後の発言で引っ越し費用はすべて会社が負担すると述べているため、(C)が正解。",
           "script": ""
         },
         {
@@ -1398,9 +1405,10 @@
               "text": "Construction"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "D",
+          "explanation": "最初の男性が自分たちの建設会社がダム建設の入札を勝ち取ったと述べていることから、建設業であるとわかるため、(D)が正解。",
+          "script": "M1: Maryam, did you hear that our construction company won the bid to build the river dam next to Burton City?\nW: I did! This is such a major project for us... the dam's expected to produce enough electricity to power all of Burton.\nM1: Right. Say, do you know when construction will begin?\nW: I don't, but here comes the project manager now. He may have a better idea... Gerhard, are there any updates on the dam construction?\nM2: Well, we're going to have to wait until all the permits are approved. It'll be a while before anything else can happen.",
+          "scriptJa": "M1: マリヤム、うちの建設会社がバートン市の隣に川のダムを建設する入札を勝ち取ったって聞いた？\nW: 聞いたわ！これは私たちにとってすごく大きなプロジェクトよ…そのダムはバートン市全体に電力を供給できるほどの発電が期待されているの。\nM1: そうだよね。ところで、いつ建設が始まるか知ってる？\nW: わからないけど、ちょうどプロジェクトマネージャーが来たわ。彼の方が詳しいかも…ゲルハルト、ダム建設について何か新しい情報はある？\nM2: ええ、許可が全部承認されるまで待たなければなりません。他のことが始まるまでにはしばらくかかりますよ。"
         },
         {
           "id": "q54",
@@ -1425,8 +1433,8 @@
               "text": "Improve property values"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "女性がダムはバートン市全体に電力を供給できるほどの発電が期待されていると述べているため、(B)が正解。",
           "script": ""
         },
         {
@@ -1452,8 +1460,8 @@
               "text": "Inspections need to be made."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "2番目の男性（ゲルハルト）が許可が全部承認されるまで待たなければならないと述べているため、(A)が正解。",
           "script": ""
         },
         {
@@ -1479,9 +1487,10 @@
               "text": "She has not received an assignment."
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "女性が「別にやることない」と言っているのは、忙しくないので手伝う時間があるという意味であるため、(A)が正解。",
+          "script": "M: I have a question about a customer's prescription — he's... oh, I'm sorry. I see you're busy.\nW: I don't have much to do.\nM: His doctor prescribed a 30-day supply of this allergy medication, but I noticed we only have enough on the shelf for fifteen days.\nW: Our weekly delivery arrives early tomorrow morning. Go ahead and give him the fifteen, and ask him to please come back for the rest. It's allergy season, so we're selling a lot of that medicine.\nM: Then maybe we should increase the number of bottles in our next order from the distributor.",
+          "scriptJa": "M: お客様の処方箋について質問があるのですが…あ、すみません。お忙しそうですね。\nW: 別にやることないわよ。\nM: 主治医がこのアレルギー薬を30日分処方したんですが、棚には15日分しかないようなんです。\nW: 毎週の配送が明日の朝早く届くわ。とりあえず15日分を渡して、残りを取りに来てもらうようお願いして。アレルギーの季節だから、あの薬はたくさん売れているのよ。\nM: それなら次回の注文で流通業者からの仕入れ本数を増やした方がいいかもしれませんね。"
         },
         {
           "id": "q57",
@@ -1506,8 +1515,8 @@
               "text": "The supply is limited."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "男性が2番目の発言で主治医が30日分を処方したが棚には15日分しかないと述べていることから、在庫量が限られているため、(D)が正解。",
           "script": ""
         },
         {
@@ -1533,8 +1542,8 @@
               "text": "Recommending a different medication"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "男性が最後の発言で次回の注文で流通業者からの仕入れ本数を増やした方がいいと提案しているため、(C)が正解。",
           "script": ""
         },
         {
@@ -1560,9 +1569,10 @@
               "text": "A mail-room worker"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "最初の男性が女性に法務チームからのコメントを受け取ったと述べていることから、女性は法務部に所属していることがわかるため、(C)が正解。",
+          "script": "M1: Good morning, Ms. Davis. We've received comments from your legal team on the terms and agreements for the travel rewards credit card that we issued.\nM2: Could you explain the revisions we need to make to be in compliance with the law?\nW: Sure. The problem with the agreement is this: it doesn't disclose to users that if a card isn't used for a year, the account will be suspended.\nM1: Oh, that's an oversight on our part. We're glad you caught that.\nW: We don't want to be fined by banking regulators, so all cardholders will need to be notified by the end of the month.",
+          "scriptJa": "M1: おはようございます、デイビスさん。私どもが発行した旅行特典クレジットカードの利用規約について、そちらの法務チームからのコメントを受け取りました。\nM2: 法律に準拠するためにどのような修正が必要か説明していただけますか？\nW: もちろんです。規約の問題はこうです。カードを1年間使用しないと口座が停止されることをユーザーに開示していないんです。\nM1: ああ、それは私どもの見落としです。ご指摘いただいてよかったです。\nW: 銀行の規制当局から罰金を科されたくないので、すべてのカード所有者に月末までに通知する必要があります。"
         },
         {
           "id": "q60",
@@ -1587,8 +1597,8 @@
               "text": "An insurance certificate"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "最初の男性が旅行特典クレジットカードの利用規約について話し、女性が規約の問題点を指摘していることから、ユーザー規約を議論しているため、(A)が正解。",
           "script": ""
         },
         {
@@ -1614,8 +1624,8 @@
               "text": "To avoid paying a fine"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "女性が最後の発言で銀行の規制当局から罰金を科されたくないので月末までに通知する必要があると述べているため、(D)が正解。",
           "script": ""
         },
         {
@@ -1641,10 +1651,11 @@
               "text": "$400"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q62.jpg"
+          "answer": "C",
+          "explanation": "男性が最初の発言でスタッフが皿を片付けて車に積むと述べ、女性が料理がおいしかったと言っていることから、男性の会社は食事の提供サービスを行っている。表の費用一覧でCateringは$10,200であるため、(C)が正解。",
+          "script": "M: Ms. Giordano, it looks like the last of the wedding guests have left. My staff's going to start packing up our dishes and loading the van.\nW: That's fine, thank you. The food was delicious. My son and his new wife were very happy with your service.\nM: I'm glad you enjoyed it. And, again, I'm sorry that some of our waitstaff were late arriving. They said they drove right past the turnoff.\nW: I understand. The venue is difficult to see from the road. I really like this location, though, with its view of the mountains from the gardens in the back.",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q62.jpg",
+          "scriptJa": "M: ジョルダーノさん、結婚式の最後のお客様がお帰りになったようです。スタッフがお皿を片付けて車に積み込みます。\nW: 結構ですよ、ありがとうございます。お料理はとてもおいしかったです。息子と新しい奥さんもサービスにとても満足していましたよ。\nM: 楽しんでいただけてうれしいです。改めまして、ウェイターの何名かが遅れて到着したことをお詫びします。道を通り過ぎてしまったそうです。\nW: わかりますよ。道路からはこの会場が見えにくいですからね。でも裏の庭園から見える山の景色が本当にいいので、この場所がとても気に入っています。"
         },
         {
           "id": "q63",
@@ -1669,8 +1680,8 @@
               "text": "A request could not be fulfilled."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "男性が3番目の発言でウェイターの何名かが遅れて到着したことを謝罪しているため、(C)が正解。",
           "script": ""
         },
         {
@@ -1696,8 +1707,8 @@
               "text": "It can host large events."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "女性が最後の発言で裏の庭園から見える山の景色が本当にいいのでこの場所が気に入っていると述べているため、(A)が正解。",
           "script": ""
         },
         {
@@ -1723,10 +1734,11 @@
               "text": "Some musicians scheduled a second concert."
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q65.jpg"
+          "answer": "C",
+          "explanation": "女性がコンサートのチケットが2枚あると言い、男性が数日で売り切れたと聞いたのに驚いている。女性がチケットを入手できたことに驚いているため、(C)が正解。",
+          "script": "W: Hey, Thomas. You like concerts. Any chance you're interested in the local band showcase this weekend? I have two tickets that I don't need.\nM: You got tickets to that? That's surprising! I heard that they sold out in just a few days.\nW: They did, but I actually won these in a radio contest. That's why I'm giving them away instead of selling them. Good seats, too. Right in the middle, close to the stage.\nM: Sure, I'll take them. Thanks! Why can't you go?\nW: This weekend is my parents' anniversary. My sisters and I are planning a party for them at their home in Boston.",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q65.jpg",
+          "scriptJa": "W: ねえ、トーマス。コンサート好きよね。今週末の地元バンドのショーケースに興味ない？私には必要ないチケットが2枚あるんだけど。\nM: そのチケットがあるの？驚きだね！数日で売り切れたって聞いたけど。\nW: そうなのよ。でも実はラジオのコンテストで当てたの。だから売らずにあげようと思って。席もいいわよ。真ん中で、ステージに近いの。\nM: もちろんもらうよ。ありがとう！なんで行けないの？\nW: 今週末は両親の結婚記念日なの。姉妹と一緒にボストンの実家でパーティーを計画しているの。"
         },
         {
           "id": "q66",
@@ -1751,8 +1763,8 @@
               "text": "Section 4"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "女性が座席は真ん中でステージに近いと述べており、座席配置図によると真ん中でステージに近い区域は3区域であるため、(C)が正解。",
           "script": ""
         },
         {
@@ -1778,8 +1790,8 @@
               "text": "Attending a party"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "女性が最後の発言で今週末は両親の結婚記念日で、姉妹とボストンの実家でパーティーを計画していると述べているため、(D)が正解。",
           "script": ""
         },
         {
@@ -1805,10 +1817,11 @@
               "text": "A bank employee"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q68.jpg"
+          "answer": "B",
+          "explanation": "男性が最初の発言でベルビューアパート管理事務所と名乗り、入居者の対応をしていることから、アパートの管理職員であるとわかるため、(B)が正解。",
+          "script": "M: Hello. Bellevue Apartments Management Office. Can I help you?\nW: Hi. I'm Azusa Suzuki. I'm a new tenant here, and I live in 2A.\nM: How's everything in your apartment so far?\nW: Very good. One thing, though... When can you put my name on the building directory? It still says the previous tenant's name.\nM: No problem. I can send someone over now. Unit 2A, you said?\nW: Yes. And, I'll be stopping by your office tomorrow with my February rent check.\nM: OK. See you then.",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q68.jpg",
+          "scriptJa": "M: もしもし。ベルビューアパート管理事務所です。ご用件は何でしょうか？\nW: こんにちは。アズサ・スズキです。ここに新しく入居した者で、2Aに住んでいます。\nM: お部屋の調子はいかがですか？\nW: とてもいいです。ただ一つ…建物の名簿にいつ私の名前を載せてもらえますか？まだ前の入居者の名前のままなんです。\nM: 問題ありません。今すぐ誰かを送れますよ。2Aでしたね？\nW: はい。それから、明日2月分の家賃をお持ちして事務所に伺います。\nM: わかりました。それではまた。"
         },
         {
           "id": "q69",
@@ -1833,8 +1846,8 @@
               "text": "Tremblay"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "女性が新しく2Aに入居したと述べ、名簿にまだ前の入居者の名前が載っていると言っている。名簿によると2Aにはムカジーと表示されているため、(C)が正解。",
           "script": ""
         },
         {
@@ -1860,8 +1873,8 @@
               "text": "Make a payment"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "女性が3番目の発言で明日2月分の家賃を持って事務所に伺うと述べているため、(D)が正解。",
           "script": ""
         }
       ]
@@ -1896,9 +1909,10 @@
               "text": "An eye doctor's office"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "D",
+          "explanation": "話者が冒頭で火曜日にミラー先生の年に一度の視力検査の予約があると述べていることから、眼科に電話をかけているとわかるため、(D)が正解。",
+          "script": "Hello, this is Karen Smith. I have an appointment with Dr. Miller for my annual eye exam on Tuesday. Unfortunately, I won't be able to make it. If possible, I'd like to reschedule for later in the week. If Dr. Miller is available in the afternoon, that would work better for me. I also wanted to ask about your warranty for eyeglasses. What exactly does the warranty cover? Thank you, and please call me back at 555-0110.",
+          "scriptJa": "もしもし、カレン・スミスです。火曜日にミラー先生の年に一度の視力検査の予約を入れているのですが、残念ながら行けなくなりました。可能であれば、今週の後半に変更したいのですが。ミラー先生が午後に空いていれば、その方が都合がいいです。それから、眼鏡の保証についてもお聞きしたいのですが、正確にどのような内容が保証されるのでしょうか？よろしくお願いします。555-0110に折り返しお電話ください。"
         },
         {
           "id": "q72",
@@ -1923,8 +1937,8 @@
               "text": "It should be with a different person."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "話者が残念ながら行けなくなったので今週後半に変更したいと述べているため、予約の日程変更が必要であり、(B)が正解。",
           "script": ""
         },
         {
@@ -1950,8 +1964,8 @@
               "text": "A job opening"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者が後半で眼鏡の保証について質問し、正確にどのような内容が保証されるのか聞きたいと述べているため、(C)が正解。",
           "script": ""
         },
         {
@@ -1977,9 +1991,10 @@
               "text": "An art show"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "話者がチョコレート工場でガイド付きツアーを提供していると述べていることから、工場見学の広告であるため、(A)が正解。",
+          "script": "Curious about how chocolate is made? Then come visit us at Bodin's Chocolate Factory! You'll have a great time. We offer guided tours every Saturday and Sunday at our factory, located directly across from Appleton Shopping Center. During your two-hour visit, you'll observe the creation and packaging of Bodin's products. And each visitor will get their picture taken with Cheery, our adorable chocolate mascot, to take home as a souvenir. Right now, with the coupon available on our Web site, you can bring in a group of twelve or more people for half the price. Download yours today!",
+          "scriptJa": "チョコレートがどうやって作られるか気になりませんか？それならボダンのチョコレート工場にぜひお越しください！きっと楽しい時間を過ごせますよ。毎週土曜日と日曜日に、アップルトン・ショッピングセンターの真向かいにある工場でガイド付きツアーを提供しています。2時間の見学で、ボダン製品の製造と包装の工程をご覧いただけます。そして、すべての来場者が当社の可愛いチョコレートマスコット「チアリー」と一緒に写真を撮って、記念品としてお持ち帰りいただけます。現在、ウェブサイトのクーポンを使えば、12名以上の団体で半額になります。今すぐダウンロードしてください！"
         },
         {
           "id": "q75",
@@ -2004,8 +2019,8 @@
               "text": "A photograph"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者がすべての来場者がチョコレートマスコットのチアリーと一緒に写真を撮って記念品として持ち帰れると述べているため、(D)が正解。",
           "script": ""
         },
         {
@@ -2031,8 +2046,8 @@
               "text": "Download a coupon"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者が後半でウェブサイトのクーポンを使えば12名以上の団体で半額になると述べ、今すぐダウンロードするよう勧めているため、(D)が正解。",
           "script": ""
         },
         {
@@ -2058,9 +2073,10 @@
               "text": "At a movie theater"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "D",
+          "explanation": "話者が映画を中断せざるを得なくなったと述べていることから、映画館でのアナウンスであるとわかるため、(D)が正解。",
+          "script": "Attention, everyone. Unfortunately, we've had to stop the movie. As you've probably noticed, we're having technical difficulties with the audio. I'm very sorry about this — we take our sound quality seriously and want you to know we'll have technicians here as soon as possible to resolve this issue. As you exit, please stop by the customer service desk in the lobby to pick up two free tickets for your next movie. Again, my apologies for the inconvenience.",
+          "scriptJa": "皆様にお知らせいたします。残念ながら、映画を中断せざるを得なくなりました。お気づきかと思いますが、音声に技術的な問題が発生しています。大変申し訳ございません。音質には真剣に取り組んでおり、できるだけ早く技術者を呼んでこの問題を解決いたします。お帰りの際は、ロビーのカスタマーサービスカウンターにお立ち寄りいただき、次回の映画の無料チケット2枚をお受け取りください。重ねてご不便をおかけして申し訳ございません。"
         },
         {
           "id": "q78",
@@ -2085,8 +2101,8 @@
               "text": "A construction project is noisy."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者が音声に技術的な問題が発生していると述べて謝罪しているため、(C)が正解。",
           "script": ""
         },
         {
@@ -2112,8 +2128,8 @@
               "text": "Free tickets"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者がロビーのカスタマーサービスカウンターで次回の映画の無料チケット2枚を受け取るよう案内しているため、(D)が正解。",
           "script": ""
         },
         {
@@ -2139,9 +2155,10 @@
               "text": "A training workshop"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "話者がブランソン・テック社のコンピュータセキュリティ年次会議への歓迎を述べていることから、テクノロジーカンファレンスであるため、(A)が正解。",
+          "script": "Welcome to Branson Tech's second annual conference on computer security. We decided to try something different to publicize the event this year. We advertised primarily through social media rather than by e-mail newsletters or on company Web sites. And over 300 people are here! The first presentations will begin in fifteen minutes. The talks will take place in different rooms throughout the building, so please be sure to check your programs for the list of topics, speakers, and locations.",
+          "scriptJa": "ブランソン・テック社の第2回コンピュータセキュリティ年次会議にようこそ。今年はイベントの宣伝方法を変えてみることにしました。メールニュースレターや企業ウェブサイトではなく、主にソーシャルメディアを通じて広告しました。そして300名以上の方々にお越しいただきました！最初のプレゼンテーションは15分後に始まります。講演は建物内のさまざまな部屋で行われますので、プログラムでトピック、講演者、場所の一覧を必ずご確認ください。"
         },
         {
           "id": "q81",
@@ -2166,8 +2183,8 @@
               "text": "To suggest more volunteers are needed"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "話者が今年はソーシャルメディアで広告したと述べた後、300名以上が来場したと言っている。これは新しい広告方法が成功したことを示すためであるため、(B)が正解。",
           "script": ""
         },
         {
@@ -2193,8 +2210,8 @@
               "text": "Enjoy some refreshments"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者が最後にプログラムでトピック、講演者、場所の一覧を確認するよう求めているため、(C)が正解。",
           "script": ""
         },
         {
@@ -2220,9 +2237,10 @@
               "text": "To reduce government spending"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "話者が交通局を代表してグリーンビルの交通量を削減するための新プログラムを発表すると述べているため、(C)が正解。",
+          "script": "Welcome, everyone. On behalf of the Department of Transportation, I'd like to announce a new experimental program to reduce traffic in Greenville. Beginning in January, there will be a ten-dollar fee for each car that enters the city. There will, however, be a lower fee for people who commute to Greenville for work. They will be asked to pay five dollars rather than ten dollars. These charges are aimed at deterring drivers from coming into this very crowded area. The program will be in effect for three months. After that, we will determine if the program has decreased traffic congestion enough to continue it permanently.",
+          "scriptJa": "皆様、ようこそ。交通局を代表して、グリーンビルの交通量を削減するための新しい実験的プログラムを発表いたします。1月から、市内に入るすべての車に10ドルの料金が課されます。ただし、グリーンビルに通勤する方々にはより低い料金が適用されます。10ドルではなく5ドルの支払いとなります。これらの料金は、この非常に混雑した地域に車で来ることを抑制することを目的としています。このプログラムは3か月間実施されます。その後、交通渋滞が十分に緩和されたかどうかを判断し、恒久的に継続するかを決定します。"
         },
         {
           "id": "q84",
@@ -2247,8 +2265,8 @@
               "text": "City officials"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "話者がグリーンビルに通勤する人々にはより低い料金が適用されると述べているため、(A)が正解。",
           "script": ""
         },
         {
@@ -2274,8 +2292,8 @@
               "text": "A program evaluation will take place."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者がプログラムは3か月間実施され、その後交通渋滞が十分に緩和されたかを判断すると述べているため、(D)が正解。",
           "script": ""
         },
         {
@@ -2301,9 +2319,10 @@
               "text": "A historical play"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "話者がクラシック音楽祭が今週末に開催されることを知らせていることから、音楽祭について話しているため、(B)が正解。",
+          "script": "Thanks for tuning in to Music Today on Radio 49. First, a reminder that the Classical Music Festival is this weekend. Radio 49 is giving listeners a chance to win a pair of tickets by entering a contest. And tickets are almost sold out. Just go to our Web site and tell us what you enjoy most on our station, and we'll pick a winner at random. This year is the tenth anniversary of the event, which was founded by a famous classical musician, Umesh Gupta. On tomorrow morning's program, Mr. Gupta will be here for an interview about the history of the festival. Be sure to join us for that.",
+          "scriptJa": "ラジオ49の「ミュージック・トゥデイ」をお聴きいただきありがとうございます。まず、クラシック音楽祭が今週末に開催されることをお知らせします。ラジオ49では、コンテストに参加してチケット2枚を獲得するチャンスをリスナーの皆さんに提供しています。チケットはほぼ完売です。ウェブサイトにアクセスして、当局で一番楽しんでいる番組を教えてください。抽選で当選者を選びます。今年はこのイベントの10周年で、有名なクラシック音楽家のウメシュ・グプタ氏が創設しました。明日の朝の番組では、グプタ氏がここに来て祭典の歴史についてインタビューを行います。ぜひご参加ください。"
         },
         {
           "id": "q87",
@@ -2328,8 +2347,8 @@
               "text": "To praise the results of a marketing plan"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "話者がコンテストに参加してチケットを獲得するチャンスがあると述べた後、チケットはほぼ完売だと言っている。これはリスナーにコンテストへの参加を急がせるためであるため、(A)が正解。",
           "script": ""
         },
         {
@@ -2355,8 +2374,8 @@
               "text": "A video will be filmed."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者が明日の朝の番組でグプタ氏が祭典の歴史についてインタビューを行うと述べているため、(C)が正解。",
           "script": ""
         },
         {
@@ -2382,9 +2401,10 @@
               "text": "An office-supply distributor"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "話者が冒頭で見本市のブースへの来場に感謝し、新しいパティオ家具を紹介すると述べていることから、家具製造会社であるとわかるため、(C)が正解。",
+          "script": "Thank you for visiting our booth here at the trade fair. We're so excited to show you our new patio furniture. You're probably familiar with our wooden outdoor tables and chairs, and we want you to know that we've expanded that line to include plastic furniture. This furniture is very durable. It can withstand any kind of weather — and it needs no maintenance. I'm going to hand out a sample of the plastic material we use. Please pass it around after you've had a chance to look at it.",
+          "scriptJa": "こちらの見本市で当社のブースにお越しいただきありがとうございます。新しいパティオ家具をご紹介できることをとても楽しみにしています。当社の木製アウトドアテーブルや椅子はすでにご存じかと思いますが、このラインナップをプラスチック家具にも拡大したことをお知らせします。この家具は非常に耐久性があります。どんな天候にも耐えられ、メンテナンスも不要です。当社が使用しているプラスチック素材のサンプルをお配りします。ご覧になったら隣の方にお回しください。"
         },
         {
           "id": "q90",
@@ -2409,8 +2429,8 @@
               "text": "It comes in many colors."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "話者がプラスチック家具のラインナップに拡大したと述べ、非常に耐久性があると説明しているため、(B)が正解。",
           "script": ""
         },
         {
@@ -2436,8 +2456,8 @@
               "text": "Look at a sample"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者が最後にプラスチック素材のサンプルを配るのでご覧になったら隣の方にお回しくださいと述べているため、(D)が正解。",
           "script": ""
         },
         {
@@ -2463,9 +2483,10 @@
               "text": "Accounting"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "話者が冒頭でオルバニーの人事課長のノリコと名乗っていることから、人事部であるとわかるため、(B)が正解。",
+          "script": "This is Noriko, the human resources supervisor here in Albany. I'm calling about your request to transfer to our branch in Havertown... I know your commute is difficult, and it takes you over an hour to drive to this office. So I've contacted the manager at that location, and there is a need for a skilled software engineer. There are a few forms that you'll need to fill out, though, to complete the request. Now we need to talk about your work schedule to decide when you'll start at the new location. Please call me back.",
+          "scriptJa": "オルバニーの人事課長のノリコです。ハーバータウン支店への転勤のご要望についてお電話しています。通勤が大変なのは承知しています。この事務所まで車で1時間以上かかりますよね。そこで、あちらの支店のマネージャーに連絡したところ、熟練のソフトウェアエンジニアが必要だとのことです。ただし、要望を完了するためにいくつかの書類に記入していただく必要があります。それから、新しい勤務地でいつから働き始めるか決めるために、勤務スケジュールについて話し合う必要があります。折り返しお電話ください。"
         },
         {
           "id": "q93",
@@ -2490,8 +2511,8 @@
               "text": "To suggest consulting with an expert"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者がハーバータウン支店への転勤要望について電話し、あちらの支店のマネージャーに連絡して熟練ソフトウェアエンジニアが必要だと確認したと述べていることから、転勤要請を承認するためであるため、(C)が正解。",
           "script": ""
         },
         {
@@ -2517,8 +2538,8 @@
               "text": "A work schedule"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者が後半で新しい勤務地でいつから働き始めるか決めるために勤務スケジュールについて話し合う必要があると述べているため、(D)が正解。",
           "script": ""
         },
         {
@@ -2544,10 +2565,11 @@
               "text": "To offer travel tips"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q95.jpg"
+          "answer": "A",
+          "explanation": "話者が毎回世界中の起業家を招いて成功したビジネスの構築について話してもらうと述べていることから、ゲストはビジネスについて話すために招かれているため、(A)が正解。",
+          "script": "You're listening to Making My Company with Mark Sullivan. In each episode I invite entrepreneurs from around the world to talk about how they built their successful businesses. In celebration of our radio show's ten-year anniversary, our Web site now has all of our previously aired episodes. You can access them with the click of a button. You can even download them onto mobile devices to listen to on the go! OK, now, I welcome Haru Nakamura to the show. Ms. Nakamura is excited to be here today.",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q95.jpg",
+          "scriptJa": "皆さんはマーク・サリバンの「マイ・カンパニーを作る」をお聴きいただいています。毎回、世界中の起業家をお招きして、成功したビジネスをどのように築いたかについてお話しいただいています。ラジオ番組の10周年を記念して、ウェブサイトに過去の放送回をすべて掲載しました。ボタン一つでアクセスできます。モバイル端末にダウンロードして移動中に聴くこともできますよ！さて、今日はハル・ナカムラさんをお迎えします。ナカムラさんは今日ここに来られてとても楽しみにしているようです。"
         },
         {
           "id": "q96",
@@ -2572,8 +2594,8 @@
               "text": "Listen to previous episodes"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者がウェブサイトに過去の放送回をすべて掲載し、ボタン一つでアクセスできると述べているため、(D)が正解。",
           "script": ""
         },
         {
@@ -2599,8 +2621,8 @@
               "text": "Friday"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者が最後にハル・ナカムラさんを紹介し、今日ここに来て楽しみにしていると述べている。スケジュール表によるとナカムラさんは木曜日のゲストであるため、(C)が正解。",
           "script": ""
         },
         {
@@ -2626,10 +2648,11 @@
               "text": "On Shelf 4"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q98.jpg"
+          "answer": "A",
+          "explanation": "話者が縦縞のシャツを棚から移動させ、代わりにスカーフやネクタイなどのアクセサリーを陳列すると述べている。陳列図によると、シャツが棚1に表示されているので、スカーフとネクタイは棚1に陳列されるため、(A)が正解。",
+          "script": "It's Akira, calling from the district manager's office. The visual merchandising team wants to make a slight change to the fall display standards that we sent you yesterday. They want to move the shirts with the vertical stripes — hang them instead of having them displayed on the shelf. We'll display some colorful accessories there instead, like scarves and ties. Also, hang all the socks on gridwall panels by the cash registers. Those sell best when people can grab them when they walk up to pay. The thicker, cold-weather socks will be shipped to you soon. You'll get an e-mail confirmation with the details when they're sent.",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q98.jpg",
+          "scriptJa": "アキラです、地区マネージャーの事務所からお電話しています。ビジュアルマーチャンダイジングチームが、昨日お送りした秋の陳列基準を少し変更したいとのことです。縦縞のシャツを棚に陳列するのではなく、吊るして展示してほしいそうです。代わりにスカーフやネクタイなどの華やかなアクセサリーをそこに陳列します。また、靴下はすべてレジの横にある格子パネルに吊るしてください。お客様がお会計の際に手に取れる場所が一番売れるんです。厚手の冬用靴下はもうすぐ届きます。発送時に詳細を記載したメール確認書をお送りします。"
         },
         {
           "id": "q99",
@@ -2654,8 +2677,8 @@
               "text": "Socks"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者が靴下をすべてレジの横にある格子パネルに吊るすよう指示しているため、(D)が正解。",
           "script": ""
         },
         {
@@ -2681,8 +2704,8 @@
               "text": "Display measurements"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者が最後に厚手の冬用靴下がもうすぐ届き、発送時に詳細を記載したメール確認書を送ると述べているため、(C)が正解。",
           "script": ""
         }
       ]
