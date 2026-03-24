@@ -25,24 +25,25 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "1人の人物の動作を描写する写真。男性が家具を持ち上げている(is lifting some furniture)様子が写っているため、(B)が正解。",
+          "script": "(A) He's parking a truck.\n(B) He's lifting some furniture.\n(C) He's starting an engine.\n(D) He's driving a car.",
+          "scriptJa": "(A) 男子がトラックを駐車しようとしている。\n(B) 男性が家具を持ち上げている。\n(C) 男性がエンジンをかけている。\n(D) 男性が車を運転している。"
         },
         {
           "id": "q2",
@@ -53,24 +54,25 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "人物・事物・風景の混合描写の写真。人々が机の周りに集まっている(are gathered around a desk)様子が写っているため、(C)が正解。",
+          "script": "(A) Some curtains have been closed.\n(B) Some jackets have been laid on a chair.\n(C) Some people are gathered around a desk.\n(D) Someone is turning on a lamp.",
+          "scriptJa": "(A) カーテンが閉まっている。\n(B) ジャケットが椅子の上に置かれている。\n(C) 人々が机の周りに集まっている。\n(D) 誰かがランプを点けようとしている。"
         },
         {
           "id": "q3",
@@ -81,24 +83,25 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "2人以上が写った写真。女性たちが列に並んで待っている(are waiting in a line)様子が写っているため、(B)が正解。",
+          "script": "(A) One of the women is reaching into her bag.\n(B) The women are waiting in a line.\n(C) The man is leading a tour group.\n(D) The man is opening a cash register.",
+          "scriptJa": "(A) 女性の一人がカバンの中に手を入れている。\n(B) 女性たちが列に並んで待っている。\n(C) 男性が観光団を率いている。\n(D) 男性がレジを開けている。"
         },
         {
           "id": "q4",
@@ -109,24 +112,25 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "人物・事物・風景の混合描写の写真。男性が自転車の上に体を曲げている(is bending over a bicycle)様子が写っているため、(A)が正解。",
+          "script": "(A) The man is bending over a bicycle.\n(B) A wheel has been propped against a stack of bricks.\n(C) The man is collecting some pieces of wood.\n(D) A handrail is being installed.",
+          "scriptJa": "(A) 男性が自転車の上に体を曲げている。\n(B) 車輪がレンガの山に立てかけてある。\n(C) 男性が木の破片を集めている。\n(D) 手すりが設置されているところだ。"
         },
         {
           "id": "q5",
@@ -137,24 +141,25 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "D",
+          "explanation": "事物・風景の写真。額縁(picture frames)が壁にかかっている(are hanging on a wall)様子が写っているため、(D)が正解。",
+          "script": "(A) An armchair has been placed under a window.\n(B) Some reading materials have fallen on the floor.\n(C) Some flowers are being watered.\n(D) Some picture frames are hanging on a wall.",
+          "scriptJa": "(A) 肘掛け椅子が窓の下に置かれている。\n(B) 読み物が床に落ちている。\n(C) 花に水をやっているところだ。\n(D) 額縁が壁にかかっている。"
         },
         {
           "id": "q6",
@@ -164,25 +169,26 @@
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "(A)"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "(B)"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "(C)"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "image": "images/TOEIC/TOEIC 既出3-1/Q6.jpg"
+          "answer": "C",
+          "explanation": "人物・事物・風景の混合描写の写真。移動式の食品販売台(a mobile food stand)が歩道の上にある(on a walkway)様子が写っているため、(C)が正解。",
+          "script": "(A) She's adjusting the height of an umbrella.\n(B) She's inspecting the tires on a vending cart.\n(C) There's a mobile food stand on a walkway.\n(D) There are some cooking utensils on the ground.",
+          "image": "images/TOEIC/TOEIC 既出3-1/Q6.jpg",
+          "scriptJa": "(A) 女性がパラソルの高さを調節している。\n(B) 女性が販売カートのタイヤを点検している。\n(C) 移動式の食品販売台が歩道の上にある。\n(D) 調理器具が床にある。"
         }
       ]
     },
@@ -197,7 +203,7 @@
           "id": "q7",
           "number": 7,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q07.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -212,15 +218,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "会議が取り消された理由を問うWhy疑問文。マネージャーが席を外しているからだと理由を示している(B)が正解。",
+          "script": "Why was this afternoon's meeting canceled?\n(A) Room 206, I think.\n(B) Because the manager is out of the office.\n(C) Let's review the itinerary for our trip.",
+          "scriptJa": "今日の午後の会議はなぜ取り消されましたか？\n(A) 206号室だと思います。\n(B) マネージャーが席を外しているからです。\n(C) 旅行の日程を確認しましょう。"
         },
         {
           "id": "q8",
           "number": 8,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q08.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -235,15 +242,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "フィットネスセンターの利用有無を確認する付加疑問文。「はい、たまに」と答えて利用していることを認めている(A)が正解。",
+          "script": "You use the company fitness center, don't you?\n(A) Yes, every now and then.\n(B) Please center the text on the page.\n(C) I think it fits you well.",
+          "scriptJa": "会社のフィットネスセンターを利用していますよね？\n(A) はい、たまに。\n(B) 本文をページの中央に合わせてください。\n(C) よくお似合いですよ。"
         },
         {
           "id": "q9",
           "number": 9,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q09.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -258,15 +266,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "画像があるかどうかを確認するDo疑問文。「いいえ、まだ準備ができていない」と否定で答えている(C)が正解。",
+          "script": "Do you have the images from the graphics department?\n(A) OK, that won't be a problem.\n(B) A high-definition camera.\n(C) No, they're not ready yet.",
+          "scriptJa": "グラフィック部から送られた画像はありますか？\n(A) はい、問題ないです。\n(B) 高画質カメラです。\n(C) いいえ、まだ準備ができていません。"
         },
         {
           "id": "q10",
           "number": 10,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q10.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -281,15 +290,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "新オフィスへの移転時期を問うWhen疑問文。スケジュールが修正中だと述べ、正確な時期がまだ分からないことを間接的に伝えている(C)が正解。",
+          "script": "When are you moving to your new office?\n(A) The office printer over there.\n(B) The water bill is high this month.\n(C) The schedule is being revised.",
+          "scriptJa": "いつ新しいオフィスに移りますか？\n(A) あそこにあるオフィスのプリンターです。\n(B) 今月の水道代が高いです。\n(C) スケジュールが修正されているところです。"
         },
         {
           "id": "q11",
           "number": 11,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q11.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -304,15 +314,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "研修会への申し込みを提案する疑問文。「はい」と答え、名前を書くと述べて申し込みの意思を示している(A)が正解。",
+          "script": "Would you like to sign up for the company retreat?\n(A) Sure, I'll write my name down.\n(B) Twenty people, maximum.\n(C) Can I replace the sign?",
+          "scriptJa": "会社の研修会に申し込みませんか？\n(A) はい、名前を書きます。\n(B) 最大20人です。\n(C) 看板を交換してもいいですか？"
         },
         {
           "id": "q12",
           "number": 12,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q12.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -327,15 +338,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "勤務記録簿の提出頻度を問うHow often疑問文。週に1回と具体的な頻度を示している(B)が正解。",
+          "script": "How often do I have to submit my time sheet?\n(A) Five sheets of paper.\n(B) You need to do it once a week.\n(C) No, I don't usually wear a watch.",
+          "scriptJa": "勤務時間記録簿をどのくらいの頻度で提出しなければなりませんか？\n(A) 紙5枚です。\n(B) 週に1回提出する必要があります。\n(C) いいえ、私は普段時計をしません。"
         },
         {
           "id": "q13",
           "number": 13,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q13.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -350,15 +362,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "月額会員権の購入可否を確認する付加疑問文。「はい」と答えた後、受付で買えると購入場所を教えている(C)が正解。",
+          "script": "I can buy a monthly gym membership, right?\n(A) A very popular exercise routine.\n(B) The exercise room is on your right.\n(C) Yes, at the front desk.",
+          "scriptJa": "ジムの月額会員権を買えますよね？\n(A) とても人気のある運動プログラムです。\n(B) 運動室は右側にあります。\n(C) はい、受付で買えます。"
         },
         {
           "id": "q14",
           "number": 14,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q14.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -373,15 +386,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "価格表の貼り付けの有無を確認するHave疑問文。「はい、全部ラベルが貼ってある」と肯定で答えている(A)が正解。",
+          "script": "Have you put price tags on all the clearance items?\n(A) Yes, everything's been labeled.\n(B) It is a little cloudy.\n(C) Where is your name tag?",
+          "scriptJa": "在庫整理品に価格表をすべて貼りましたか？\n(A) はい、全部ラベルが貼ってあります。\n(B) 少し曇っています。\n(C) 名札はどこにありますか？"
         },
         {
           "id": "q15",
           "number": 15,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q15.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -396,15 +410,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "レイアウト変更の必要性を確認する否定疑問文。「いいえ」と答え、もう変更済みだと説明している(B)が正解。",
+          "script": "Don't we still need to change the newspaper layout?\n(A) Down the hall on your right.\n(B) No, it's already been changed.\n(C) A new computer program.",
+          "scriptJa": "新聞のレイアウトはまだ変更しなければなりませんよね？\n(A) 廊下を進んで右側です。\n(B) いいえ、もう変更済みです。\n(C) 新しいコンピュータープログラムです。"
         },
         {
           "id": "q16",
           "number": 16,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q16.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -419,15 +434,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "修理費用を問うWhat疑問文。保証があるので無料だと答えている(A)が正解。",
+          "script": "What's the total cost of the repair work?\n(A) It's free because of the warranty.\n(B) I have some boxes you can use.\n(C) In a couple of hours.",
+          "scriptJa": "修理費の総額はいくらですか？\n(A) 保証があるので無料です。\n(B) 使える箱がいくつかあります。\n(C) 数時間後です。"
         },
         {
           "id": "q17",
           "number": 17,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q17.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -442,15 +458,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "書類キャビネットの入手場所を問うWhere疑問文。家具の要請はすべて承認が必要だと手続きを教えている(C)が正解。",
+          "script": "Where can I get a new filing cabinet?\n(A) All of the cabins have been rented.\n(B) I'll put the tiles in the corner.\n(C) All furniture requests must be approved first.",
+          "scriptJa": "新しい書類キャビネットはどこで手に入りますか？\n(A) 客室は全部貸し出し済みです。\n(B) タイルを隅に置きます。\n(C) 家具の要請はすべて先に承認を受ける必要があります。"
         },
         {
           "id": "q18",
           "number": 18,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q18.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -465,15 +482,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "パスワードのリセット方法を問うHow疑問文。ヘルプデスクに電話するよう案内している(B)が正解。",
+          "script": "How do I reset my password?\n(A) By the end of the month.\n(B) You should call the help desk.\n(C) Thanks for setting the table.",
+          "scriptJa": "パスワードはどうやってリセットしますか？\n(A) 月末までに。\n(B) ヘルプデスクに電話してください。\n(C) テーブルを準備してくれてありがとう。"
         },
         {
           "id": "q19",
           "number": 19,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q19.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -488,15 +506,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "モニターの電源確認を依頼する疑問文。全部確認するかどうかを逆に尋ね、依頼を受け入れる姿勢を示している(C)が正解。",
+          "script": "Could you check to see if that monitor is plugged in?\n(A) I didn't send them yet.\n(B) A longer power cord.\n(C) Do you want me to check them all?",
+          "scriptJa": "あのモニターの電源が接続されているか確認してもらえますか？\n(A) まだ送っていません。\n(B) もっと長い電源コードです。\n(C) 全部確認しましょうか？"
         },
         {
           "id": "q20",
           "number": 20,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q20.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -511,15 +530,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "新しい手順の効率性を問うBe動詞疑問文。1時間しかかからなかったと述べ、効率的であることを間接的に肯定している(A)が正解。",
+          "script": "Is the new inventory process more efficient?\n(A) It only took me an hour.\n(B) Yes, she's new here.\n(C) I'll have the fish.",
+          "scriptJa": "新しい在庫調査の手順はもっと効率的ですか？\n(A) 1時間しかかかりませんでした。\n(B) はい、彼女は新人です。\n(C) 私は魚にします。"
         },
         {
           "id": "q21",
           "number": 21,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q21.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -534,15 +554,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "デザートの選択を問う疑問文。砂糖を避けていると述べ、どちらも遠慮する意思を間接的に伝えている(C)が正解。",
+          "script": "Would you like some ice cream or cake for dessert?\n(A) Because I'm hungry.\n(B) Yes, I liked it.\n(C) I'm trying to avoid sugar.",
+          "scriptJa": "デザートにアイスクリームかケーキはいかがですか？\n(A) お腹が空いているからです。\n(B) はい、おいしかったです。\n(C) 砂糖を避けようとしています。"
         },
         {
           "id": "q22",
           "number": 22,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q22.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -557,15 +578,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "製品デモの担当者を問うWho疑問文。昼にニューヨークへ出発すると述べ、自分がデモ担当であることを間接的に伝えている(B)が正解。",
+          "script": "Who's doing the product demonstration this afternoon?\n(A) That bus station is closed, sorry.\n(B) I'm leaving for New York at lunchtime.\n(C) Let me show you a few more.",
+          "scriptJa": "今日の午後の製品デモは誰がしますか？\n(A) あのバス停は閉鎖されています、すみません。\n(B) 昼食時にニューヨークに出発します。\n(C) もう少しお見せしましょう。"
         },
         {
           "id": "q23",
           "number": 23,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q23.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -580,15 +602,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "プレゼンが検討されるという情報伝達の平叙文。完成させる時間が足りなかったと間接的に準備不足を伝えている(A)が正解。",
+          "script": "Your presentation's being reviewed at today's managers' meeting.\n(A) I didn't have much time to complete it.\n(B) Next slide, please.\n(C) That movie had great reviews.",
+          "scriptJa": "あなたのプレゼンが今日の管理者会議で検討されます。\n(A) 完成させる時間があまりありませんでした。\n(B) 次のスライドをお願いします。\n(C) その映画は評判が良かったです。"
         },
         {
           "id": "q24",
           "number": 24,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q24.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -603,15 +626,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "赤い靴の在庫を確認する否定疑問文。明日新しい入荷があると述べ、現在は在庫がないことを間接的に伝えている(B)が正解。",
+          "script": "Don't you carry these shoes in red?\n(A) I'll lift from this end.\n(B) There's a new shipment coming tomorrow.\n(C) I have time to read it now.",
+          "scriptJa": "この靴の赤色はありませんか？\n(A) こちらの端から持ち上げます。\n(B) 明日新しい入荷があります。\n(C) 今読む時間があります。"
         },
         {
           "id": "q25",
           "number": 25,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q25.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -626,15 +650,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "クライアントとのランチを提案する疑問文。「はい」と受け入れた後、下のカフェに行こうと提案している(C)が正解。",
+          "script": "Would you like to have lunch with the clients?\n(A) About a three-hour flight.\n(B) The first stage of the project.\n(C) Sure, we can go to the café downstairs.",
+          "scriptJa": "クライアントと一緒にランチはいかがですか？\n(A) 約3時間のフライトです。\n(B) プロジェクトの第一段階です。\n(C) はい、下のカフェに行きましょう。"
         },
         {
           "id": "q26",
           "number": 26,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q26.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -649,15 +674,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "イベント企画者の雇用を提案する疑問文。予算が少ないと述べて提案を間接的に断っている(C)が正解。",
+          "script": "How about hiring an event planner to organize the holiday party?\n(A) I think it's on the lower shelf.\n(B) Sure, I'd love to attend.\n(C) There's not much money in the budget.",
+          "scriptJa": "祝日パーティーの準備にイベント企画者を雇うのはどうですか？\n(A) 下の棚にあると思います。\n(B) はい、参加したいです。\n(C) 予算があまりありません。"
         },
         {
           "id": "q27",
           "number": 27,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q27.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -672,15 +698,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "自動車メーカーの輸出計画を確認する否定疑問文。「はい、そういう計画だと聞いた」と肯定で答えている(A)が正解。",
+          "script": "Isn't that carmaker planning to start exporting electric cars?\n(A) Yes, I've heard that's the plan.\n(B) A ticket to next year's car show.\n(C) Congratulations on your promotion!",
+          "scriptJa": "あの自動車メーカーは電気自動車の輸出を始める予定ではないですか？\n(A) はい、そういう計画だと聞きました。\n(B) 来年の自動車ショーのチケットです。\n(C) 昇進おめでとうございます！"
         },
         {
           "id": "q28",
           "number": 28,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q28.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -695,15 +722,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "デイビッドがインターンを教育したかを確認する付加疑問文。実はヒラリーだったと訂正している(A)が正解。",
+          "script": "David trained the interns to use the company database, didn't he?\n(A) Actually, it was Hillary.\n(B) An internal audit.\n(C) He's good company.",
+          "scriptJa": "デイビッドがインターンに会社のデータベースの使い方を教えましたよね？\n(A) 実はヒラリーでした。\n(B) 内部監査です。\n(C) 彼は良い仲間です。"
         },
         {
           "id": "q29",
           "number": 29,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q29.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -718,15 +746,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "A",
+          "explanation": "住宅市場調査の担当者を問うWho疑問文。上級ディレクターがチームを率いていると答えている(A)が正解。",
+          "script": "Who's responsible for researching the housing market in India?\n(A) The senior director is heading up that team.\n(B) Every morning at ten o'clock.\n(C) Yes, it's on Main Street.",
+          "scriptJa": "インドの住宅市場調査の担当は誰ですか？\n(A) 上級ディレクターがそのチームを率いています。\n(B) 毎朝10時です。\n(C) はい、メインストリートにあります。"
         },
         {
           "id": "q30",
           "number": 30,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q30.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -741,15 +770,16 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "B",
+          "explanation": "交通手段の手配の有無を問う選択疑問文。タクシー会社の電話番号がないと述べ、自分は手配していないことを間接的に伝えている(B)が正解。",
+          "script": "Have you arranged a ride to take us to the convention center, or should I?\n(A) Unfortunately, there isn't an extra bag.\n(B) I don't have the phone number for the taxi service.\n(C) We've accepted credit cards before.",
+          "scriptJa": "コンベンションセンターまでの交通手段を手配しましたか、それとも私がしましょうか？\n(A) 残念ながら余分なカバンがありません。\n(B) タクシー会社の電話番号がわかりません。\n(C) 以前クレジットカードを受け付けました。"
         },
         {
           "id": "q31",
           "number": 31,
           "audio": "audio/TOEIC/TOEIC 既出3-1/Q31.mp3",
-          "prompt": "",
+          "prompt": "Mark your answer on your answer sheet.",
           "choices": [
             {
               "label": "A",
@@ -764,9 +794,10 @@
               "text": ""
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": ""
+          "answer": "C",
+          "explanation": "経費報告書への入力漏れを指摘する平叙文。金曜日までだと思っていたと遅延の理由を説明している(C)が正解。",
+          "script": "These purchases should have been entered on your expense report.\n(A) No thanks, I don't need anything from the store.\n(B) The entrance is on Thirty-First Street.\n(C) I thought I had until Friday to do that.",
+          "scriptJa": "これらの購入品は経費報告書に入力されていなければなりませんでした。\n(A) いいえ、店では何も必要ありません。\n(B) 入口は31番通りにあります。\n(C) 金曜日までにすればいいと思っていました。"
         }
       ]
     },
