@@ -315,17 +315,17 @@ export default function FocusedPracticeView({
                 )}
                 {showScriptJa && question.scriptJa ? (
                   <div className={styles.scriptInterleaved}>
-                    {question.script.split('\n').map((enLine, i) => {
+                    {(() => {
+                      const enLines = question.script.split('\n');
                       const jaLines = question.scriptJa.split('\n');
-                      return (
+                      const maxLen = Math.max(enLines.length, jaLines.length);
+                      return Array.from({ length: maxLen }, (_, i) => (
                         <div key={i} className={styles.scriptPair}>
-                          <p className={styles.scriptEnLine}>{enLine}</p>
-                          {jaLines[i] && (
-                            <p className={styles.scriptJaLine}>{jaLines[i]}</p>
-                          )}
+                          {enLines[i] && <p className={styles.scriptEnLine}>{enLines[i]}</p>}
+                          {jaLines[i] && <p className={styles.scriptJaLine}>{jaLines[i]}</p>}
                         </div>
-                      );
-                    })}
+                      ));
+                    })()}
                   </div>
                 ) : (
                   <p className={styles.scriptText}>{question.script}</p>
@@ -369,6 +369,7 @@ export default function FocusedPracticeView({
             <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
               <path d="M3 10C3 6.13 6.13 3 10 3C13.87 3 17 6.13 17 10C17 13.87 13.87 17 10 17C8.11 17 6.42 16.2 5.2 14.9" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
               <path d="M3 5V9H7" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+              <text x="10" y="12.5" textAnchor="middle" fontSize="7" fontWeight="700" fill="currentColor">5</text>
             </svg>
           </button>
           <div
@@ -406,7 +407,8 @@ export default function FocusedPracticeView({
             aria-label="5秒進む"
           >
             <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
-              <path d="M10 3.5V1L14.5 4.5L10 8V5.5C6.96 5.5 4.5 7.96 4.5 11C4.5 14.04 6.96 16.5 10 16.5C13.04 16.5 15.5 14.04 15.5 11H17.5C17.5 15.14 14.14 18.5 10 18.5C5.86 18.5 2.5 15.14 2.5 11C2.5 6.86 5.86 3.5 10 3.5Z" fill="currentColor"/>
+              <path d="M17 10C17 13.87 13.87 17 10 17C6.13 17 3 13.87 3 10C3 6.13 6.13 3 10 3C11.89 3 13.58 3.8 14.8 5.1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+              <path d="M17 5V9H13" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
               <text x="10" y="12.5" textAnchor="middle" fontSize="7" fontWeight="700" fill="currentColor">5</text>
             </svg>
           </button>

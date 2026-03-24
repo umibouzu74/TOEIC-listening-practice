@@ -162,15 +162,6 @@ export default function useAudioPlayer(src) {
     setCurrentTime(clamped);
   }, []);
 
-  const seekByPercent = useCallback((percent) => {
-    const audio = audioRef.current;
-    if (!audio || !audio.duration) return;
-    const clamped = Math.max(0, Math.min(percent, 100));
-    const time = (clamped / 100) * audio.duration;
-    audio.currentTime = time;
-    setCurrentTime(time);
-  }, []);
-
   const setSpeed = useCallback((rate) => {
     setPlaybackRate(rate);
     const audio = audioRef.current;
@@ -220,7 +211,6 @@ export default function useAudioPlayer(src) {
     pause,
     toggle,
     seek,
-    seekByPercent,
     setSpeed,
     setVolume,
     reset,

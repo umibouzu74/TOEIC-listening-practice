@@ -179,12 +179,22 @@ export default function PracticePage() {
   useEffect(() => {
     if (allChecked && !historySavedRef.current) {
       historySavedRef.current = true;
-      const correct = questions.filter((q) => answers[q.id] === q.answer).length;
-      const total = questions.length;
-      const recordKey = `${examId}__${sectionId}`;
-      saveRecord(recordKey, { correct, total });
+
+      if (sectionId === 'all' && examSet) {
+        // In "all" mode, save history for each individual section
+        examSet.sections.forEach((section) => {
+          const sectionQs = questions.filter((q) => q.id.startsWith(`${section.id}_`));
+          if (sectionQs.length === 0) return;
+          const correct = sectionQs.filter((q) => answers[q.id] === q.answer).length;
+          saveRecord(`${examId}__${section.id}`, { correct, total: sectionQs.length });
+        });
+      } else {
+        const correct = questions.filter((q) => answers[q.id] === q.answer).length;
+        const total = questions.length;
+        saveRecord(`${examId}__${sectionId}`, { correct, total });
+      }
     }
-  }, [allChecked, questions, answers, examId, sectionId, saveRecord]);
+  }, [allChecked, questions, answers, examId, sectionId, examSet, saveRecord]);
 
   const scrollToFirstUnanswered = useCallback(() => {
     const first = questions.find((q) => !answers[q.id]);
