@@ -133,8 +133,19 @@ export default function PracticePage() {
   const [checkedQuestions, setCheckedQuestions] = useState(new Set());
   const [focusedMode, setFocusedMode] = useState(false);
   const [showOnlyWrong, setShowOnlyWrong] = useState(false);
+  const [batchMode, setBatchMode] = useState(() => {
+    try { return localStorage.getItem('listening-lab-batch-mode') !== 'false'; } catch { return true; }
+  });
   const questionRefs = useRef({});
   const historySavedRef = useRef(false);
+
+  const toggleBatchMode = useCallback(() => {
+    setBatchMode((prev) => {
+      const next = !prev;
+      try { localStorage.setItem('listening-lab-batch-mode', String(next)); } catch {}
+      return next;
+    });
+  }, []);
 
   const handleAnswer = useCallback((questionId, choice) => {
     if (checkedQuestions.has(questionId)) return;
@@ -225,7 +236,7 @@ export default function PracticePage() {
   }
 
   return (
-    <div className={styles.page}>
+    <div className={`${styles.page} ${batchMode && !allChecked && answeredCount > 0 ? styles.pageBatchMode : ''}`}>
       <Header
         onBack={() => navigate(`/${examId}`)}
         accentColor={accent}
@@ -269,18 +280,28 @@ export default function PracticePage() {
                   : `${answeredCount} / ${questions.length} 回答済み`
                 }
               </span>
-              <button
-                className={styles.focusToggle}
-                onClick={() => setFocusedMode(true)}
-                style={{ '--accent': accent }}
-                aria-label="1問ずつ表示"
-              >
-                <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-                  <rect x="2" y="3" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3"/>
-                  <rect x="2" y="9" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3" opacity="0.3"/>
-                </svg>
-                1問ずつ
-              </button>
+              <div className={styles.progressActions}>
+                <button
+                  className={`${styles.modeToggle} ${batchMode ? styles.modeToggleActive : ''}`}
+                  onClick={toggleBatchMode}
+                  style={{ '--accent': accent }}
+                  aria-label={batchMode ? '都度確認モードに切替' : '一括採点モードに切替'}
+                >
+                  {batchMode ? '一括採点' : '都度確認'}
+                </button>
+                <button
+                  className={styles.focusToggle}
+                  onClick={() => setFocusedMode(true)}
+                  style={{ '--accent': accent }}
+                  aria-label="1問ずつ表示"
+                >
+                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                    <rect x="2" y="3" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3"/>
+                    <rect x="2" y="9" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3" opacity="0.3"/>
+                  </svg>
+                  1問ずつ
+                </button>
+              </div>
             </div>
             <div className={styles.progressTrack}>
               {checkedCount > 0 && (
@@ -331,7 +352,7 @@ export default function PracticePage() {
                   answers={answers}
                   checkedQuestions={checkedQuestions}
                   onAnswer={handleAnswer}
-                  onCheck={handleCheckQuestion}
+                  onCheck={batchMode ? null : handleCheckQuestion}
                   accentColor={accent}
                   questionRefs={questionRefs}
                   showOnlyWrong={showOnlyWrong}
@@ -355,7 +376,7 @@ export default function PracticePage() {
                   userAnswer={answers[q.id] || null}
                   showResult={isChecked}
                   onAnswer={(choice) => handleAnswer(q.id, choice)}
-                  onCheck={() => handleCheckQuestion(q.id)}
+                  onCheck={batchMode ? null : () => handleCheckQuestion(q.id)}
                   accentColor={accent}
                   showPassageAudio={passageAudioShown[item.index]}
                 />
@@ -365,7 +386,7 @@ export default function PracticePage() {
         </div>
 
         {/* Bottom action buttons */}
-        {!allChecked && (
+        {!allChecked && !batchMode && (
           <div className={styles.submitRow}>
             {uncheckedAnsweredCount > 0 && (
               <button
@@ -388,6 +409,31 @@ export default function PracticePage() {
                 未回答あり（{answeredCount}/{questions.length}）
               </button>
             )}
+          </div>
+        )}
+
+        {/* Batch mode: sticky submit bar */}
+        {!allChecked && batchMode && answeredCount > 0 && (
+          <div className={styles.stickySubmitBar}>
+            <div className={styles.stickySubmitInner}>
+              {allAnswered ? (
+                <button
+                  className={styles.stickySubmitButton}
+                  style={{ '--accent': accent }}
+                  onClick={handleSubmit}
+                >
+                  全問答え合わせ（{questions.length}問）
+                </button>
+              ) : (
+                <button
+                  className={`${styles.stickySubmitButton} ${styles.stickySubmitButtonPending}`}
+                  style={{ '--accent': accent }}
+                  onClick={scrollToFirstUnanswered}
+                >
+                  {answeredCount} / {questions.length} 回答済み — 未回答へ
+                </button>
+              )}
+            </div>
           </div>
         )}
 
@@ -429,7 +475,7 @@ export default function PracticePage() {
           answers={answers}
           checkedQuestions={checkedQuestions}
           onAnswer={handleAnswer}
-          onCheck={handleCheckQuestion}
+          onCheck={batchMode ? null : handleCheckQuestion}
           onClose={() => setFocusedMode(false)}
           accentColor={accent}
           sectionTitle={sectionTitle}

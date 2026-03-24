@@ -78,7 +78,7 @@ export default function PassageGroup({
               userAnswer={answers[q.id] || null}
               showResult={isChecked}
               onAnswer={(choice) => onAnswer(q.id, choice)}
-              onCheck={() => onCheck(q.id)}
+              onCheck={onCheck ? () => onCheck(q.id) : null}
               accentColor={accent}
               hideAudio
             />
