@@ -210,7 +210,8 @@ export default function PassageQuestionPlayer({
           aria-label="5秒戻る"
         >
           <svg width="18" height="18" viewBox="0 0 20 20" fill="none">
-            <path d="M10 3.5V1L5.5 4.5L10 8V5.5C13.04 5.5 15.5 7.96 15.5 11C15.5 14.04 13.04 16.5 10 16.5C6.96 16.5 4.5 14.04 4.5 11H2.5C2.5 15.14 5.86 18.5 10 18.5C14.14 18.5 17.5 15.14 17.5 11C17.5 6.86 14.14 3.5 10 3.5Z" fill="currentColor"/>
+            <path d="M3 10C3 6.13 6.13 3 10 3C13.87 3 17 6.13 17 10C17 13.87 13.87 17 10 17C8.11 17 6.42 16.2 5.2 14.9" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+            <path d="M3 5V9H7" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
             <text x="10" y="12.5" textAnchor="middle" fontSize="7" fontWeight="700" fill="currentColor">5</text>
           </svg>
         </button>
@@ -237,7 +238,8 @@ export default function PassageQuestionPlayer({
           aria-label="5秒進む"
         >
           <svg width="18" height="18" viewBox="0 0 20 20" fill="none">
-            <path d="M10 3.5V1L14.5 4.5L10 8V5.5C6.96 5.5 4.5 7.96 4.5 11C4.5 14.04 6.96 16.5 10 16.5C13.04 16.5 15.5 14.04 15.5 11H17.5C17.5 15.14 14.14 18.5 10 18.5C5.86 18.5 2.5 15.14 2.5 11C2.5 6.86 5.86 3.5 10 3.5Z" fill="currentColor"/>
+            <path d="M17 10C17 13.87 13.87 17 10 17C6.13 17 3 13.87 3 10C3 6.13 6.13 3 10 3C11.89 3 13.58 3.8 14.8 5.1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+            <path d="M17 5V9H13" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
             <text x="10" y="12.5" textAnchor="middle" fontSize="7" fontWeight="700" fill="currentColor">5</text>
           </svg>
         </button>

@@ -189,17 +189,17 @@ export default function QuestionCard({
               )}
               {showScriptJa && question.scriptJa ? (
                 <div className={styles.scriptInterleaved}>
-                  {question.script.split('\n').map((enLine, i) => {
+                  {(() => {
+                    const enLines = question.script.split('\n');
                     const jaLines = question.scriptJa.split('\n');
-                    return (
+                    const maxLen = Math.max(enLines.length, jaLines.length);
+                    return Array.from({ length: maxLen }, (_, i) => (
                       <div key={i} className={styles.scriptPair}>
-                        <p className={styles.scriptEnLine}>{enLine}</p>
-                        {jaLines[i] && (
-                          <p className={styles.scriptJaLine}>{jaLines[i]}</p>
-                        )}
+                        {enLines[i] && <p className={styles.scriptEnLine}>{enLines[i]}</p>}
+                        {jaLines[i] && <p className={styles.scriptJaLine}>{jaLines[i]}</p>}
                       </div>
-                    );
-                  })}
+                    ));
+                  })()}
                 </div>
               ) : (
                 <p className={styles.scriptText}>{question.script}</p>
