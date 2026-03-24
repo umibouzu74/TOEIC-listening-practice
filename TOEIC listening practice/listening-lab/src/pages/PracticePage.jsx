@@ -7,6 +7,7 @@ import QuestionCard from '../components/QuestionCard';
 import PassageGroup from '../components/PassageGroup';
 import ScoreBanner from '../components/ScoreBanner';
 import FocusedPracticeView from '../components/FocusedPracticeView';
+import SequentialPracticeView from '../components/SequentialPracticeView';
 import useAudioPlayer from '../hooks/useAudioPlayer';
 import useHistory from '../hooks/useHistory';
 import EXAM_CONFIG from '../utils/examConfig';
@@ -97,6 +98,7 @@ export default function PracticePage() {
   const [answers, setAnswers] = useState({});
   const [checkedQuestions, setCheckedQuestions] = useState(new Set());
   const [focusedMode, setFocusedMode] = useState(false);
+  const [sequentialMode, setSequentialMode] = useState(false);
   const [showOnlyWrong, setShowOnlyWrong] = useState(false);
   const questionRefs = useRef({});
   const historySavedRef = useRef(false);
@@ -234,18 +236,31 @@ export default function PracticePage() {
                   : `${answeredCount} / ${questions.length} 回答済み`
                 }
               </span>
-              <button
-                className={styles.focusToggle}
-                onClick={() => setFocusedMode(true)}
-                style={{ '--accent': accent }}
-                aria-label="1問ずつ表示"
-              >
-                <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-                  <rect x="2" y="3" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3"/>
-                  <rect x="2" y="9" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3" opacity="0.3"/>
-                </svg>
-                1問ずつ
-              </button>
+              <div style={{ display: 'flex', gap: '6px' }}>
+                <button
+                  className={styles.focusToggle}
+                  onClick={() => setSequentialMode(true)}
+                  style={{ '--accent': accent }}
+                  aria-label="連続出題"
+                >
+                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                    <path d="M4 3L12 8L4 13V3Z" stroke="currentColor" strokeWidth="1.3" strokeLinejoin="round"/>
+                  </svg>
+                  連続出題
+                </button>
+                <button
+                  className={styles.focusToggle}
+                  onClick={() => setFocusedMode(true)}
+                  style={{ '--accent': accent }}
+                  aria-label="1問ずつ表示"
+                >
+                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                    <rect x="2" y="3" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3"/>
+                    <rect x="2" y="9" width="12" height="4" rx="1" stroke="currentColor" strokeWidth="1.3" opacity="0.3"/>
+                  </svg>
+                  1問ずつ
+                </button>
+              </div>
             </div>
             <div className={styles.progressTrack}>
               {checkedCount > 0 && (
@@ -396,6 +411,21 @@ export default function PracticePage() {
           onAnswer={handleAnswer}
           onCheck={handleCheckQuestion}
           onClose={() => setFocusedMode(false)}
+          accentColor={accent}
+          sectionTitle={sectionTitle}
+          examTitle={examSet?.meta?.title}
+        />
+      )}
+
+      {/* Sequential group practice overlay */}
+      {sequentialMode && (
+        <SequentialPracticeView
+          renderItems={renderItems}
+          answers={answers}
+          checkedQuestions={checkedQuestions}
+          onAnswer={handleAnswer}
+          onCheck={handleCheckQuestion}
+          onClose={() => setSequentialMode(false)}
           accentColor={accent}
           sectionTitle={sectionTitle}
           examTitle={examSet?.meta?.title}
