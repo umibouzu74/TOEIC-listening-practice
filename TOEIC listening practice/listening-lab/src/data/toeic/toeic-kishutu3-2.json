@@ -812,23 +812,23 @@
           "id": "q32",
           "number": 32,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q32.mp3",
-          "prompt": "",
+          "prompt": "Why does the man want to buy Ms. Jefferson some flowers?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "She was promoted."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "She won an award."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "She is moving."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "She is retiring."
             }
           ],
           "answer": "",
@@ -840,23 +840,23 @@
           "id": "q33",
           "number": 33,
           "audio": "",
-          "prompt": "",
+          "prompt": "According to the woman, where is Greenwood Flower Shop?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "In a shopping mall"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "In a train station"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Next to a café"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Across from the library"
             }
           ],
           "answer": "",
@@ -868,23 +868,23 @@
           "id": "q34",
           "number": 34,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the man say he will do before he leaves the office?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Fill out a time sheet"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Send an e-mail"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Finish a budget proposal"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Arrange a meeting"
             }
           ],
           "answer": "",
@@ -896,23 +896,23 @@
           "id": "q35",
           "number": 35,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q35.mp3",
-          "prompt": "",
+          "prompt": "What did the man just do?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "He upgraded a flight."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "He arranged for a rental car."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "He prepared some presentation slides."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "He made a hotel reservation."
             }
           ],
           "answer": "",
@@ -924,23 +924,23 @@
           "id": "q36",
           "number": 36,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the man remind the woman to do?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Save her receipts"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Bring her ID badge"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Sign a form"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Arrive early"
             }
           ],
           "answer": "",
@@ -952,23 +952,23 @@
           "id": "q37",
           "number": 37,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the woman ask the man about?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A bank"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A post office"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A restaurant"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A conference center"
             }
           ],
           "answer": "",
@@ -980,23 +980,23 @@
           "id": "q38",
           "number": 38,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q38.mp3",
-          "prompt": "",
+          "prompt": "What industry do the speakers most likely work in?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Television"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Fashion"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Home furnishings"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Advertising"
             }
           ],
           "answer": "",
@@ -1008,23 +1008,23 @@
           "id": "q39",
           "number": 39,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the man suggest doing?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Providing tours of a facility"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Opening a branch office"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Designing special fabric"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Installing brighter lights"
             }
           ],
           "answer": "",
@@ -1036,23 +1036,23 @@
           "id": "q40",
           "number": 40,
           "audio": "",
-          "prompt": "",
+          "prompt": "What is the woman concerned about?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A plan would be time-consuming."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A color is too bright."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Some sales figures have declined."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Some supplies will be expensive."
             }
           ],
           "answer": "",
@@ -1064,23 +1064,23 @@
           "id": "q41",
           "number": 41,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q41.mp3",
-          "prompt": "",
+          "prompt": "What problem is being discussed?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A company manual contains some errors."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A shipment was not delivered on time."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Some materials are missing from a cabinet."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "An e-mail system is not functioning properly."
             }
           ],
           "answer": "",
@@ -1092,23 +1092,23 @@
           "id": "q42",
           "number": 42,
           "audio": "",
-          "prompt": "",
+          "prompt": "Who most likely is the man?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A computer technician"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A security guard"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A warehouse manager"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A sales representative"
             }
           ],
           "answer": "",
@@ -1120,23 +1120,23 @@
           "id": "q43",
           "number": 43,
           "audio": "",
-          "prompt": "",
+          "prompt": "What are the women most likely planning to do next?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Sign a contract"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Attend a training"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Go to the airport"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Revise a presentation"
             }
           ],
           "answer": "",
@@ -1148,23 +1148,23 @@
           "id": "q44",
           "number": 44,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q44.mp3",
-          "prompt": "",
+          "prompt": "Where does the woman work?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "At an amusement park"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "At a fitness center"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "At a bicycle-tour company"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "At an automobile dealership"
             }
           ],
           "answer": "",
@@ -1176,23 +1176,23 @@
           "id": "q45",
           "number": 45,
           "audio": "",
-          "prompt": "",
+          "prompt": "Why is the man unable to make a reservation for next Thursday?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A calendar is fully booked."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "An employee is on vacation."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Some roads will be closed."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Some equipment will be replaced."
             }
           ],
           "answer": "",
@@ -1204,23 +1204,23 @@
           "id": "q46",
           "number": 46,
           "audio": "",
-          "prompt": "",
+          "prompt": "What will the man most likely do next?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Pick up a brochure"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Make a down payment"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Provide a membership number"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Write a customer review"
             }
           ],
           "answer": "",
@@ -1232,23 +1232,23 @@
           "id": "q47",
           "number": 47,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q47.mp3",
-          "prompt": "",
+          "prompt": "Who is the man?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A news reporter"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A photographer"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A fashion designer"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A translator"
             }
           ],
           "answer": "",
@@ -1260,23 +1260,23 @@
           "id": "q48",
           "number": 48,
           "audio": "",
-          "prompt": "",
+          "prompt": "Why does the woman say, \"The issue is already being printed\"?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "To apologize for an error"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "To provide reassurance"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "To indicate a schedule change"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "To decline an offer"
             }
           ],
           "answer": "",
@@ -1288,23 +1288,23 @@
           "id": "q49",
           "number": 49,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the woman ask the man to do?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Come in for an interview"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Appear in a feature story"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Travel for an assignment"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Post some information online"
             }
           ],
           "answer": "",
@@ -1316,23 +1316,23 @@
           "id": "q50",
           "number": 50,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q50.mp3",
-          "prompt": "",
+          "prompt": "What kind of business do the speakers most likely work for?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "An automobile manufacturer"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "An insurance company"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A county hospital"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A construction firm"
             }
           ],
           "answer": "",
@@ -1344,23 +1344,23 @@
           "id": "q51",
           "number": 51,
           "audio": "",
-          "prompt": "",
+          "prompt": "What problem do the women mention?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A building site did not pass an inspection."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A vehicle needs to be repaired."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Potential clients have not made a decision."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Some vendors are making late deliveries."
             }
           ],
           "answer": "",
@@ -1372,23 +1372,23 @@
           "id": "q52",
           "number": 52,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the man recommend?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Offering a discount"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Changing suppliers"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Forming a committee"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Closing a branch"
             }
           ],
           "answer": "",
@@ -1400,23 +1400,23 @@
           "id": "q53",
           "number": 53,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q53.mp3",
-          "prompt": "",
+          "prompt": "What has the woman volunteered to do?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Try out some new products"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Purchase beverages for a luncheon"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Lead a workshop session"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Organize a hiring event"
             }
           ],
           "answer": "",
@@ -1428,23 +1428,23 @@
           "id": "q54",
           "number": 54,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the man ask the woman to sign?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "An employee contract"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "An attendance sheet"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A participant agreement"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A service estimate"
             }
           ],
           "answer": "",
@@ -1456,23 +1456,23 @@
           "id": "q55",
           "number": 55,
           "audio": "",
-          "prompt": "",
+          "prompt": "What will the woman most likely do next?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Set up her computer"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Go to another room"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Have some lunch"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Make a phone call"
             }
           ],
           "answer": "",
@@ -1484,23 +1484,23 @@
           "id": "q56",
           "number": 56,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q56.mp3",
-          "prompt": "",
+          "prompt": "Where most likely are the speakers?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "At a hair salon"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "At a catering hall"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "At a laundry service"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "At an energy company"
             }
           ],
           "answer": "",
@@ -1512,23 +1512,23 @@
           "id": "q57",
           "number": 57,
           "audio": "",
-          "prompt": "",
+          "prompt": "Why does the woman say, \"they don't have as many clients, though\"?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "To express pride in her company's growth"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "To explain why an expense is so high"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "To suggest that a strategy should continue"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "To question the accuracy of a client list"
             }
           ],
           "answer": "",
@@ -1540,23 +1540,23 @@
           "id": "q58",
           "number": 58,
           "audio": "",
-          "prompt": "",
+          "prompt": "What will happen later today?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Some supplies will be delivered."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "An inspection will be conducted."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "An employee meeting will be held."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "An expense report will be submitted."
             }
           ],
           "answer": "",
@@ -1568,23 +1568,23 @@
           "id": "q59",
           "number": 59,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q59.mp3",
-          "prompt": "",
+          "prompt": "Which industry do the speakers most likely work in?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Tourism"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Agriculture"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Education"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Engineering"
             }
           ],
           "answer": "",
@@ -1596,23 +1596,23 @@
           "id": "q60",
           "number": 60,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the man say he is concerned about?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Expenses"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Safety"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Competition"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Space"
             }
           ],
           "answer": "",
@@ -1624,23 +1624,23 @@
           "id": "q61",
           "number": 61,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the man agree to do?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Apply for some funding"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Do some research"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Organize a business trip"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Assemble a work crew"
             }
           ],
           "answer": "",
@@ -1652,23 +1652,23 @@
           "id": "q62",
           "number": 62,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q62.mp3",
-          "prompt": "",
+          "prompt": "What does the woman remind the man about?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "She used to live in the area."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "She needs to stop at a store."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "She attended a seminar last year."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "She has just bought a new car."
             }
           ],
           "answer": "",
@@ -1680,23 +1680,23 @@
           "id": "q63",
           "number": 63,
           "audio": "",
-          "prompt": "",
+          "prompt": "Look at the graphic. Which exit will the speakers take?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Maple Road"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Carter Lane"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Berk Street"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "High Road"
             }
           ],
           "answer": "",
@@ -1708,23 +1708,23 @@
           "id": "q64",
           "number": 64,
           "audio": "",
-          "prompt": "",
+          "prompt": "What will the man ask his coworkers to do?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Cancel a reservation"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Save some seats"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Sign in at an event"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Print some materials"
             }
           ],
           "answer": "",
@@ -1736,23 +1736,23 @@
           "id": "q65",
           "number": 65,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q65.mp3",
-          "prompt": "",
+          "prompt": "Where does the conversation most likely take place?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "At a hotel"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "At an accounting firm"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "At a doctor's office"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "At a school"
             }
           ],
           "answer": "",
@@ -1764,23 +1764,23 @@
           "id": "q66",
           "number": 66,
           "audio": "",
-          "prompt": "",
+          "prompt": "Look at the graphic. Which bin will the man use?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Bin 1"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Bin 2"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Bin 3"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Bin 4"
             }
           ],
           "answer": "",
@@ -1792,23 +1792,23 @@
           "id": "q67",
           "number": 67,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the woman suggest?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Using a cart"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Waiting for a confirmation"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Giving an assignment to a colleague"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Rescheduling an appointment with a client"
             }
           ],
           "answer": "",
@@ -1820,23 +1820,23 @@
           "id": "q68",
           "number": 68,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q68.mp3",
-          "prompt": "",
+          "prompt": "What type of event are the speakers organizing?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "An award ceremony"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A grand-opening celebration"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A foreign official's reception"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A fund-raiser"
             }
           ],
           "answer": "",
@@ -1848,23 +1848,23 @@
           "id": "q69",
           "number": 69,
           "audio": "",
-          "prompt": "",
+          "prompt": "Look at the graphic. What time does the man think the music should begin?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "At 5:00 P.M."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "At 6:00 P.M."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "At 7:00 P.M."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "At 8:00 P.M."
             }
           ],
           "answer": "",
@@ -1876,23 +1876,23 @@
           "id": "q70",
           "number": 70,
           "audio": "",
-          "prompt": "",
+          "prompt": "What information does the man suggest adding to the invitation?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "The name of a sponsor"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "The location of a concert hall"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A Web site address"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A list of performers"
             }
           ],
           "answer": "",
