@@ -1914,23 +1914,23 @@
           "id": "q71",
           "number": 71,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q71.mp3",
-          "prompt": "",
+          "prompt": "What did Starbright Corporation recently do?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "It changed its company logo."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "It opened a new factory."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "It conducted a financial audit."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "It upgraded a product line."
             }
           ],
           "answer": "",
@@ -1942,23 +1942,23 @@
           "id": "q72",
           "number": 72,
           "audio": "",
-          "prompt": "",
+          "prompt": "What type of product does Starbright Corporation make?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Footwear"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Cosmetics"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Housewares"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Electronics"
             }
           ],
           "answer": "",
@@ -1970,23 +1970,23 @@
           "id": "q73",
           "number": 73,
           "audio": "",
-          "prompt": "",
+          "prompt": "What is available online?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "An application"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A schedule"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A video interview"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A virtual tour"
             }
           ],
           "answer": "",
@@ -1998,23 +1998,23 @@
           "id": "q74",
           "number": 74,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q74.mp3",
-          "prompt": "",
+          "prompt": "What event is taking place?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "An orientation session"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A gallery opening"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "An awards ceremony"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A retirement party"
             }
           ],
           "answer": "",
@@ -2026,23 +2026,23 @@
           "id": "q75",
           "number": 75,
           "audio": "",
-          "prompt": "",
+          "prompt": "What type of business does Mustafa Perez work for?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "An advertising agency"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "An art gallery"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A newspaper publisher"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A camera shop"
             }
           ],
           "answer": "",
@@ -2054,23 +2054,23 @@
           "id": "q76",
           "number": 76,
           "audio": "",
-          "prompt": "",
+          "prompt": "What has the speaker created for the event?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A slideshow"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A T-shirt design"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A Web site"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A brochure"
             }
           ],
           "answer": "",
@@ -2082,23 +2082,23 @@
           "id": "q77",
           "number": 77,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q77.mp3",
-          "prompt": "",
+          "prompt": "What does the speaker's company produce?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Medications"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Textbooks"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Exercise clothing"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Construction materials"
             }
           ],
           "answer": "",
@@ -2110,23 +2110,23 @@
           "id": "q78",
           "number": 78,
           "audio": "",
-          "prompt": "",
+          "prompt": "What are the listeners reminded to do?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Recruit some staff"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Enter some data"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Attend some training sessions"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Turn on a fan"
             }
           ],
           "answer": "",
@@ -2138,23 +2138,23 @@
           "id": "q79",
           "number": 79,
           "audio": "",
-          "prompt": "",
+          "prompt": "What can be found online?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A product database"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "An employee directory"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A handbook"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A contract"
             }
           ],
           "answer": "",
@@ -2166,23 +2166,23 @@
           "id": "q80",
           "number": 80,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q80.mp3",
-          "prompt": "",
+          "prompt": "What will the speaker do at a park?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Watch a performance"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Sell fruit"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Plant trees"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Take photographs"
             }
           ],
           "answer": "",
@@ -2194,23 +2194,23 @@
           "id": "q81",
           "number": 81,
           "audio": "",
-          "prompt": "",
+          "prompt": "Why does the speaker say, \"but it's supposed to be cloudy all day\"?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "To ask for help"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "To express frustration"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "To reject the listener's suggestion"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "To reassure the listener"
             }
           ],
           "answer": "",
@@ -2222,23 +2222,23 @@
           "id": "q82",
           "number": 82,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the speaker remind the listener to do?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Register for a competition"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Purchase some supplies"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Prepare a shipment"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Speak to a customer"
             }
           ],
           "answer": "",
@@ -2250,23 +2250,23 @@
           "id": "q83",
           "number": 83,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q83.mp3",
-          "prompt": "",
+          "prompt": "Where is the announcement being made?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "At a technology firm"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "At a repair shop"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "At a factory"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "At a law office"
             }
           ],
           "answer": "",
@@ -2278,23 +2278,23 @@
           "id": "q84",
           "number": 84,
           "audio": "",
-          "prompt": "",
+          "prompt": "Where should the listeners go at the end of their shifts?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "To the company cafeteria"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "To the receptionist's desk"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "To the locker room"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "To the parking area"
             }
           ],
           "answer": "",
@@ -2306,23 +2306,23 @@
           "id": "q85",
           "number": 85,
           "audio": "",
-          "prompt": "",
+          "prompt": "What will happen tomorrow?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Some office furniture will be delivered."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "New board members will be elected."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A city official will conduct an inspection."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Some time-reporting software will be fixed."
             }
           ],
           "answer": "",
@@ -2334,23 +2334,23 @@
           "id": "q86",
           "number": 86,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q86.mp3",
-          "prompt": "",
+          "prompt": "Where do the listeners work?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "At an employment agency"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "At a sports arena"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "At a conference center"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "At a medical clinic"
             }
           ],
           "answer": "",
@@ -2362,23 +2362,23 @@
           "id": "q87",
           "number": 87,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the speaker imply when she says, \"Ms. Jenkins has retired\"?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A role needs to be filled."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "An e-mail will not be answered."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A marketing strategy should be revised."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A process will be less efficient."
             }
           ],
           "answer": "",
@@ -2390,23 +2390,23 @@
           "id": "q88",
           "number": 88,
           "audio": "",
-          "prompt": "",
+          "prompt": "What will the listeners most likely do next?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Check a schedule"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Complete a registration form"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Eat a meal"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Brainstorm some ideas"
             }
           ],
           "answer": "",
@@ -2418,23 +2418,23 @@
           "id": "q89",
           "number": 89,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q89.mp3",
-          "prompt": "",
+          "prompt": "What is scheduled for Friday?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A job fair"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A wellness workshop"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A client meeting"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "An employee luncheon"
             }
           ],
           "answer": "",
@@ -2446,23 +2446,23 @@
           "id": "q90",
           "number": 90,
           "audio": "",
-          "prompt": "",
+          "prompt": "Why does the speaker say, \"the advertising business is very competitive\"?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "To explain a decision to retire"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "To justify an employee's promotion"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "To question the listener's abilities"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "To express confidence in an approach"
             }
           ],
           "answer": "",
@@ -2474,23 +2474,23 @@
           "id": "q91",
           "number": 91,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the speaker say about Isabel?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "She has recently joined the company."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "She can recommend some activities."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "She will approve expense reports."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "She used to work on the NVC Industries account."
             }
           ],
           "answer": "",
@@ -2502,23 +2502,23 @@
           "id": "q92",
           "number": 92,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q92.mp3",
-          "prompt": "",
+          "prompt": "What type of business does the speaker most likely work for?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A television studio"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A hardware store"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A publishing company"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A grocery store"
             }
           ],
           "answer": "",
@@ -2530,23 +2530,23 @@
           "id": "q93",
           "number": 93,
           "audio": "",
-          "prompt": "",
+          "prompt": "What is the speaker concerned about?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A business has lost customers."
             },
             {
               "label": "B",
-              "text": ""
+              "text": "An advertising plan has not been effective."
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A stockroom is overcrowded."
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A Web site is not working."
             }
           ],
           "answer": "",
@@ -2558,23 +2558,23 @@
           "id": "q94",
           "number": 94,
           "audio": "",
-          "prompt": "",
+          "prompt": "What does the speaker plan to do?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Transfer to another location"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Offer discounts online"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Hire more employees"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Add videos to a Web site"
             }
           ],
           "answer": "",
@@ -2586,23 +2586,23 @@
           "id": "q95",
           "number": 95,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q95.mp3",
-          "prompt": "",
+          "prompt": "Who most likely is the speaker?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A car salesperson"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "An auto mechanic"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A car rental agent"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A vehicle inspector"
             }
           ],
           "answer": "",
@@ -2614,23 +2614,23 @@
           "id": "q96",
           "number": 96,
           "audio": "",
-          "prompt": "",
+          "prompt": "Look at the graphic. Which fee must be paid in cash?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Filing"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Contract processing"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Vehicle title"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Vehicle registration"
             }
           ],
           "answer": "",
@@ -2642,23 +2642,23 @@
           "id": "q97",
           "number": 97,
           "audio": "",
-          "prompt": "",
+          "prompt": "What service does the speaker remind the listener about?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Shuttle service"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Maintenance reminders"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Free car washes"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Replacement keys"
             }
           ],
           "answer": "",
@@ -2670,23 +2670,23 @@
           "id": "q98",
           "number": 98,
           "audio": "audio/TOEIC/TOEIC 既出 3-2/Q98.mp3",
-          "prompt": "",
+          "prompt": "Who most likely is the speaker?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A jazz singer"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A music teacher"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A shop manager"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A radio host"
             }
           ],
           "answer": "",
@@ -2698,23 +2698,23 @@
           "id": "q99",
           "number": 99,
           "audio": "",
-          "prompt": "",
+          "prompt": "What event will take place in September?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "A music festival"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "A press conference"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "A charity dinner"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "A talent contest"
             }
           ],
           "answer": "",
@@ -2726,23 +2726,23 @@
           "id": "q100",
           "number": 100,
           "audio": "",
-          "prompt": "",
+          "prompt": "Look at the graphic. Which type of instrument does the speaker focus on?",
           "choices": [
             {
               "label": "A",
-              "text": ""
+              "text": "Keyboards"
             },
             {
               "label": "B",
-              "text": ""
+              "text": "Pianos"
             },
             {
               "label": "C",
-              "text": ""
+              "text": "Drums"
             },
             {
               "label": "D",
-              "text": ""
+              "text": "Guitars"
             }
           ],
           "answer": "",
