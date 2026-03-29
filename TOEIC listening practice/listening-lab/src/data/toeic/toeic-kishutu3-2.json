@@ -839,7 +839,7 @@
         {
           "id": "q33",
           "number": 33,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q33.mp3",
           "prompt": "According to the woman, where is Greenwood Flower Shop?",
           "choices": [
             {
@@ -867,7 +867,7 @@
         {
           "id": "q34",
           "number": 34,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q34.mp3",
           "prompt": "What does the man say he will do before he leaves the office?",
           "choices": [
             {
@@ -923,7 +923,7 @@
         {
           "id": "q36",
           "number": 36,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q36.mp3",
           "prompt": "What does the man remind the woman to do?",
           "choices": [
             {
@@ -951,7 +951,7 @@
         {
           "id": "q37",
           "number": 37,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q37.mp3",
           "prompt": "What does the woman ask the man about?",
           "choices": [
             {
@@ -1007,7 +1007,7 @@
         {
           "id": "q39",
           "number": 39,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q39.mp3",
           "prompt": "What does the man suggest doing?",
           "choices": [
             {
@@ -1035,7 +1035,7 @@
         {
           "id": "q40",
           "number": 40,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q40.mp3",
           "prompt": "What is the woman concerned about?",
           "choices": [
             {
@@ -1091,7 +1091,7 @@
         {
           "id": "q42",
           "number": 42,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q42.mp3",
           "prompt": "Who most likely is the man?",
           "choices": [
             {
@@ -1119,7 +1119,7 @@
         {
           "id": "q43",
           "number": 43,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q43.mp3",
           "prompt": "What are the women most likely planning to do next?",
           "choices": [
             {
@@ -1175,7 +1175,7 @@
         {
           "id": "q45",
           "number": 45,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q45.mp3",
           "prompt": "Why is the man unable to make a reservation for next Thursday?",
           "choices": [
             {
@@ -1203,7 +1203,7 @@
         {
           "id": "q46",
           "number": 46,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q46.mp3",
           "prompt": "What will the man most likely do next?",
           "choices": [
             {
@@ -1259,7 +1259,7 @@
         {
           "id": "q48",
           "number": 48,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q48.mp3",
           "prompt": "Why does the woman say, \"The issue is already being printed\"?",
           "choices": [
             {
@@ -1287,7 +1287,7 @@
         {
           "id": "q49",
           "number": 49,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q49.mp3",
           "prompt": "What does the woman ask the man to do?",
           "choices": [
             {
@@ -1343,7 +1343,7 @@
         {
           "id": "q51",
           "number": 51,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q51.mp3",
           "prompt": "What problem do the women mention?",
           "choices": [
             {
@@ -1371,7 +1371,7 @@
         {
           "id": "q52",
           "number": 52,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q52.mp3",
           "prompt": "What does the man recommend?",
           "choices": [
             {
@@ -1427,7 +1427,7 @@
         {
           "id": "q54",
           "number": 54,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q54.mp3",
           "prompt": "What does the man ask the woman to sign?",
           "choices": [
             {
@@ -1455,7 +1455,7 @@
         {
           "id": "q55",
           "number": 55,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q55.mp3",
           "prompt": "What will the woman most likely do next?",
           "choices": [
             {
@@ -1511,7 +1511,7 @@
         {
           "id": "q57",
           "number": 57,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q57.mp3",
           "prompt": "Why does the woman say, \"they don't have as many clients, though\"?",
           "choices": [
             {
@@ -1539,7 +1539,7 @@
         {
           "id": "q58",
           "number": 58,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q58.mp3",
           "prompt": "What will happen later today?",
           "choices": [
             {
@@ -1595,7 +1595,7 @@
         {
           "id": "q60",
           "number": 60,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q60.mp3",
           "prompt": "What does the man say he is concerned about?",
           "choices": [
             {
@@ -1623,7 +1623,7 @@
         {
           "id": "q61",
           "number": 61,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q61.mp3",
           "prompt": "What does the man agree to do?",
           "choices": [
             {
@@ -1674,12 +1674,13 @@
           "answer": "A",
           "explanation": "女性がハーツビルの中心部で育ったと述べて、以前その地域に住んでいたことを思い出させているため、(A)が正解。",
           "script": "M: Dolores, thanks again for offering to drive to the technology seminar. I'm not very familiar with the city of Hartsville.\nW: It's no problem. I grew up in downtown Hartsville, remember? I know the area well.\nM: Oh—that's right. Does it take long to get to the conference center from here? I know it's on Carter Lane.\nW: Well, usually not—but the traffic report earlier said that the exit to Carter Lane is closed for repairs. We'll have to take exit eight. It'll take us about twenty minutes longer to get there.\nM: Well, in that case, I'd better call our coworkers and ask them to save us some seats.\nW: Good idea!",
-          "scriptJa": "M: ドロレス、テクノロジーセミナーまで車を出してくれるって言ってくれてありがとう。ハーツビルの街はあまり詳しくないんだ。\nW: 問題ないわ。私、ハーツビルの中心部で育ったの、覚えてる？この辺りはよく知っているのよ。\nM: あ、そうだったね。ここから会議場まで時間かかる？カーター・レインにあるのは知っているんだけど。\nW: まあ、普段はそうでもないんだけど、さっきの交通情報でカーター・レインへの出口が修理のため閉鎖されているって言ってたの。8番出口から出なきゃいけないわ。着くまで20分くらい余計にかかるわよ。\nM: それなら、同僚に電話して席を確保してもらった方がいいな。\nW: いい考えね！"
+          "scriptJa": "M: ドロレス、テクノロジーセミナーまで車を出してくれるって言ってくれてありがとう。ハーツビルの街はあまり詳しくないんだ。\nW: 問題ないわ。私、ハーツビルの中心部で育ったの、覚えてる？この辺りはよく知っているのよ。\nM: あ、そうだったね。ここから会議場まで時間かかる？カーター・レインにあるのは知っているんだけど。\nW: まあ、普段はそうでもないんだけど、さっきの交通情報でカーター・レインへの出口が修理のため閉鎖されているって言ってたの。8番出口から出なきゃいけないわ。着くまで20分くらい余計にかかるわよ。\nM: それなら、同僚に電話して席を確保してもらった方がいいな。\nW: いい考えね！",
+          "image": "images/TOEIC/TOEIC 既出 3-2/Q62.jpg"
         },
         {
           "id": "q63",
           "number": 63,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q63.mp3",
           "prompt": "Look at the graphic. Which exit will the speakers take?",
           "choices": [
             {
@@ -1707,7 +1708,7 @@
         {
           "id": "q64",
           "number": 64,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q64.mp3",
           "prompt": "What will the man ask his coworkers to do?",
           "choices": [
             {
@@ -1758,12 +1759,13 @@
           "answer": "D",
           "explanation": "女性が学生の個人情報をスキャン・細断処理したか確認し、授業時間表や保護者向けのお知らせに言及していることから、会話の場所は学校だとわかるため、(D)が正解。",
           "script": "W: Good work helping the office go paperless, Kentaro. You've scanned and shredded everything that had any personal student data, correct?\nM: Yes, so now we can get rid of the rest of these old documents—class schedules, information sheets to parents—all of it can be recycled. The bins are out back, right?\nW: That's right, behind the gym. But don't try to carry all these boxes; they're too heavy. I brought a cart over from the maintenance closet for you to use.",
-          "scriptJa": "W: 事務室のペーパーレス化を手伝ってくれてお疲れ様、ケンタロウ。学生の個人情報が含まれるものは全部スキャンして細断処理したわね？\nM: はい。あとはこの古い書類の残り、授業時間表とか保護者向けのお知らせとか、全部リサイクルに出せます。ごみ箱は外の裏手にありますよね？\nW: そう、体育館の裏よ。でもこの箱を全部運ぼうとしないでね。重すぎるから。備品倉庫からカートを持ってきたから使って。"
+          "scriptJa": "W: 事務室のペーパーレス化を手伝ってくれてお疲れ様、ケンタロウ。学生の個人情報が含まれるものは全部スキャンして細断処理したわね？\nM: はい。あとはこの古い書類の残り、授業時間表とか保護者向けのお知らせとか、全部リサイクルに出せます。ごみ箱は外の裏手にありますよね？\nW: そう、体育館の裏よ。でもこの箱を全部運ぼうとしないでね。重すぎるから。備品倉庫からカートを持ってきたから使って。",
+          "image": "images/TOEIC/TOEIC 既出 3-2/Q65.jpg"
         },
         {
           "id": "q66",
           "number": 66,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q66.mp3",
           "prompt": "Look at the graphic. Which bin will the man use?",
           "choices": [
             {
@@ -1791,7 +1793,7 @@
         {
           "id": "q67",
           "number": 67,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q67.mp3",
           "prompt": "What does the woman suggest?",
           "choices": [
             {
@@ -1842,12 +1844,13 @@
           "answer": "D",
           "explanation": "女性が最初の発言で募金イベントの招待状の草案を見てほしいと述べているため、(D)が正解。",
           "script": "W: Riccardo, could you take a look at this invitation? It's a draft I put together for our upcoming fund-raiser. Your feedback would be helpful.\nM: Sure. Hmm... It looks good, but we should have the live music start at the same time as dinner. Otherwise, there'll be very little time for the band to perform.\nW: You're right. Anything else?\nM: Let's add a line at the bottom with the name of our organization, since we're sponsoring the event.\nW: OK, that's an easy addition.",
-          "scriptJa": "W: リカルド、この招待状を見てくれない？今度の募金イベントのために作成した草案なの。意見をもらえると助かるわ。\nM: もちろん。うーん…いい感じだけど、ライブ音楽は夕食と同時に始めるべきだよ。そうしないとバンドの演奏時間がほとんどなくなってしまう。\nW: そうね。他に何かある？\nM: 私たちがイベントを後援しているんだから、一番下に団体名を1行追加しよう。\nW: わかった、簡単に追加できるわ。"
+          "scriptJa": "W: リカルド、この招待状を見てくれない？今度の募金イベントのために作成した草案なの。意見をもらえると助かるわ。\nM: もちろん。うーん…いい感じだけど、ライブ音楽は夕食と同時に始めるべきだよ。そうしないとバンドの演奏時間がほとんどなくなってしまう。\nW: そうね。他に何かある？\nM: 私たちがイベントを後援しているんだから、一番下に団体名を1行追加しよう。\nW: わかった、簡単に追加できるわ。",
+          "image": "images/TOEIC/TOEIC 既出 3-2/Q68.jpg"
         },
         {
           "id": "q69",
           "number": 69,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q69.mp3",
           "prompt": "Look at the graphic. What time does the man think the music should begin?",
           "choices": [
             {
@@ -1875,7 +1878,7 @@
         {
           "id": "q70",
           "number": 70,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q70.mp3",
           "prompt": "What information does the man suggest adding to the invitation?",
           "choices": [
             {
@@ -1941,7 +1944,7 @@
         {
           "id": "q72",
           "number": 72,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q72.mp3",
           "prompt": "What type of product does Starbright Corporation make?",
           "choices": [
             {
@@ -1969,7 +1972,7 @@
         {
           "id": "q73",
           "number": 73,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q73.mp3",
           "prompt": "What is available online?",
           "choices": [
             {
@@ -2025,7 +2028,7 @@
         {
           "id": "q75",
           "number": 75,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q75.mp3",
           "prompt": "What type of business does Mustafa Perez work for?",
           "choices": [
             {
@@ -2053,7 +2056,7 @@
         {
           "id": "q76",
           "number": 76,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q76.mp3",
           "prompt": "What has the speaker created for the event?",
           "choices": [
             {
@@ -2109,7 +2112,7 @@
         {
           "id": "q78",
           "number": 78,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q78.mp3",
           "prompt": "What are the listeners reminded to do?",
           "choices": [
             {
@@ -2137,7 +2140,7 @@
         {
           "id": "q79",
           "number": 79,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q79.mp3",
           "prompt": "What can be found online?",
           "choices": [
             {
@@ -2193,7 +2196,7 @@
         {
           "id": "q81",
           "number": 81,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q81.mp3",
           "prompt": "Why does the speaker say, \"but it's supposed to be cloudy all day\"?",
           "choices": [
             {
@@ -2221,7 +2224,7 @@
         {
           "id": "q82",
           "number": 82,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q82.mp3",
           "prompt": "What does the speaker remind the listener to do?",
           "choices": [
             {
@@ -2277,7 +2280,7 @@
         {
           "id": "q84",
           "number": 84,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q84.mp3",
           "prompt": "Where should the listeners go at the end of their shifts?",
           "choices": [
             {
@@ -2305,7 +2308,7 @@
         {
           "id": "q85",
           "number": 85,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q85.mp3",
           "prompt": "What will happen tomorrow?",
           "choices": [
             {
@@ -2361,7 +2364,7 @@
         {
           "id": "q87",
           "number": 87,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q87.mp3",
           "prompt": "What does the speaker imply when she says, \"Ms. Jenkins has retired\"?",
           "choices": [
             {
@@ -2389,7 +2392,7 @@
         {
           "id": "q88",
           "number": 88,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q88.mp3",
           "prompt": "What will the listeners most likely do next?",
           "choices": [
             {
@@ -2445,7 +2448,7 @@
         {
           "id": "q90",
           "number": 90,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q90.mp3",
           "prompt": "Why does the speaker say, \"the advertising business is very competitive\"?",
           "choices": [
             {
@@ -2473,7 +2476,7 @@
         {
           "id": "q91",
           "number": 91,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q91.mp3",
           "prompt": "What does the speaker say about Isabel?",
           "choices": [
             {
@@ -2529,7 +2532,7 @@
         {
           "id": "q93",
           "number": 93,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q93.mp3",
           "prompt": "What is the speaker concerned about?",
           "choices": [
             {
@@ -2557,7 +2560,7 @@
         {
           "id": "q94",
           "number": 94,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q94.mp3",
           "prompt": "What does the speaker plan to do?",
           "choices": [
             {
@@ -2608,12 +2611,13 @@
           "answer": "A",
           "explanation": "話者が車両購入の書類を準備しており、ディーラーで車を受け取る際の手数料について説明していることから、自動車販売員だとわかるため、(A)が正解。",
           "script": "Hello, Mr. Harris. This is Nadia calling. I've been getting the paperwork ready for the vehicle you're purchasing from us. When you come over to the dealership to pick up your car, you'll need to pay several fees. Please remember that the one hundred dollar fee must be paid in cash. The other fees can be paid with your credit card. The car title will take a few days to process, and then will be mailed to your home address. And don't forget to take advantage of our free monthly car wash—just use the service code provided on your contract.",
-          "scriptJa": "こんにちは、ハリスさん。ナディアです。お客様がご購入される車両の書類を準備しているところです。車を受け取りにディーラーにお越しの際、いくつかの手数料をお支払いいただく必要があります。100ドルの手数料は現金でお支払いいただく必要がありますのでご了承ください。その他の手数料はクレジットカードでお支払いいただけます。車両の所有権証書は処理に数日かかり、その後ご自宅に郵送されます。また、毎月の無料洗車サービスのご利用もお忘れなく。契約書に記載されたサービスコードをお使いください。"
+          "scriptJa": "こんにちは、ハリスさん。ナディアです。お客様がご購入される車両の書類を準備しているところです。車を受け取りにディーラーにお越しの際、いくつかの手数料をお支払いいただく必要があります。100ドルの手数料は現金でお支払いいただく必要がありますのでご了承ください。その他の手数料はクレジットカードでお支払いいただけます。車両の所有権証書は処理に数日かかり、その後ご自宅に郵送されます。また、毎月の無料洗車サービスのご利用もお忘れなく。契約書に記載されたサービスコードをお使いください。",
+          "image": "images/TOEIC/TOEIC 既出 3-2/Q95.jpg"
         },
         {
           "id": "q96",
           "number": 96,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q96.mp3",
           "prompt": "Look at the graphic. Which fee must be paid in cash?",
           "choices": [
             {
@@ -2641,7 +2645,7 @@
         {
           "id": "q97",
           "number": 97,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q97.mp3",
           "prompt": "What service does the speaker remind the listener about?",
           "choices": [
             {
@@ -2692,12 +2696,13 @@
           "answer": "C",
           "explanation": "話者が冒頭でヘルゲンのミュージックショップで実施する変更について話すと述べていることから、音楽用品店の店長だとわかるため、(C)が正解。",
           "script": "At this staff meeting, I'd like to talk about some changes we'll be implementing here at Helgen's Music Shop. First, to attract more customers, we're going to host a small talent contest in September. I've recruited several local musicians to be the judges. Second, take a look at this chart from our annual sales report. Now, I'm not worried about the drums. But look at this instrument—we only sell twenty of them per year. That isn't very many, and they take a lot of time and effort to maintain. So, after careful consideration, I've decided we're going to stop selling them.",
-          "scriptJa": "この従業員会議では、ここヘルゲンのミュージックショップで実施するいくつかの変更についてお話ししたいと思います。まず、顧客をもっと引きつけるため、9月に小規模な才能コンテストを開催する予定です。審査員として地元のミュージシャンを数名選出しました。次に、年間売上報告書のこの表をご覧ください。ドラムについては心配していません。しかしこの楽器を見てください。年間20台しか売れていません。これは多いとは言えませんし、メンテナンスに多くの時間と手間がかかります。そこで、慎重に検討した結果、この楽器の販売を中止することにしました。"
+          "scriptJa": "この従業員会議では、ここヘルゲンのミュージックショップで実施するいくつかの変更についてお話ししたいと思います。まず、顧客をもっと引きつけるため、9月に小規模な才能コンテストを開催する予定です。審査員として地元のミュージシャンを数名選出しました。次に、年間売上報告書のこの表をご覧ください。ドラムについては心配していません。しかしこの楽器を見てください。年間20台しか売れていません。これは多いとは言えませんし、メンテナンスに多くの時間と手間がかかります。そこで、慎重に検討した結果、この楽器の販売を中止することにしました。",
+          "image": "images/TOEIC/TOEIC 既出 3-2/Q98.jpg"
         },
         {
           "id": "q99",
           "number": 99,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q99.mp3",
           "prompt": "What event will take place in September?",
           "choices": [
             {
@@ -2725,7 +2730,7 @@
         {
           "id": "q100",
           "number": 100,
-          "audio": "",
+          "audio": "audio/TOEIC/TOEIC 既出 3-2/Q100.mp3",
           "prompt": "Look at the graphic. Which type of instrument does the speaker focus on?",
           "choices": [
             {
