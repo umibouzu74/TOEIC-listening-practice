@@ -831,10 +831,10 @@
               "text": "She is retiring."
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "D",
+          "explanation": "男性が最初の発言でジェファーソンさんが来週退職するので花を贈りたいと述べているため、(D)が正解。",
+          "script": "M: Hi, Anusha. This afternoon I'll be meeting with our financial consultant, Ms. Jefferson, for the last time. Since she's retiring next week, I wanted to get her some flowers. Do you know a good florist?\nW: The place I like best is called Greenwood Flower Shop. It's located just inside the train station, on the right-hand side.\nM: Thanks. I just need to finalize this budget proposal, and then I'll head over to the station.",
+          "scriptJa": "M: こんにちは、アヌーシャ。今日の午後、ファイナンシャルコンサルタントのジェファーソンさんと最後に会う予定なんだ。来週退職するから花を贈りたいんだけど、いい花屋さん知ってる？\nW: 私が一番好きなのはグリーンウッド・フラワーショップよ。駅の中に入ってすぐ右手にあるの。\nM: ありがとう。この予算案を仕上げたら、駅に向かうよ。"
         },
         {
           "id": "q33",
@@ -859,8 +859,8 @@
               "text": "Across from the library"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "女性がグリーンウッド・フラワーショップは駅の中に入ってすぐ右手にあると述べているため、(B)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -887,8 +887,8 @@
               "text": "Arrange a meeting"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "男性が最後の発言で予算案を仕上げてから駅に向かうと述べているため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -915,10 +915,10 @@
               "text": "He made a hotel reservation."
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "D",
+          "explanation": "男性が最初の発言でメルボルン出張の宿泊先を予約したと述べているため、(D)が正解。",
+          "script": "M: Ms. Weber, I've just booked the accommodations for your trip to Melbourne next week. I found you a hotel within a mile of the conference center.\nW: That's great! Thank you for arranging that.\nM: No problem. And remember to keep your receipts—you'll need them to get reimbursed.\nW: OK, I'll do that. Oh, and does the hotel have a restaurant on-site? I'll be working in the hotel a lot, so it'd be convenient if I could eat there.",
+          "scriptJa": "M: ウェーバーさん、来週のメルボルン出張の宿泊先を予約しました。会議場から1マイル以内のホテルが見つかりましたよ。\nW: それはよかった！手配してくれてありがとう。\nM: いえ。それと、領収書は保管しておいてくださいね。経費精算に必要ですから。\nW: わかりました、そうします。あ、そのホテルにレストランはありますか？ホテルで仕事することが多いので、そこで食事できると便利なんですが。"
         },
         {
           "id": "q36",
@@ -943,8 +943,8 @@
               "text": "Arrive early"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "男性が2番目の発言で領収書を保管するよう伝えているため、(A)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -971,8 +971,8 @@
               "text": "A conference center"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "女性が最後の発言でホテル内にレストランがあるか尋ねているため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -999,10 +999,10 @@
               "text": "Advertising"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "女性が最初の発言で春の運動着ラインをより独創的にしたいと述べていることから、衣料業界で働いていることがわかるため、(B)が正解。",
+          "script": "W: Antonio, I'd like your input about how we can make our spring athletic clothing line more original.\nM: How about designing some geometric patterns that we can have printed onto our fabric? That would set our clothing apart from other brands that use muted, solid colors.\nW: I like that idea, but I'm worried it would add a step or two to our production schedule. We have several hard deadlines coming up soon. Let's try designing one patterned fabric for this season's line. If everything goes smoothly, we can do more next season.",
+          "scriptJa": "W: アントニオ、春の運動着ラインをもっと独創的にする方法について意見を聞きたいの。\nM: 生地に印刷できる幾何学模様をデザインするのはどうですか？低い彩度の単色を使っている他のブランドと差別化できますよ。\nW: そのアイデアは気に入ったけど、生産スケジュールに1、2工程追加されるんじゃないかと心配なの。もうすぐ延長不可能な締め切りがいくつも来るし。今シーズンのラインではパターン入りの生地を1つだけデザインしてみましょう。順調にいけば、来シーズンはもっとできるわ。"
         },
         {
           "id": "q39",
@@ -1027,8 +1027,8 @@
               "text": "Installing brighter lights"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "男性が生地に印刷できる幾何学模様をデザインすることを提案しているため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1055,8 +1055,8 @@
               "text": "Some supplies will be expensive."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "女性が生産スケジュールに工程が追加されることを心配し、締め切りが迫っていると述べているため、(A)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1083,10 +1083,10 @@
               "text": "An e-mail system is not functioning properly."
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "D",
+          "explanation": "最初の女性がアニータと自分のメールの件で助けが必要だと言い、システムが遅く動作していると説明していることから、メールシステムの不具合について話し合っているため、(D)が正解。",
+          "script": "W1: Hi Yoon-Ho. Do you have a minute? Anita and I need your assistance with our e-mails.\nM: Sure. How can I help?\nW1: The system seems to be running very slow. We've been experiencing long delays in receiving e-mails, right Anita?\nW2: Yes. Since we have deadlines that are very time sensitive, can you look into this right away?\nM: You know, several people have already called us at the IT Department about it this morning—it's our top priority now.\nW2: Thanks. We're on our way to catch a flight now, but could you please call us when it's all taken care of?",
+          "scriptJa": "W1: こんにちは、ユンホさん。少しお時間ありますか？アニータと私、メールの件で助けが必要なんです。\nM: もちろんです。どうされましたか？\nW1: システムがとても遅いみたいなの。メールの受信がかなり遅延しているの、そうよね、アニータ？\nW2: ええ。締め切りが迫っていて時間的に余裕がないので、すぐに調べていただけますか？\nM: 実は今朝すでに何人もの方がこの件でIT部に電話してきています。今、最優先で対応しているところです。\nW2: ありがとうございます。今から飛行機に乗りに行くところなんですが、解決したら電話していただけますか？"
         },
         {
           "id": "q42",
@@ -1111,8 +1111,8 @@
               "text": "A sales representative"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "男性が今朝すでに何人もの人がIT部に電話してきたと述べていることから、男性はIT部で働くコンピュータ技術者だとわかるため、(A)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1139,8 +1139,8 @@
               "text": "Revise a presentation"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "2番目の女性が最後の発言で今から飛行機に乗りに行くところだと述べているため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1167,10 +1167,10 @@
               "text": "At an automobile dealership"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "女性が最初の発言でパニズ・アウトドアツアーズと名乗り、男性がサイクリングツアーを予約したいと述べていることから、女性は自転車ツアー会社で働いているとわかるため、(C)が正解。",
+          "script": "W: Paniz Outdoor Tours. Can I help you?\nM: I'm from Alderman Associates, and I'm calling to book a cycling tour of the city for my colleagues and me. There are eight of us, and we'd like to go next Thursday.\nW: I'm sorry—we'll be closed next Thursday. We're replacing all of our bikes, and it'll take a few days to get them ready to ride.\nM: Oh, we work nearby, so we could go another time.\nW: Great. So, what about the following Monday—June third?\nM: That works. We have a membership with you already, so you should have all of our information on file.\nW: In that case, just tell me your membership number, and I'll make the reservation.",
+          "scriptJa": "W: パニズ・アウトドアツアーズです。ご用件をどうぞ。\nM: オルダーマン・アソシエイツの者ですが、同僚と私で市内のサイクリングツアーを予約したくてお電話しました。8人で、来週の木曜日に行きたいのですが。\nW: 申し訳ありません。来週の木曜日は休業いたします。自転車をすべて交換する予定で、乗れるようになるまで数日かかるんです。\nM: あ、近くで働いているので、別の日でも大丈夫ですよ。\nW: よかったです。では、翌週の月曜日、6月3日はいかがですか？\nM: それで大丈夫です。すでにそちらの会員なので、情報は登録されているはずです。\nW: それでしたら、会員番号だけ教えていただければ予約いたします。"
         },
         {
           "id": "q45",
@@ -1195,8 +1195,8 @@
               "text": "Some equipment will be replaced."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "女性が来週の木曜日は自転車をすべて交換するため休業すると述べているため、(D)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1223,8 +1223,8 @@
               "text": "Write a customer review"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "女性が最後の発言で会員番号を教えてくれれば予約すると述べており、男性に会員番号の提供を求めているため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1251,10 +1251,10 @@
               "text": "A translator"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "男性が最初の発言で雑誌のフリーランス写真家のジェームズ・ウィルソンだと自己紹介しているため、(B)が正解。",
+          "script": "M: Ms. Khan, this is James Wilson, one of the freelance photographers for your magazine. I'm calling about the September issue.\nW: Right. I know we're using some of your photos for the special spread about homes in San Francisco.\nM: Yes. But I have a few more shots I took this weekend when there was a beautiful sunset. Would you be interested in looking at those?\nW: The issue is already being printed.\nM: Oh, I see. Sorry to bother you, then.\nW: Actually, I'm glad you called. We're opening a position for assistant photo editor, and I wonder if you can come in for an interview. I think you'd be great for the job.",
+          "scriptJa": "M: カーンさん、御社の雑誌のフリーランス写真家の1人、ジェームズ・ウィルソンです。9月号の件でお電話しました。\nW: ええ。サンフランシスコの住宅に関する特集記事であなたの写真を何枚か使う予定なのは知っています。\nM: はい。でも今週末、美しい夕日の時に撮った写真がもう何枚かあるんです。ご覧になりますか？\nW: その号はもう印刷に入っています。\nM: あ、そうですか。お邪魔してすみません。\nW: いえ、実はお電話いただいてよかったです。写真編集アシスタントのポストに空きが出るので、面接に来ていただけないかと思っていたんです。あなたにぴったりの仕事だと思います。"
         },
         {
           "id": "q48",
@@ -1279,8 +1279,8 @@
               "text": "To decline an offer"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "女性が「その号はもう印刷に入っています」と言ったのは、男性が追加の写真を見ないかと提案したのに対し、もう間に合わないことを伝えて提案を断る意図があるため、(D)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1307,8 +1307,8 @@
               "text": "Post some information online"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "女性が最後の発言で写真編集アシスタントの面接に来てほしいと述べているため、(A)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1335,10 +1335,10 @@
               "text": "A construction firm"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "男性が最初の発言で市に当社の保険に加入してもらう交渉について尋ねていることから、話者たちは保険会社で働いているとわかるため、(B)が正解。",
+          "script": "M: Emiko and Susan—could you give me an update on the negotiations with the city to purchase insurance through our company?\nW1: Well, the city officials expressed interest in buying insurance for all of their emergency vehicles, including ambulances, through us. I sent them a quote, but unfortunately I'm still waiting to hear back.\nW2: I've been working on the account with the city parks department, and I have the same problem. They haven't committed yet, either.\nM: Hmm, we could offer them a reduced first-year rate. That might motivate them to make a final decision quickly.",
+          "scriptJa": "M: エミコとスーザン、市に当社の保険に加入してもらう交渉の進捗を教えてくれる？\nW1: ええ、市の担当者は救急車を含むすべての緊急車両の保険を当社で購入することに関心を示しました。見積書を送ったのですが、残念ながらまだ返事を待っているところです。\nW2: 私は市の公園管理部との取引を担当しているのですが、同じ問題があります。まだ決定を下していないんです。\nM: うーん、1年目の割引料金を提示してみてはどうだろう。それで早く最終決定してもらえるかもしれない。"
         },
         {
           "id": "q51",
@@ -1363,8 +1363,8 @@
               "text": "Some vendors are making late deliveries."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "1番目の女性は見積書を送ったがまだ返事がないと言い、2番目の女性も相手がまだ決定していないと述べていることから、潜在顧客がまだ決断を下していないことが問題であるため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1391,8 +1391,8 @@
               "text": "Closing a branch"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "男性が最後の発言で1年目の割引料金を提示することを提案しているため、(A)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1419,10 +1419,10 @@
               "text": "Organize a hiring event"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "男性が最初の発言で製品テストセッションへの参加を感謝し、女性が新しいマグカップのデザインを試すと確認していることから、(A)が正解。",
+          "script": "M: Ms. Moreau, thank you for volunteering to participate in this product testing session.\nW: It sounds interesting. So I'll be testing out some new designs for drinking mugs?\nM: Exactly. We want to test if our mugs are easier to drink from than traditional mugs. Before we begin, could you please sign this agreement form? It states that we can use your comments in our marketing campaign.\nW: Sure. But I have one question... Do you have different beverages available? I don't drink coffee.\nM: Oh, definitely—you'll have several to choose from. OK, now let's go join the other participants. Please follow me to Room B.",
+          "scriptJa": "M: モローさん、製品テストセッションに参加を志願してくださりありがとうございます。\nW: 面白そうですね。新しいデザインのマグカップを試すんですか？\nM: その通りです。従来のマグカップより飲みやすいかどうかを試したいんです。始める前に、この同意書に署名していただけますか？マーケティングキャンペーンであなたのコメントを使用できるという内容です。\nW: いいですよ。でも1つ質問があります…いろいろな飲み物はありますか？コーヒーは飲まないんです。\nM: もちろん、いくつか選べますよ。では、他の参加者と合流しましょう。B号室へご案内します。"
         },
         {
           "id": "q54",
@@ -1447,8 +1447,8 @@
               "text": "A service estimate"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "男性が同意書への署名を求め、マーケティングキャンペーンでコメントを使用できるという内容だと説明しているため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1475,8 +1475,8 @@
               "text": "Make a phone call"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "男性が最後の発言で他の参加者と合流するためB号室へ移動するよう案内しているため、(B)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1503,10 +1503,10 @@
               "text": "At an energy company"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "男性が最初の発言で客のヘアスタイリングが終わったか尋ねていることから、会話の場所は美容室だとわかるため、(A)が正解。",
+          "script": "M: Hi Irina, are you all finished styling your client's hair?\nW: Yes, I cut and blow dried it. She's all set. Now I'm going to sweep the floor and wash some towels.\nM: Thanks. I wanted to mention something... It seems we're all using too much electricity every month. I'd like us all to start thinking of ways to reduce that expense.\nW: Oh? I didn't realize that was an issue.\nM: Well, the other salons I own spend about half of what this location does every month.\nW: Hmm... they don't have as many clients, though.\nM: True, but I still think we all need to make changes nonetheless. We'll discuss it further at the employee meeting later today.",
+          "scriptJa": "M: こんにちは、イリーナ。お客様のヘアスタイリングは終わった？\nW: はい、カットしてブローしました。完了です。これから床を掃いてタオルを洗います。\nM: ありがとう。1つ言っておきたいことがあるんだけど…毎月みんな電気を使いすぎているみたいなんだ。その費用を減らす方法をみんなで考えてほしいんだ。\nW: え？そんな問題があるとは知りませんでした。\nM: うん、私が所有している他のサロンは毎月この店舗の半分くらいしか消費していないんだ。\nW: うーん…でも他の店舗はここほど客が多くないですよね。\nM: 確かにそうだけど、それでも変える必要があると思う。今日の午後の従業員会議でさらに話し合おう。"
         },
         {
           "id": "q57",
@@ -1531,8 +1531,8 @@
               "text": "To question the accuracy of a client list"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "女性が「でも他の店舗はここほど客が多くないですよね」と言ったのは、男性が電気代が高いと指摘したことに対し、客が多いから費用がかかるのだという理由を示すためであり、(B)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1559,8 +1559,8 @@
               "text": "An expense report will be submitted."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "男性が最後の発言で今日の午後の従業員会議でさらに話し合うと述べているため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1587,10 +1587,10 @@
               "text": "Engineering"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "D",
+          "explanation": "女性が最初の発言でフェリー会社から水素動力ボートの設計を請け負ったと述べていることから、話者たちはエンジニアリング業界で働いているとわかるため、(D)が正解。",
+          "script": "W: Thanks for meeting with me today, Diego. Our firm's been contracted by a ferry company to design a hydrogen-powered boat. They're hoping to cut down on their carbon emissions with a boat that runs on clean energy.\nM: Hmm. A hydrogen power source is going to need a lot of space. Since ferries usually transport cars, I'm concerned about where we'd place the hydrogen source.\nW: Actually this ferry would give tours. So it won't be carrying vehicles, just passengers.\nM: Then maybe we could store the hydrogen on the deck?\nW: Possibly. Could you research that before we meet with the ferry company?\nM: Absolutely.",
+          "scriptJa": "W: 今日は会ってくれてありがとう、ディエゴ。私たちの会社はフェリー会社から水素動力ボートの設計を請け負ったの。クリーンエネルギーで動くボートで炭素排出量を削減したいそうよ。\nM: うーん。水素電源は広いスペースが必要ですね。フェリーは普通車を運ぶから、水素電源をどこに置くか心配です。\nW: 実はこのフェリーは観光用なの。車両は載せず、乗客だけよ。\nM: それなら甲板に水素を貯蔵できるかもしれませんね。\nW: その可能性はあるわ。フェリー会社と会う前に調べてもらえる？\nM: もちろんです。"
         },
         {
           "id": "q60",
@@ -1615,8 +1615,8 @@
               "text": "Space"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "男性が水素電源は広いスペースが必要で、どこに置くか心配だと述べているため、(D)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1643,8 +1643,8 @@
               "text": "Assemble a work crew"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "女性がフェリー会社と会う前に調べてほしいと依頼し、男性がもちろんと同意しているため、(B)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1671,10 +1671,10 @@
               "text": "She has just bought a new car."
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "女性がハーツビルの中心部で育ったと述べて、以前その地域に住んでいたことを思い出させているため、(A)が正解。",
+          "script": "M: Dolores, thanks again for offering to drive to the technology seminar. I'm not very familiar with the city of Hartsville.\nW: It's no problem. I grew up in downtown Hartsville, remember? I know the area well.\nM: Oh—that's right. Does it take long to get to the conference center from here? I know it's on Carter Lane.\nW: Well, usually not—but the traffic report earlier said that the exit to Carter Lane is closed for repairs. We'll have to take exit eight. It'll take us about twenty minutes longer to get there.\nM: Well, in that case, I'd better call our coworkers and ask them to save us some seats.\nW: Good idea!",
+          "scriptJa": "M: ドロレス、テクノロジーセミナーまで車を出してくれるって言ってくれてありがとう。ハーツビルの街はあまり詳しくないんだ。\nW: 問題ないわ。私、ハーツビルの中心部で育ったの、覚えてる？この辺りはよく知っているのよ。\nM: あ、そうだったね。ここから会議場まで時間かかる？カーター・レインにあるのは知っているんだけど。\nW: まあ、普段はそうでもないんだけど、さっきの交通情報でカーター・レインへの出口が修理のため閉鎖されているって言ってたの。8番出口から出なきゃいけないわ。着くまで20分くらい余計にかかるわよ。\nM: それなら、同僚に電話して席を確保してもらった方がいいな。\nW: いい考えね！"
         },
         {
           "id": "q63",
@@ -1699,8 +1699,8 @@
               "text": "High Road"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "女性がカーター・レインへの出口が閉鎖されているため8番出口から出ると述べており、図表によると8番出口はバーク・ストリートであるため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1727,8 +1727,8 @@
               "text": "Print some materials"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "男性が同僚に電話して席を確保してもらうと述べているため、(B)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1755,10 +1755,10 @@
               "text": "At a school"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "D",
+          "explanation": "女性が学生の個人情報をスキャン・細断処理したか確認し、授業時間表や保護者向けのお知らせに言及していることから、会話の場所は学校だとわかるため、(D)が正解。",
+          "script": "W: Good work helping the office go paperless, Kentaro. You've scanned and shredded everything that had any personal student data, correct?\nM: Yes, so now we can get rid of the rest of these old documents—class schedules, information sheets to parents—all of it can be recycled. The bins are out back, right?\nW: That's right, behind the gym. But don't try to carry all these boxes; they're too heavy. I brought a cart over from the maintenance closet for you to use.",
+          "scriptJa": "W: 事務室のペーパーレス化を手伝ってくれてお疲れ様、ケンタロウ。学生の個人情報が含まれるものは全部スキャンして細断処理したわね？\nM: はい。あとはこの古い書類の残り、授業時間表とか保護者向けのお知らせとか、全部リサイクルに出せます。ごみ箱は外の裏手にありますよね？\nW: そう、体育館の裏よ。でもこの箱を全部運ぼうとしないでね。重すぎるから。備品倉庫からカートを持ってきたから使って。"
         },
         {
           "id": "q66",
@@ -1783,8 +1783,8 @@
               "text": "Bin 4"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "男性が授業時間表や保護者向けのお知らせなどの紙の書類をリサイクルすると述べており、図表によると紙のリサイクルは3番のごみ箱であるため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1811,8 +1811,8 @@
               "text": "Rescheduling an appointment with a client"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "女性が箱は重すぎるから全部運ぼうとしないで、備品倉庫からカートを持ってきたと述べているため、(A)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1839,10 +1839,10 @@
               "text": "A fund-raiser"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "D",
+          "explanation": "女性が最初の発言で募金イベントの招待状の草案を見てほしいと述べているため、(D)が正解。",
+          "script": "W: Riccardo, could you take a look at this invitation? It's a draft I put together for our upcoming fund-raiser. Your feedback would be helpful.\nM: Sure. Hmm... It looks good, but we should have the live music start at the same time as dinner. Otherwise, there'll be very little time for the band to perform.\nW: You're right. Anything else?\nM: Let's add a line at the bottom with the name of our organization, since we're sponsoring the event.\nW: OK, that's an easy addition.",
+          "scriptJa": "W: リカルド、この招待状を見てくれない？今度の募金イベントのために作成した草案なの。意見をもらえると助かるわ。\nM: もちろん。うーん…いい感じだけど、ライブ音楽は夕食と同時に始めるべきだよ。そうしないとバンドの演奏時間がほとんどなくなってしまう。\nW: そうね。他に何かある？\nM: 私たちがイベントを後援しているんだから、一番下に団体名を1行追加しよう。\nW: わかった、簡単に追加できるわ。"
         },
         {
           "id": "q69",
@@ -1867,8 +1867,8 @@
               "text": "At 8:00 P.M."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "男性がライブ音楽は夕食と同時に始めるべきだと述べており、招待状によると夕食は午後6時であるため、(B)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1895,8 +1895,8 @@
               "text": "A list of performers"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "男性がイベントを後援しているので団体名を招待状に追加しようと提案しているため、(A)が正解。",
           "script": "",
           "scriptJa": ""
         }
