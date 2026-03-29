@@ -40,10 +40,10 @@
               "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "1人の人物の動作を描写する写真。男性が洗濯物運搬車を覗き込んでいる様子が写っているため、(B)が正解。",
+          "script": "(A) He's folding some clothes.\n(B) He's looking into a laundry cart.\n(C) He's removing some clothes from hangers.\n(D) He's standing in front of a washing machine.",
+          "scriptJa": "(A) 男性が衣服を畳んでいる。\n(B) 男性が洗濯物運搬車を覗き込んでいる。\n(C) 男性がハンガーから衣服を取り外している。\n(D) 男性が洗濯機の前に立っている。"
         },
         {
           "id": "q2",
@@ -69,10 +69,10 @@
               "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "D",
+          "explanation": "2人以上が写っている写真。女性の1人が眼鏡をかけている様子が写っているため、(D)が正解。",
+          "script": "(A) The man is leaning against a doorway.\n(B) The man is opening up a package.\n(C) One of the women is plugging in a printer.\n(D) One of the women is wearing glasses.",
+          "scriptJa": "(A) 男性が出入り口に寄りかかっている。\n(B) 男性が荷物を開けている。\n(C) 女性の1人がプリンターのプラグを差し込んでいる。\n(D) 女性の1人が眼鏡をかけている。"
         },
         {
           "id": "q3",
@@ -98,10 +98,10 @@
               "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "1人の人物の動作を描写する写真。女性が果物を持ち上げている様子が写っているため、(C)が正解。",
+          "script": "(A) She's attaching price tags to some merchandise.\n(B) She's piling up some boxes.\n(C) She's holding up some fruit.\n(D) She's throwing away a plastic bag.",
+          "scriptJa": "(A) 女性が商品に値札を付けている。\n(B) 女性が箱を積み上げている。\n(C) 女性が果物を持ち上げている。\n(D) 女性がビニール袋を捨てている。"
         },
         {
           "id": "q4",
@@ -127,10 +127,10 @@
               "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "人物・事物の混合写真。建物の外に植物が植えられた庭園がある様子が写っているため、(C)が正解。",
+          "script": "(A) A jacket has been placed on the ground.\n(B) A man is watering some flowers.\n(C) A garden has been planted outside of a building.\n(D) A man is putting some tools in a toolbox.",
+          "scriptJa": "(A) ジャケットが地面に置かれている。\n(B) 男性が花に水をやっている。\n(C) 建物の外に庭園が作られている。\n(D) 男性が工具箱に工具を入れている。"
         },
         {
           "id": "q5",
@@ -156,10 +156,10 @@
               "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "事物・風景の写真。照明器具が壁に取り付けられている様子が写っているため、(B)が正解。",
+          "script": "(A) Some chairs are stacked in the corner.\n(B) Some light fixtures are mounted on the walls.\n(C) Some tables are covered with tablecloths.\n(D) Some furniture is on display in a window.",
+          "scriptJa": "(A) 椅子が隅に積み重ねられている。\n(B) 照明器具が壁に取り付けられている。\n(C) テーブルにテーブルクロスがかけられている。\n(D) 家具が陳列窓に展示されている。"
         },
         {
           "id": "q6",
@@ -185,10 +185,10 @@
               "text": "(D)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "2人以上が写っている写真。従業員の1人が空のトレイを持って歩いている様子が写っているため、(A)が正解。",
+          "script": "(A) One of the employees is walking with an empty tray.\n(B) One of the employees is taping signs to a board.\n(C) One of the employees is carrying a pair of scissors.\n(D) One of the employees is hanging an apron on a hook.",
+          "scriptJa": "(A) 従業員の1人が空のトレイを持って歩いている。\n(B) 従業員の1人が掲示板に標識をテープで貼っている。\n(C) 従業員の1人がハサミを持っている。\n(D) 従業員の1人がエプロンをフックにかけている。"
         }
       ]
     },
@@ -218,10 +218,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "報道資料を作成する人を問うWho疑問文。ジョージが対処できると人物を示している(A)が正解。",
+          "script": "Who should write the press release?\n(A) George can take care of that.\n(B) Press the red button.\n(C) At the corner newsstand.",
+          "scriptJa": "報道資料は誰が作成すべきですか？\n(A) ジョージが対処できます。\n(B) 赤いボタンを押してください。\n(C) 角の新聞スタンドです。"
         },
         {
           "id": "q8",
@@ -242,10 +242,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "会社の本社の場所を問うWhere疑問文。ドイツのベルリンだと場所を答えている(C)が正解。",
+          "script": "Where is the company's headquarters?\n(A) Before we went to work.\n(B) His name is Mr. Lee.\n(C) In Berlin, Germany.",
+          "scriptJa": "会社の本社はどこですか？\n(A) 出勤する前です。\n(B) 彼の名前はリーさんです。\n(C) ドイツのベルリンです。"
         },
         {
           "id": "q9",
@@ -266,10 +266,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "顧客を訪問する理由を問うWhy疑問文。契約を更新する必要があると理由を示している(B)が正解。",
+          "script": "Why are you visiting the clients tomorrow?\n(A) After two o'clock.\n(B) I need to renew their contract.\n(C) The Dubai airport.",
+          "scriptJa": "明日なぜ顧客を訪問するのですか？\n(A) 2時以降です。\n(B) 契約を更新しなければなりません。\n(C) ドバイの空港です。"
         },
         {
           "id": "q10",
@@ -290,10 +290,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "アレン先生の勤務先を問う選択疑問文。病院だと思うと選択肢の1つを選んで答えている(A)が正解。",
+          "script": "Does Dr. Allen work at the hospital or at a private practice?\n(A) At the hospital, I think.\n(B) We'll need to practice that.\n(C) An annual exam.",
+          "scriptJa": "アレン先生は病院で働いていますか、それとも個人医院ですか？\n(A) 病院だと思います。\n(B) それは練習が必要ですね。\n(C) 年次検診です。"
         },
         {
           "id": "q11",
@@ -314,10 +314,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "会議場への行き方を問うWhat疑問文。電車の時刻表を確認しようと提案し、交通手段を間接的に示している(C)が正解。",
+          "script": "What's the best way for us to get to the conference center?\n(A) I haven't heard from her, either.\n(B) It was a great presentation.\n(C) Let's take a look at the train schedule.",
+          "scriptJa": "会議場に行く最も良い方法は何ですか？\n(A) 私も彼女から連絡をもらっていません。\n(B) 素晴らしい発表でした。\n(C) 電車の時刻表を見てみましょう。"
         },
         {
           "id": "q12",
@@ -338,10 +338,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "フォークリフトの修理時期を問うWhen疑問文。おそらく来週だと時期を答えている(B)が正解。",
+          "script": "When will the forklift be repaired?\n(A) A fork and a knife, please.\n(B) Probably next week.\n(C) Several pairs.",
+          "scriptJa": "フォークリフトはいつ修理されますか？\n(A) フォークとナイフをお願いします。\n(B) おそらく来週です。\n(C) いくつかのペアです。"
         },
         {
           "id": "q13",
@@ -362,10 +362,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "リマインダーを送るかどうかを提案する疑問文。はい、ありがたいと肯定的に応答している(A)が正解。",
+          "script": "Would you like me to send you an appointment reminder?\n(A) Yes, I'd appreciate that.\n(B) The apartment downstairs.\n(C) Do you accept credit cards?",
+          "scriptJa": "予約のリマインダーをお送りしましょうか？\n(A) はい、そうしていただけると助かります。\n(B) 階下のアパートです。\n(C) クレジットカードは使えますか？"
         },
         {
           "id": "q14",
@@ -386,10 +386,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "写真家の予約を確認する疑問文。もう来ているはずだと答え、予約したが到着が遅れていることを間接的に伝えている(C)が正解。",
+          "script": "Did you remember to book a photographer for today's museum opening?\n(A) Oh, have you read it too?\n(B) I'd like to have it framed.\n(C) She should have been here by now.",
+          "scriptJa": "今日の博物館開館式に写真家を予約するのを覚えていましたか？\n(A) あ、あなたも読んだのですか？\n(B) 額に入れてもらいたいです。\n(C) 彼女はもう来ているはずなのですが。"
         },
         {
           "id": "q15",
@@ -410,10 +410,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "コンピュータが遅い理由を問うWhy疑問文。アップデートがインストール中だからと理由を示している(B)が正解。",
+          "script": "Why is my computer so slow today?\n(A) The printer is down that hall.\n(B) Because some updates are being installed.\n(C) Next year's computer seminar.",
+          "scriptJa": "今日私のコンピュータはなぜこんなに遅いのですか？\n(A) プリンターはあの廊下の先にあります。\n(B) アップデートがインストールされているからです。\n(C) 来年のコンピュータセミナーです。"
         },
         {
           "id": "q16",
@@ -434,10 +434,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "棚の補充担当を問うWho疑問文。夜間勤務者がやると人物を答えている(A)が正解。",
+          "script": "Who's going to stock these shelves?\n(A) The overnight workers will do it.\n(B) No, I haven't gone yet.\n(C) To make room for more items.",
+          "scriptJa": "誰がこの棚に商品を補充しますか？\n(A) 夜間勤務者がやります。\n(B) いいえ、まだ行っていません。\n(C) もっと商品を置くスペースを作るためです。"
         },
         {
           "id": "q17",
@@ -458,10 +458,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "機械の生産量を問うHow many疑問文。最近働き始めたばかりだと答え、まだわからないことを間接的に伝えている(B)が正解。",
+          "script": "How many bottles can these machines produce each hour?\n(A) Mainly soft drinks and juices.\n(B) I just started working here.\n(C) It stays fresh for a long time.",
+          "scriptJa": "この機械は1時間に何本のボトルを生産できますか？\n(A) 主に清涼飲料水とジュースです。\n(B) 私はここで最近働き始めたばかりです。\n(C) 長期間新鮮さが保たれます。"
         },
         {
           "id": "q18",
@@ -482,10 +482,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "登山靴の割引について確認する否定疑問文。はいと肯定し、謝罪している(A)が正解。",
+          "script": "Aren't these hiking boots supposed to be discounted?\n(A) Oh yes, sorry about that.\n(B) Let's pose for a picture.\n(C) No, we haven't met yet.",
+          "scriptJa": "この登山靴は割引されるはずではないですか？\n(A) ああ、はい、申し訳ありません。\n(B) 写真のポーズを取りましょう。\n(C) いいえ、まだ会ったことがありません。"
         },
         {
           "id": "q19",
@@ -506,10 +506,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "報告書を仕上げる時間が十分かを問う疑問文。次の約束を変更すると答え、時間を確保する意思を示している(B)が正解。",
+          "script": "Do we have enough time to finish this report?\n(A) She borrowed your newspaper.\n(B) I'll reschedule my next appointment.\n(C) It's a beautiful trail.",
+          "scriptJa": "この報告書を仕上げる時間は十分ありますか？\n(A) 彼女があなたの新聞を借りました。\n(B) 次の約束の時間を変更します。\n(C) 美しい遊歩道です。"
         },
         {
           "id": "q20",
@@ -530,10 +530,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "旅行の荷造り開始時期を問うWhen疑問文。だいたい2日前だと時期を答えている(B)が正解。",
+          "script": "When do you usually start packing for a trip?\n(A) A round-trip ticket.\n(B) About two days in advance.\n(C) They delivered the package.",
+          "scriptJa": "旅行の荷造りは普通いつ始めますか？\n(A) 往復チケットです。\n(B) だいたい2日前です。\n(C) 彼らが荷物を届けました。"
         },
         {
           "id": "q21",
@@ -554,10 +554,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "昼休みに散歩に行くという平叙文。その時間は顧客訪問の予定だと自分の予定を伝えている(A)が正解。",
+          "script": "I'm going to take a walk at lunchtime.\n(A) Oh, I'll be visiting clients then.\n(B) He took the survey.\n(C) A copy of the lunch menu.",
+          "scriptJa": "昼休みに散歩に行くつもりです。\n(A) あ、その時間は顧客を訪問する予定です。\n(B) 彼はアンケートに回答しました。\n(C) ランチメニューのコピーです。"
         },
         {
           "id": "q22",
@@ -578,10 +578,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "申込書の確認を依頼する疑問文。もちろん問題ないと快諾している(C)が正解。",
+          "script": "Can you make sure we have a sign-up sheet available?\n(A) I just turned up the heat.\n(B) Sign here, please.\n(C) Sure, no problem.",
+          "scriptJa": "加入申込書が用意されているか確認してもらえますか？\n(A) 暖房の温度を上げたところです。\n(B) ここに署名してください。\n(C) もちろん、問題ありません。"
         },
         {
           "id": "q23",
@@ -602,10 +602,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "報道資料の配布を確認する付加疑問文。念を押した方がいいと述べ、配布を確実にする意思を示している(C)が正解。",
+          "script": "They're going to give each of us copies of the press release, aren't they?\n(A) No, I don't drink coffee.\n(B) I can unlock that for you later.\n(C) I'd better remind them about that.",
+          "scriptJa": "報道資料を私たち全員に配ってくれるんですよね？\n(A) いいえ、コーヒーは飲みません。\n(B) 後でそれを開けてあげますよ。\n(C) その件について彼らに念を押した方がいいですね。"
         },
         {
           "id": "q24",
@@ -626,10 +626,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "地域住民の主な職業を問うWhat疑問文。自動車製造工場で働いていると具体的に答えている(B)が正解。",
+          "script": "What do most people do for a living around here?\n(A) About 40 kilometers away.\n(B) They work at the car manufacturing plant.\n(C) Yes, the living room furniture's new.",
+          "scriptJa": "この辺りの人たちは主に何の仕事をしていますか？\n(A) 約40キロ離れています。\n(B) 自動車製造工場で働いています。\n(C) はい、リビングの家具は新しいです。"
         },
         {
           "id": "q25",
@@ -650,10 +650,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "トナーの追加方法を問うHow疑問文。説明書が箱の上にあると情報の場所を教えている(C)が正解。",
+          "script": "How do you add toner to the printer?\n(A) No, it's not made of stone.\n(B) Because we ran out.\n(C) The instructions are on the box.",
+          "scriptJa": "プリンターにトナーをどうやって追加しますか？\n(A) いいえ、石で作られたものではありません。\n(B) なくなったからです。\n(C) 説明書が箱の上にあります。"
         },
         {
           "id": "q26",
@@ -674,10 +674,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "ウェブサイトのリンク送付を依頼する疑問文。メールが動いていないと答え、間接的に今は送れないことを伝えている(A)が正解。",
+          "script": "Can you send me a link to that company's Web site?\n(A) Our e-mail's not working right now.\n(B) Express delivery, please.\n(C) Sure, I'll drive you to the job site.",
+          "scriptJa": "その会社のウェブサイトのリンクを送ってもらえますか？\n(A) 今、メールが動いていないんです。\n(B) 速達でお願いします。\n(C) もちろん、作業現場まで車で送りますよ。"
         },
         {
           "id": "q27",
@@ -698,10 +698,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "エアコンの設定を確認する否定疑問文。いいえ、いつもつけたままだと否定して回答している(A)が正解。",
+          "script": "Isn't the air conditioner set to turn off at night?\n(A) No, we always keep it on.\n(B) He's going to be late today.\n(C) Hair products are in aisle four.",
+          "scriptJa": "エアコンは夜に切れるように設定されていませんか？\n(A) いいえ、いつもつけっぱなしにしています。\n(B) 彼は今日遅れるでしょう。\n(C) ヘア製品は4番通路にあります。"
         },
         {
           "id": "q28",
@@ -722,10 +722,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "部屋に時計がないという平叙文。2時30分くらいだと時間を教えている(B)が正解。",
+          "script": "Oh, there's no clock in this room.\n(A) A six-week training program.\n(B) It's about two-thirty.\n(C) They took an early flight.",
+          "scriptJa": "あ、この部屋に時計がないですね。\n(A) 6週間の研修プログラムです。\n(B) 2時30分くらいです。\n(C) 彼らは早朝の便に乗りました。"
         },
         {
           "id": "q29",
@@ -746,10 +746,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "車のエンジン点検ができる場所を問うWhere疑問文。角を曲がったところの整備士だと場所を答えている(B)が正解。",
+          "script": "Where can I go to have my car engine checked?\n(A) No, I don't need one—thanks, though.\n(B) The mechanic around the corner.\n(C) In April of every year.",
+          "scriptJa": "車のエンジンを点検してもらうにはどこに行けばいいですか？\n(A) いいえ、必要ありません。でもありがとうございます。\n(B) 角を曲がったところの整備士です。\n(C) 毎年4月です。"
         },
         {
           "id": "q30",
@@ -770,10 +770,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "建物への入館方法を問う選択疑問文。キーパッドに暗証番号を入力するよう具体的に答えている(B)が正解。",
+          "script": "To get into the building, do I use an ID badge or a passcode?\n(A) A building next door.\n(B) Enter three-four-three on the keypad.\n(C) The exit is down the hall.",
+          "scriptJa": "建物に入るには身分証を使いますか、それとも暗証番号ですか？\n(A) 隣の建物です。\n(B) キーパッドに3-4-3と入力してください。\n(C) 出口は廊下の先にあります。"
         },
         {
           "id": "q31",
@@ -794,10 +794,10 @@
               "text": "(C)"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "注文の変更可否を確認する付加疑問文。手続きが非常に複雑だと答え、変更は可能だが簡単ではないことを間接的に伝えている(A)が正解。",
+          "script": "The order can still be changed, right?\n(A) That process is very complicated.\n(B) I still remember that day, too.\n(C) Yes, he does.",
+          "scriptJa": "注文はまだ変更できますよね？\n(A) その手続きはとても複雑です。\n(B) 私もまだあの日のことを覚えています。\n(C) はい、彼はそうします。"
         }
       ]
     },
@@ -1933,10 +1933,10 @@
               "text": "It upgraded a product line."
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "話者が冒頭で月曜日にスターブライト社の新工場がグランドオープンしたと述べているため、(B)が正解。",
+          "script": "You're listening to radio station WKXL. Turning to local business updates, Monday marked the grand opening of Starbright Corporation's new factory. Starbright Corporation is a leading manufacturer of boots, athletic shoes, and sandals. So far, the new factory has created 800 jobs in our community, with positions ranging from assembly line workers to department managers. To hear more about the company, please visit our radio station's Web site, where my video interview with Starbright's president has been posted.",
+          "scriptJa": "WKXL ラジオ局をお聴きの皆さま。地域のビジネスニュースです。月曜日にスターブライト社の新工場がグランドオープンしました。スターブライト社はブーツ、運動靴、サンダルを製造する大手メーカーです。新工場はこれまでに地域社会で800の雇用を創出しており、組立ラインの作業員から部門管理者まで幅広い職種があります。同社についてさらに詳しく知りたい方は、当ラジオ局のウェブサイトをご覧ください。スターブライト社社長へのインタビュー動画が掲載されています。"
         },
         {
           "id": "q72",
@@ -1961,8 +1961,8 @@
               "text": "Electronics"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "話者がスターブライト社はブーツ、運動靴、サンダルの大手メーカーだと紹介しており、これらはすべて靴類であるため、(A)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -1989,8 +1989,8 @@
               "text": "A virtual tour"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者が最後にラジオ局のウェブサイトでスターブライト社社長へのインタビュー動画が掲載されていると述べているため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2017,10 +2017,10 @@
               "text": "A retirement party"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "D",
+          "explanation": "話者が冒頭で祝賀会への参加に感謝し、ムスタファ・ペレスさんの来週の退職について述べていることから、退職パーティーだとわかるため、(D)が正解。",
+          "script": "Thank you all for coming to this celebration. I know I speak for everyone here at the newspaper when I say that I'm sad to see Mustafa Perez retire next week. For the past 30 years, he's been the photographer we've all relied on to capture photos that illustrate our news articles. To honor his career, I've made a slideshow of some of the most impressive photos that Mustafa has taken. Please look at the screen at the front of the room.",
+          "scriptJa": "この祝賀会にお越しくださりありがとうございます。来週ムスタファ・ペレスさんが退職されるのは寂しいと、ここにいる新聞社の全員を代表して申し上げます。過去30年間、彼は私たちのニュース記事を彩る写真を撮影してくれた写真記者でした。彼の功績を称えて、ムスタファが撮影した最も印象的な写真の数々をスライドショーにまとめました。部屋の前方にあるスクリーンをご覧ください。"
         },
         {
           "id": "q75",
@@ -2045,8 +2045,8 @@
               "text": "A camera shop"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者が新聞社の全員を代表していると述べ、ムスタファが30年間ニュース記事の写真を撮影してきたと説明していることから、新聞社で働いているとわかるため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2073,8 +2073,8 @@
               "text": "A brochure"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "話者がムスタファの功績を称えて最も印象的な写真のスライドショーを作ったと述べているため、(A)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2101,10 +2101,10 @@
               "text": "Construction materials"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "話者がタマラ製薬で販売する医薬品を製造する際の安全について述べていることから、会社は医薬品を製造しているとわかるため、(A)が正解。",
+          "script": "The last point on our agenda is about maintaining a safe environment while making the medications we sell here at Tamarah Pharmaceuticals. If you're working in any of the laboratories, please make sure to turn on the room's exhaust fan. It's especially important to keep the area well ventilated when working with some of the chemicals we use in our medications. We'd like to maintain our excellent safety record, so thank you in advance. The safety procedure handbook is on our internal company Web site if you need more information.",
+          "scriptJa": "議題の最後の項目は、ここタマラ製薬で販売する医薬品を製造する際の安全な環境の維持についてです。研究室で作業する場合は、必ず部屋の換気扇をつけてください。医薬品に使用する化学物質を扱う際には、その区域の換気を十分に行うことが特に重要です。当社の優れた安全記録を維持していきたいと思いますので、よろしくお願いします。詳しい情報が必要な方は、社内ウェブサイトに安全手順のハンドブックが掲載されています。"
         },
         {
           "id": "q78",
@@ -2129,8 +2129,8 @@
               "text": "Turn on a fan"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者が研究室で作業する場合は必ず部屋の換気扇をつけるよう指示しているため、(D)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2157,8 +2157,8 @@
               "text": "A contract"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者が最後に社内ウェブサイトに安全手順のハンドブックが掲載されていると述べているため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2185,10 +2185,10 @@
               "text": "Take photographs"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "B",
+          "explanation": "話者が農産物直売所のために公園に来て、ブルーベリーとイチゴを販売すると述べていることから、公園で果物を売る予定だとわかるため、(B)が正解。",
+          "script": "Hi, Aisha. I'm here at the park for the farmers' market—I just set out the blueberries and strawberries that I'll be selling this morning. Everything's ready to go... Though I did accidentally forget to bring the tent that we use to shade the fruit. I know you're concerned about the fruit sitting out in the sun, but it's supposed to be cloudy all day. Anyways, the real reason I called was to remind you to register us for the annual farmers' association competition. I think we have a pretty good chance of winning the award for our strawberries.",
+          "scriptJa": "こんにちは、アイシャ。農産物直売所のために公園に来ています。今朝販売するブルーベリーとイチゴを並べたところです。準備は万端なのですが…果物に日よけをするために使うテントをうっかり持ってくるのを忘れてしまいました。果物が日光に当たるのが心配だと思いますが、今日は一日中曇りの予報です。ともかく、電話した本当の理由は、毎年恒例の農業協会のコンテストに登録するのを忘れないようお伝えするためです。イチゴの部門で受賞できる可能性が高いと思います。"
         },
         {
           "id": "q81",
@@ -2213,8 +2213,8 @@
               "text": "To reassure the listener"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者がテントを忘れたが一日中曇りの予報だと述べたのは、果物が日光に当たることへの心配を和らげ、聞き手を安心させるためであるため、(D)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2241,8 +2241,8 @@
               "text": "Speak to a customer"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "話者が電話した本当の理由は毎年恒例の農業協会のコンテストへの登録を忘れないよう伝えるためだと述べているため、(A)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2269,10 +2269,10 @@
               "text": "At a law office"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "話者が冒頭でホームファニチャー工場の従業員に呼びかけていることから、工場での公知だとわかるため、(C)が正解。",
+          "script": "Attention, Home Furniture factory employees. The software program we use for clocking in and out isn't working. This means you cannot enter your hours electronically. Instead, when your shift's over, please write your start and end time on the form that's on the receptionist's desk. The form already includes your name and the machine you operate. I know this is a hassle, but it's only temporary—the time-reporting software will be working when you get to the factory tomorrow morning.",
+          "scriptJa": "ホームファニチャー工場の従業員の皆さん、お知らせです。出退勤の記録に使用しているソフトウェアプログラムが動作しておりません。そのため、勤務時間を電子的に入力することができません。代わりに、勤務が終わったら、受付担当者のデスクにある用紙に開始時刻と終了時刻を記入してください。用紙にはすでに皆さんの名前と担当する機械が記載されています。ご不便をおかけしますが、これは一時的なものです。明日の朝、工場に到着する頃には勤怠管理ソフトウェアは復旧している予定です。"
         },
         {
           "id": "q84",
@@ -2297,8 +2297,8 @@
               "text": "To the parking area"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "話者が勤務終了時に受付担当者のデスクにある用紙に記入するよう指示しているため、(B)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2325,8 +2325,8 @@
               "text": "Some time-reporting software will be fixed."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者が明日の朝工場に到着する頃には勤怠管理ソフトウェアが復旧している予定だと述べているため、(D)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2353,10 +2353,10 @@
               "text": "At a medical clinic"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "D",
+          "explanation": "話者が当院はフェアにブースを出展し看護師が対応すると述べていることから、聞き手は医療機関で働いているとわかるため、(D)が正解。",
+          "script": "The final item on our agenda is the annual community health fair. As in previous years, our clinic will have a booth at the fair, where one of our nurses will be available to answer questions and give presentations about maintaining a healthy lifestyle. In the past, Mary Jenkins has always managed our booth, but, as you may know, Ms. Jenkins has retired. I want to tell you that working at the fair is a great way to give back to the community, so feel free to get in touch with me. OK, let's end there. As promised, I brought in soup and sandwiches for everyone—the food's in the break room.",
+          "scriptJa": "議題の最後の項目は、毎年恒例の地域健康フェアについてです。例年通り、当院はフェアにブースを出展し、看護師の1人が質問に答えたり健康的な生活の維持に関するプレゼンテーションを行ったりする予定です。以前はメアリー・ジェンキンスさんがいつもブースを担当していましたが、ご存知の通り、ジェンキンスさんは退職されました。フェアでの活動は地域社会に貢献する素晴らしい方法ですので、興味のある方はいつでもご連絡ください。では、ここで終わりにしましょう。約束通り、スープとサンドイッチを持ってきました。休憩室にあります。"
         },
         {
           "id": "q87",
@@ -2381,8 +2381,8 @@
               "text": "A process will be less efficient."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "A",
+          "explanation": "話者がジェンキンスさんが退職したことに触れた後、フェアでの活動への参加を呼びかけていることから、ブース担当者の後任が必要であることを示唆しているため、(A)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2409,8 +2409,8 @@
               "text": "Brainstorm some ideas"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者が最後にスープとサンドイッチを休憩室に持ってきたと述べていることから、聞き手は食事をする予定だとわかるため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2437,10 +2437,10 @@
               "text": "An employee luncheon"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "話者が金曜日の会議でNVC社に広告プレゼンを行うと述べていることから、金曜日には顧客との会議が予定されているとわかるため、(C)が正解。",
+          "script": "Good morning, Martina. I'm calling about our biggest client, NVC Industries. A couple things... First, thank you for sending me your slides for the advertising pitch you'll be delivering to them at the meeting on Friday. I know you expressed some hesitation about your particular approach... you have concerns that it might be a bit too bold. Well, always remember that the advertising business is very competitive. Second, Isabel can make some recommendations about what to do while you're in Barcelona for the meeting with NVC Industries. Make sure you see her before you travel there.",
+          "scriptJa": "おはようございます、マルティナ。最大の顧客であるNVCインダストリーズの件でお電話しています。いくつかお伝えしたいことがあります…まず、金曜日の会議でNVC社に提出する広告プレゼンのスライドを送ってくれてありがとうございます。あなたの独特なアプローチについて少し迷いがあると聞いています…大胆すぎるかもしれないと心配しているとのことですが。広告業界は競争が非常に激しいということを常に忘れないでください。次に、NVCインダストリーズとの会議でバルセロナに滞在する間にやるべきことについて、イザベルがいくつか提案してくれます。出発前に必ず彼女に会ってください。"
         },
         {
           "id": "q90",
@@ -2465,8 +2465,8 @@
               "text": "To express confidence in an approach"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者が広告業界は競争が非常に激しいと述べたのは、聞き手の大胆なアプローチへの迷いに対して、その方法が必要だという自信を表現するためであるため、(D)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2493,8 +2493,8 @@
               "text": "She used to work on the NVC Industries account."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "話者がバルセロナ滞在中にやるべきことについてイザベルが提案できると述べていることから、イザベルはいくつかの活動を推薦できるとわかるため、(B)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2521,10 +2521,10 @@
               "text": "A grocery store"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "D",
+          "explanation": "話者が店舗に置き始めた健康ドリンクとエナジーバーを顧客に試してもらうことが目標だと述べており、食料品を扱う店舗で働いていることがわかるため、(D)が正解。",
+          "script": "Hi, everyone. Now, our goal has been to encourage our customers to try out the line of health drinks and energy bars we've recently started stocking at our store locations. And to do this, we've been sending out weekly newsletters by e-mail to our customers. Unfortunately, our analytics show that only ten percent of those e-mails are even opened. So, I'd like to try another strategy. I'd like to put together a team to create some videos about our groceries, and we can pick a few to post to our Web site. Maybe some with testimonials from satisfied customers? Anyway, please send me an e-mail if you're interested in helping with this project.",
+          "scriptJa": "皆さん、こんにちは。さて、私たちの目標は、最近店舗に置き始めた健康ドリンクとエナジーバーを顧客に試してもらうことでした。そのために、毎週メールでニュースレターを顧客に送っていました。しかし残念ながら、分析によるとそのメールの10パーセントしか開封されていません。そこで、別の戦略を試したいと思います。食料品に関する動画を制作するチームを作り、いくつか選んでウェブサイトに掲載したいと考えています。満足した顧客の推薦の声を入れたものもいいかもしれません。とにかく、このプロジェクトに興味がある方はメールでご連絡ください。"
         },
         {
           "id": "q93",
@@ -2549,8 +2549,8 @@
               "text": "A Web site is not working."
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "話者がメールニュースレターの開封率が10パーセントしかないと述べており、広告計画が効果的でなかったことがわかるため、(B)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2577,8 +2577,8 @@
               "text": "Add videos to a Web site"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者が食料品に関する動画を制作してウェブサイトに掲載したいと述べているため、(D)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2605,10 +2605,10 @@
               "text": "A vehicle inspector"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "A",
+          "explanation": "話者が車両購入の書類を準備しており、ディーラーで車を受け取る際の手数料について説明していることから、自動車販売員だとわかるため、(A)が正解。",
+          "script": "Hello, Mr. Harris. This is Nadia calling. I've been getting the paperwork ready for the vehicle you're purchasing from us. When you come over to the dealership to pick up your car, you'll need to pay several fees. Please remember that the one hundred dollar fee must be paid in cash. The other fees can be paid with your credit card. The car title will take a few days to process, and then will be mailed to your home address. And don't forget to take advantage of our free monthly car wash—just use the service code provided on your contract.",
+          "scriptJa": "こんにちは、ハリスさん。ナディアです。お客様がご購入される車両の書類を準備しているところです。車を受け取りにディーラーにお越しの際、いくつかの手数料をお支払いいただく必要があります。100ドルの手数料は現金でお支払いいただく必要がありますのでご了承ください。その他の手数料はクレジットカードでお支払いいただけます。車両の所有権証書は処理に数日かかり、その後ご自宅に郵送されます。また、毎月の無料洗車サービスのご利用もお忘れなく。契約書に記載されたサービスコードをお使いください。"
         },
         {
           "id": "q96",
@@ -2633,8 +2633,8 @@
               "text": "Vehicle registration"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者が100ドルの手数料は現金で支払う必要があると述べており、図表によると100ドルの手数料は車両登録であるため、(D)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2661,8 +2661,8 @@
               "text": "Replacement keys"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "C",
+          "explanation": "話者が毎月の無料洗車サービスを利用するよう伝えているため、(C)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2689,10 +2689,10 @@
               "text": "A radio host"
             }
           ],
-          "answer": "",
-          "explanation": "",
-          "script": "",
-          "scriptJa": ""
+          "answer": "C",
+          "explanation": "話者が冒頭でヘルゲンのミュージックショップで実施する変更について話すと述べていることから、音楽用品店の店長だとわかるため、(C)が正解。",
+          "script": "At this staff meeting, I'd like to talk about some changes we'll be implementing here at Helgen's Music Shop. First, to attract more customers, we're going to host a small talent contest in September. I've recruited several local musicians to be the judges. Second, take a look at this chart from our annual sales report. Now, I'm not worried about the drums. But look at this instrument—we only sell twenty of them per year. That isn't very many, and they take a lot of time and effort to maintain. So, after careful consideration, I've decided we're going to stop selling them.",
+          "scriptJa": "この従業員会議では、ここヘルゲンのミュージックショップで実施するいくつかの変更についてお話ししたいと思います。まず、顧客をもっと引きつけるため、9月に小規模な才能コンテストを開催する予定です。審査員として地元のミュージシャンを数名選出しました。次に、年間売上報告書のこの表をご覧ください。ドラムについては心配していません。しかしこの楽器を見てください。年間20台しか売れていません。これは多いとは言えませんし、メンテナンスに多くの時間と手間がかかります。そこで、慎重に検討した結果、この楽器の販売を中止することにしました。"
         },
         {
           "id": "q99",
@@ -2717,8 +2717,8 @@
               "text": "A talent contest"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "D",
+          "explanation": "話者が9月に小規模な才能コンテストを開催する予定だと述べているため、(D)が正解。",
           "script": "",
           "scriptJa": ""
         },
@@ -2745,8 +2745,8 @@
               "text": "Guitars"
             }
           ],
-          "answer": "",
-          "explanation": "",
+          "answer": "B",
+          "explanation": "話者が年間20台しか売れない楽器に注目しており、円グラフによると年間販売数が20台の楽器はピアノであるため、(B)が正解。",
           "script": "",
           "scriptJa": ""
         }

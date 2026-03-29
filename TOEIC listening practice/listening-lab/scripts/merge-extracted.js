@@ -4,10 +4,8 @@
  * 抽出JSONを既存の問題データにマージする
  *
  * 使い方:
- *   node scripts/merge-extracted.js ../extracted/part3.json --part 3
- *   node scripts/merge-extracted.js ../extracted/part4.json --part 4
- *   node scripts/merge-extracted.js ../extracted/part3.json --part 3 --dry-run
- *   node scripts/merge-extracted.js ../extracted/part3.json --part 3 --exam toeic-kishutu3-1
+ *   node scripts/merge-extracted.js ../extracted/part3.json --part 3 --exam toeic-kishutu3-2
+ *   node scripts/merge-extracted.js ../extracted/part3.json --part 3 --exam toeic-kishutu3-2 --dry-run
  */
 
 import { readFileSync, writeFileSync } from "fs";
@@ -21,7 +19,7 @@ const partIndex = args.indexOf("--part");
 const examIndex = args.indexOf("--exam");
 const inputFile = args.find((a) => !a.startsWith("--") && args[args.indexOf(a) - 1] !== "--part" && args[args.indexOf(a) - 1] !== "--exam");
 
-if (!inputFile || partIndex === -1) {
+if (!inputFile || partIndex === -1 || examIndex === -1) {
   console.error("使い方: node scripts/merge-extracted.js <extracted.json> --part <N> [--exam <examId>] [--dry-run]");
   process.exit(1);
 }
@@ -32,7 +30,11 @@ if (isNaN(partNum) || partNum < 1 || partNum > 4) {
   process.exit(1);
 }
 
-const examId = examIndex !== -1 ? args[examIndex + 1] : "toeic-kishutu3-1";
+if (examIndex === -1) {
+  console.error("エラー: --exam <examId> を指定してください");
+  process.exit(1);
+}
+const examId = args[examIndex + 1];
 const sectionId = `part${partNum}`;
 
 // Resolve paths

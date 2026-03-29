@@ -42,12 +42,12 @@ React + Vite で構築し、GitHub Pages にデプロイする。
 問題データの抽出は以下のフローで行う:
 1. Claude Project で解答PDF から JSON を抽出（extracted/partN.json）
 2. GitHub に手動アップロード
-3. Claude Code でマージ:
+3. Claude Code でマージ（全パート一括）:
 ```
 cd "TOEIC listening practice/listening-lab"
 git pull
-node scripts/merge-extracted.js extracted/part3.json --part 3
-node scripts/validate-data.js --part 3
+for i in 1 2 3 4; do node scripts/merge-extracted.js ../extracted/part$i.json --part $i --exam <examId>; done
+node scripts/validate-data.js --exam <examId>
 ```
 
 ### Scripts

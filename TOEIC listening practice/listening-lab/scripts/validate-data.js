@@ -4,9 +4,8 @@
  * マージ後のデータ整合性チェック
  *
  * 使い方:
- *   node scripts/validate-data.js                    # 全パートをチェック
- *   node scripts/validate-data.js --part 3           # Part 3 のみ
- *   node scripts/validate-data.js --exam toeic-kishutu3-1
+ *   node scripts/validate-data.js --exam toeic-kishutu3-2              # 全パートをチェック
+ *   node scripts/validate-data.js --exam toeic-kishutu3-2 --part 3    # Part 3 のみ
  */
 
 import { readFileSync } from "fs";
@@ -17,7 +16,11 @@ const partIndex = args.indexOf("--part");
 const examIndex = args.indexOf("--exam");
 
 const partFilter = partIndex !== -1 ? parseInt(args[partIndex + 1], 10) : null;
-const examId = examIndex !== -1 ? args[examIndex + 1] : "toeic-kishutu3-1";
+if (examIndex === -1) {
+  console.error("エラー: --exam <examId> を指定してください");
+  process.exit(1);
+}
+const examId = args[examIndex + 1];
 
 const dataPath = resolve(`src/data/toeic/${examId}.json`);
 
