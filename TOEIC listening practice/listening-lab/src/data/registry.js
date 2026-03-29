@@ -3,8 +3,9 @@
 // 新しい試験データを追加する場合は examSets 配列に追加する
 
 import toeicKishutu31 from "./toeic/toeic-kishutu3-1.json";
+import toeicKishutu32 from "./toeic/toeic-kishutu3-2.json";
 
-const examSets = [toeicKishutu31];
+const examSets = [toeicKishutu31, toeicKishutu32];
 
 /**
  * 全試験セットを返す
