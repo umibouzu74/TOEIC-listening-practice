@@ -6,21 +6,24 @@
  * 使い方:
  *   node scripts/validate-data.js --exam toeic-kishutu3-2              # 全パートをチェック
  *   node scripts/validate-data.js --exam toeic-kishutu3-2 --part 3    # Part 3 のみ
+ *   node scripts/validate-data.js --exam toeic-kishutu3-2 --fix       # 欠落audio/imageを自動修復
  */
 
-import { readFileSync } from "fs";
-import { resolve } from "path";
+import { readFileSync, writeFileSync, existsSync } from "fs";
+import { resolve, join } from "path";
 
 const args = process.argv.slice(2);
 const partIndex = args.indexOf("--part");
 const examIndex = args.indexOf("--exam");
 
+const fixMode = args.includes("--fix");
 const partFilter = partIndex !== -1 ? parseInt(args[partIndex + 1], 10) : null;
 if (examIndex === -1) {
   console.error("エラー: --exam <examId> を指定してください");
   process.exit(1);
 }
 const examId = args[examIndex + 1];
+const publicDir = resolve("public");
 
 const dataPath = resolve(`src/data/toeic/${examId}.json`);
 
@@ -78,10 +81,17 @@ for (const section of sections) {
   let missingExplanation = 0;
   let missingScript = 0;
   let missingAudio = 0;
+  let missingImage = 0;
+  let fixedCount = 0;
+
+  // Derive audio folder from existing audio paths in this exam
+  const sampleAudio = examData.sections.flatMap((s) => s.questions).find((q) => q.audio)?.audio;
+  const audioFolder = sampleAudio ? sampleAudio.replace(/Q\d+\.mp3$/, "") : null;
 
   for (let i = 0; i < section.questions.length; i++) {
     const q = section.questions[i];
     const qNum = startQ + i;
+    const paddedNum = qNum < 10 ? `0${qNum}` : String(qNum);
 
     // ID check
     if (q.id !== `q${qNum}`) {
@@ -123,10 +133,34 @@ for (const section of sections) {
       }
     }
 
-    // Audio check
+    // Audio check — error, not warning
     if (!q.audio || q.audio === "") {
-      missingAudio++;
-      warnings.push(`${section.id}: Q${qNum} の audio が未設定`);
+      const expectedPath = audioFolder ? `${audioFolder}Q${paddedNum}.mp3` : null;
+      const fileExists = expectedPath && existsSync(join(publicDir, expectedPath));
+      if (fixMode && fileExists) {
+        q.audio = expectedPath;
+        fixedCount++;
+      } else {
+        missingAudio++;
+        errors.push(
+          `${section.id}: Q${qNum} の audio が未設定` +
+            (fileExists ? ` (ファイルあり → --fix で自動修復可)` : "")
+        );
+      }
+    }
+
+    // Image check — detect orphaned image files that should be referenced
+    if (!q.image) {
+      const imgPath = `images/TOEIC/${audioFolder ? audioFolder.replace("audio/TOEIC/", "").replace(/\/$/, "") : ""}/Q${qNum}.jpg`;
+      if (existsSync(join(publicDir, imgPath))) {
+        if (fixMode) {
+          q.image = imgPath;
+          fixedCount++;
+        } else {
+          missingImage++;
+          errors.push(`${section.id}: Q${qNum} の image が未設定 (ファイルあり: ${imgPath} → --fix で自動修復可)`);
+        }
+      }
     }
 
     // Choice count check
@@ -150,6 +184,15 @@ for (const section of sections) {
     const groupsWithScript = groupCount - missingScript;
     console.log(`  script (セット先頭): ${groupsWithScript}/${groupCount}`);
   }
+  if (missingAudio > 0) {
+    console.log(`  audio: ${total - missingAudio}/${total} ✗`);
+  }
+  if (missingImage > 0) {
+    console.log(`  image (未参照ファイルあり): ${missingImage} 件 ✗`);
+  }
+  if (fixedCount > 0) {
+    console.log(`  自動修復: ${fixedCount} 件`);
+  }
   console.log("");
 }
 
@@ -159,6 +202,17 @@ if (warnings.length > 0) {
   for (const w of warnings) {
     console.log(`  ⚠ ${w}`);
   }
+  console.log("");
+}
+
+if (fixMode) {
+  // Write back auto-fixed data
+  const totalFixed = sections.reduce((sum, s) => {
+    // Count is tracked per-section above; re-derive from diff
+    return sum;
+  }, 0);
+  writeFileSync(dataPath, JSON.stringify(examData, null, 2) + "\n", "utf8");
+  console.log(`--fix: 自動修復を適用して書き込み完了: ${dataPath}`);
   console.log("");
 }
 
