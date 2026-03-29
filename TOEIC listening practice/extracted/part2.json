@@ -1,0 +1,202 @@
+[
+  {
+    "id": "q7",
+    "number": 7,
+    "answer": "A",
+    "script": "Who should write the press release?\n(A) George can take care of that.\n(B) Press the red button.\n(C) At the corner newsstand.",
+    "scriptJa": "報道資料は誰が作成すべきですか？\n(A) ジョージが対処できます。\n(B) 赤いボタンを押してください。\n(C) 角の新聞スタンドです。",
+    "explanation": "報道資料を作成する人を問うWho疑問文。ジョージが対処できると人物を示している(A)が正解。"
+  },
+  {
+    "id": "q8",
+    "number": 8,
+    "answer": "C",
+    "script": "Where is the company's headquarters?\n(A) Before we went to work.\n(B) His name is Mr. Lee.\n(C) In Berlin, Germany.",
+    "scriptJa": "会社の本社はどこですか？\n(A) 出勤する前です。\n(B) 彼の名前はリーさんです。\n(C) ドイツのベルリンです。",
+    "explanation": "会社の本社の場所を問うWhere疑問文。ドイツのベルリンだと場所を答えている(C)が正解。"
+  },
+  {
+    "id": "q9",
+    "number": 9,
+    "answer": "B",
+    "script": "Why are you visiting the clients tomorrow?\n(A) After two o'clock.\n(B) I need to renew their contract.\n(C) The Dubai airport.",
+    "scriptJa": "明日なぜ顧客を訪問するのですか？\n(A) 2時以降です。\n(B) 契約を更新しなければなりません。\n(C) ドバイの空港です。",
+    "explanation": "顧客を訪問する理由を問うWhy疑問文。契約を更新する必要があると理由を示している(B)が正解。"
+  },
+  {
+    "id": "q10",
+    "number": 10,
+    "answer": "A",
+    "script": "Does Dr. Allen work at the hospital or at a private practice?\n(A) At the hospital, I think.\n(B) We'll need to practice that.\n(C) An annual exam.",
+    "scriptJa": "アレン先生は病院で働いていますか、それとも個人医院ですか？\n(A) 病院だと思います。\n(B) それは練習が必要ですね。\n(C) 年次検診です。",
+    "explanation": "アレン先生の勤務先を問う選択疑問文。病院だと思うと選択肢の1つを選んで答えている(A)が正解。"
+  },
+  {
+    "id": "q11",
+    "number": 11,
+    "answer": "C",
+    "script": "What's the best way for us to get to the conference center?\n(A) I haven't heard from her, either.\n(B) It was a great presentation.\n(C) Let's take a look at the train schedule.",
+    "scriptJa": "会議場に行く最も良い方法は何ですか？\n(A) 私も彼女から連絡をもらっていません。\n(B) 素晴らしい発表でした。\n(C) 電車の時刻表を見てみましょう。",
+    "explanation": "会議場への行き方を問うWhat疑問文。電車の時刻表を確認しようと提案し、交通手段を間接的に示している(C)が正解。"
+  },
+  {
+    "id": "q12",
+    "number": 12,
+    "answer": "B",
+    "script": "When will the forklift be repaired?\n(A) A fork and a knife, please.\n(B) Probably next week.\n(C) Several pairs.",
+    "scriptJa": "フォークリフトはいつ修理されますか？\n(A) フォークとナイフをお願いします。\n(B) おそらく来週です。\n(C) いくつかのペアです。",
+    "explanation": "フォークリフトの修理時期を問うWhen疑問文。おそらく来週だと時期を答えている(B)が正解。"
+  },
+  {
+    "id": "q13",
+    "number": 13,
+    "answer": "A",
+    "script": "Would you like me to send you an appointment reminder?\n(A) Yes, I'd appreciate that.\n(B) The apartment downstairs.\n(C) Do you accept credit cards?",
+    "scriptJa": "予約のリマインダーをお送りしましょうか？\n(A) はい、そうしていただけると助かります。\n(B) 階下のアパートです。\n(C) クレジットカードは使えますか？",
+    "explanation": "リマインダーを送るかどうかを提案する疑問文。はい、ありがたいと肯定的に応答している(A)が正解。"
+  },
+  {
+    "id": "q14",
+    "number": 14,
+    "answer": "C",
+    "script": "Did you remember to book a photographer for today's museum opening?\n(A) Oh, have you read it too?\n(B) I'd like to have it framed.\n(C) She should have been here by now.",
+    "scriptJa": "今日の博物館開館式に写真家を予約するのを覚えていましたか？\n(A) あ、あなたも読んだのですか？\n(B) 額に入れてもらいたいです。\n(C) 彼女はもう来ているはずなのですが。",
+    "explanation": "写真家の予約を確認する疑問文。もう来ているはずだと答え、予約したが到着が遅れていることを間接的に伝えている(C)が正解。"
+  },
+  {
+    "id": "q15",
+    "number": 15,
+    "answer": "B",
+    "script": "Why is my computer so slow today?\n(A) The printer is down that hall.\n(B) Because some updates are being installed.\n(C) Next year's computer seminar.",
+    "scriptJa": "今日私のコンピュータはなぜこんなに遅いのですか？\n(A) プリンターはあの廊下の先にあります。\n(B) アップデートがインストールされているからです。\n(C) 来年のコンピュータセミナーです。",
+    "explanation": "コンピュータが遅い理由を問うWhy疑問文。アップデートがインストール中だからと理由を示している(B)が正解。"
+  },
+  {
+    "id": "q16",
+    "number": 16,
+    "answer": "A",
+    "script": "Who's going to stock these shelves?\n(A) The overnight workers will do it.\n(B) No, I haven't gone yet.\n(C) To make room for more items.",
+    "scriptJa": "誰がこの棚に商品を補充しますか？\n(A) 夜間勤務者がやります。\n(B) いいえ、まだ行っていません。\n(C) もっと商品を置くスペースを作るためです。",
+    "explanation": "棚の補充担当を問うWho疑問文。夜間勤務者がやると人物を答えている(A)が正解。"
+  },
+  {
+    "id": "q17",
+    "number": 17,
+    "answer": "B",
+    "script": "How many bottles can these machines produce each hour?\n(A) Mainly soft drinks and juices.\n(B) I just started working here.\n(C) It stays fresh for a long time.",
+    "scriptJa": "この機械は1時間に何本のボトルを生産できますか？\n(A) 主に清涼飲料水とジュースです。\n(B) 私はここで最近働き始めたばかりです。\n(C) 長期間新鮮さが保たれます。",
+    "explanation": "機械の生産量を問うHow many疑問文。最近働き始めたばかりだと答え、まだわからないことを間接的に伝えている(B)が正解。"
+  },
+  {
+    "id": "q18",
+    "number": 18,
+    "answer": "A",
+    "script": "Aren't these hiking boots supposed to be discounted?\n(A) Oh yes, sorry about that.\n(B) Let's pose for a picture.\n(C) No, we haven't met yet.",
+    "scriptJa": "この登山靴は割引されるはずではないですか？\n(A) ああ、はい、申し訳ありません。\n(B) 写真のポーズを取りましょう。\n(C) いいえ、まだ会ったことがありません。",
+    "explanation": "登山靴の割引について確認する否定疑問文。はいと肯定し、謝罪している(A)が正解。"
+  },
+  {
+    "id": "q19",
+    "number": 19,
+    "answer": "B",
+    "script": "Do we have enough time to finish this report?\n(A) She borrowed your newspaper.\n(B) I'll reschedule my next appointment.\n(C) It's a beautiful trail.",
+    "scriptJa": "この報告書を仕上げる時間は十分ありますか？\n(A) 彼女があなたの新聞を借りました。\n(B) 次の約束の時間を変更します。\n(C) 美しい遊歩道です。",
+    "explanation": "報告書を仕上げる時間が十分かを問う疑問文。次の約束を変更すると答え、時間を確保する意思を示している(B)が正解。"
+  },
+  {
+    "id": "q20",
+    "number": 20,
+    "answer": "B",
+    "script": "When do you usually start packing for a trip?\n(A) A round-trip ticket.\n(B) About two days in advance.\n(C) They delivered the package.",
+    "scriptJa": "旅行の荷造りは普通いつ始めますか？\n(A) 往復チケットです。\n(B) だいたい2日前です。\n(C) 彼らが荷物を届けました。",
+    "explanation": "旅行の荷造り開始時期を問うWhen疑問文。だいたい2日前だと時期を答えている(B)が正解。"
+  },
+  {
+    "id": "q21",
+    "number": 21,
+    "answer": "A",
+    "script": "I'm going to take a walk at lunchtime.\n(A) Oh, I'll be visiting clients then.\n(B) He took the survey.\n(C) A copy of the lunch menu.",
+    "scriptJa": "昼休みに散歩に行くつもりです。\n(A) あ、その時間は顧客を訪問する予定です。\n(B) 彼はアンケートに回答しました。\n(C) ランチメニューのコピーです。",
+    "explanation": "昼休みに散歩に行くという平叙文。その時間は顧客訪問の予定だと自分の予定を伝えている(A)が正解。"
+  },
+  {
+    "id": "q22",
+    "number": 22,
+    "answer": "C",
+    "script": "Can you make sure we have a sign-up sheet available?\n(A) I just turned up the heat.\n(B) Sign here, please.\n(C) Sure, no problem.",
+    "scriptJa": "加入申込書が用意されているか確認してもらえますか？\n(A) 暖房の温度を上げたところです。\n(B) ここに署名してください。\n(C) もちろん、問題ありません。",
+    "explanation": "申込書の確認を依頼する疑問文。もちろん問題ないと快諾している(C)が正解。"
+  },
+  {
+    "id": "q23",
+    "number": 23,
+    "answer": "C",
+    "script": "They're going to give each of us copies of the press release, aren't they?\n(A) No, I don't drink coffee.\n(B) I can unlock that for you later.\n(C) I'd better remind them about that.",
+    "scriptJa": "報道資料を私たち全員に配ってくれるんですよね？\n(A) いいえ、コーヒーは飲みません。\n(B) 後でそれを開けてあげますよ。\n(C) その件について彼らに念を押した方がいいですね。",
+    "explanation": "報道資料の配布を確認する付加疑問文。念を押した方がいいと述べ、配布を確実にする意思を示している(C)が正解。"
+  },
+  {
+    "id": "q24",
+    "number": 24,
+    "answer": "B",
+    "script": "What do most people do for a living around here?\n(A) About 40 kilometers away.\n(B) They work at the car manufacturing plant.\n(C) Yes, the living room furniture's new.",
+    "scriptJa": "この辺りの人たちは主に何の仕事をしていますか？\n(A) 約40キロ離れています。\n(B) 自動車製造工場で働いています。\n(C) はい、リビングの家具は新しいです。",
+    "explanation": "地域住民の主な職業を問うWhat疑問文。自動車製造工場で働いていると具体的に答えている(B)が正解。"
+  },
+  {
+    "id": "q25",
+    "number": 25,
+    "answer": "C",
+    "script": "How do you add toner to the printer?\n(A) No, it's not made of stone.\n(B) Because we ran out.\n(C) The instructions are on the box.",
+    "scriptJa": "プリンターにトナーをどうやって追加しますか？\n(A) いいえ、石で作られたものではありません。\n(B) なくなったからです。\n(C) 説明書が箱の上にあります。",
+    "explanation": "トナーの追加方法を問うHow疑問文。説明書が箱の上にあると情報の場所を教えている(C)が正解。"
+  },
+  {
+    "id": "q26",
+    "number": 26,
+    "answer": "A",
+    "script": "Can you send me a link to that company's Web site?\n(A) Our e-mail's not working right now.\n(B) Express delivery, please.\n(C) Sure, I'll drive you to the job site.",
+    "scriptJa": "その会社のウェブサイトのリンクを送ってもらえますか？\n(A) 今、メールが動いていないんです。\n(B) 速達でお願いします。\n(C) もちろん、作業現場まで車で送りますよ。",
+    "explanation": "ウェブサイトのリンク送付を依頼する疑問文。メールが動いていないと答え、間接的に今は送れないことを伝えている(A)が正解。"
+  },
+  {
+    "id": "q27",
+    "number": 27,
+    "answer": "A",
+    "script": "Isn't the air conditioner set to turn off at night?\n(A) No, we always keep it on.\n(B) He's going to be late today.\n(C) Hair products are in aisle four.",
+    "scriptJa": "エアコンは夜に切れるように設定されていませんか？\n(A) いいえ、いつもつけっぱなしにしています。\n(B) 彼は今日遅れるでしょう。\n(C) ヘア製品は4番通路にあります。",
+    "explanation": "エアコンの設定を確認する否定疑問文。いいえ、いつもつけたままだと否定して回答している(A)が正解。"
+  },
+  {
+    "id": "q28",
+    "number": 28,
+    "answer": "B",
+    "script": "Oh, there's no clock in this room.\n(A) A six-week training program.\n(B) It's about two-thirty.\n(C) They took an early flight.",
+    "scriptJa": "あ、この部屋に時計がないですね。\n(A) 6週間の研修プログラムです。\n(B) 2時30分くらいです。\n(C) 彼らは早朝の便に乗りました。",
+    "explanation": "部屋に時計がないという平叙文。2時30分くらいだと時間を教えている(B)が正解。"
+  },
+  {
+    "id": "q29",
+    "number": 29,
+    "answer": "B",
+    "script": "Where can I go to have my car engine checked?\n(A) No, I don't need one—thanks, though.\n(B) The mechanic around the corner.\n(C) In April of every year.",
+    "scriptJa": "車のエンジンを点検してもらうにはどこに行けばいいですか？\n(A) いいえ、必要ありません。でもありがとうございます。\n(B) 角を曲がったところの整備士です。\n(C) 毎年4月です。",
+    "explanation": "車のエンジン点検ができる場所を問うWhere疑問文。角を曲がったところの整備士だと場所を答えている(B)が正解。"
+  },
+  {
+    "id": "q30",
+    "number": 30,
+    "answer": "B",
+    "script": "To get into the building, do I use an ID badge or a passcode?\n(A) A building next door.\n(B) Enter three-four-three on the keypad.\n(C) The exit is down the hall.",
+    "scriptJa": "建物に入るには身分証を使いますか、それとも暗証番号ですか？\n(A) 隣の建物です。\n(B) キーパッドに3-4-3と入力してください。\n(C) 出口は廊下の先にあります。",
+    "explanation": "建物への入館方法を問う選択疑問文。キーパッドに暗証番号を入力するよう具体的に答えている(B)が正解。"
+  },
+  {
+    "id": "q31",
+    "number": 31,
+    "answer": "A",
+    "script": "The order can still be changed, right?\n(A) That process is very complicated.\n(B) I still remember that day, too.\n(C) Yes, he does.",
+    "scriptJa": "注文はまだ変更できますよね？\n(A) その手続きはとても複雑です。\n(B) 私もまだあの日のことを覚えています。\n(C) はい、彼はそうします。",
+    "explanation": "注文の変更可否を確認する付加疑問文。手続きが非常に複雑だと答え、変更は可能だが簡単ではないことを間接的に伝えている(A)が正解。"
+  }
+]

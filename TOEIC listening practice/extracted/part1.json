@@ -1,0 +1,50 @@
+[
+  {
+    "id": "q1",
+    "number": 1,
+    "answer": "B",
+    "script": "(A) He's folding some clothes.\n(B) He's looking into a laundry cart.\n(C) He's removing some clothes from hangers.\n(D) He's standing in front of a washing machine.",
+    "scriptJa": "(A) 男性が衣服を畳んでいる。\n(B) 男性が洗濯物運搬車を覗き込んでいる。\n(C) 男性がハンガーから衣服を取り外している。\n(D) 男性が洗濯機の前に立っている。",
+    "explanation": "1人の人物の動作を描写する写真。男性が洗濯物運搬車を覗き込んでいる様子が写っているため、(B)が正解。"
+  },
+  {
+    "id": "q2",
+    "number": 2,
+    "answer": "D",
+    "script": "(A) The man is leaning against a doorway.\n(B) The man is opening up a package.\n(C) One of the women is plugging in a printer.\n(D) One of the women is wearing glasses.",
+    "scriptJa": "(A) 男性が出入り口に寄りかかっている。\n(B) 男性が荷物を開けている。\n(C) 女性の1人がプリンターのプラグを差し込んでいる。\n(D) 女性の1人が眼鏡をかけている。",
+    "explanation": "2人以上が写っている写真。女性の1人が眼鏡をかけている様子が写っているため、(D)が正解。"
+  },
+  {
+    "id": "q3",
+    "number": 3,
+    "answer": "C",
+    "script": "(A) She's attaching price tags to some merchandise.\n(B) She's piling up some boxes.\n(C) She's holding up some fruit.\n(D) She's throwing away a plastic bag.",
+    "scriptJa": "(A) 女性が商品に値札を付けている。\n(B) 女性が箱を積み上げている。\n(C) 女性が果物を持ち上げている。\n(D) 女性がビニール袋を捨てている。",
+    "explanation": "1人の人物の動作を描写する写真。女性が果物を持ち上げている様子が写っているため、(C)が正解。"
+  },
+  {
+    "id": "q4",
+    "number": 4,
+    "answer": "C",
+    "script": "(A) A jacket has been placed on the ground.\n(B) A man is watering some flowers.\n(C) A garden has been planted outside of a building.\n(D) A man is putting some tools in a toolbox.",
+    "scriptJa": "(A) ジャケットが地面に置かれている。\n(B) 男性が花に水をやっている。\n(C) 建物の外に庭園が作られている。\n(D) 男性が工具箱に工具を入れている。",
+    "explanation": "人物・事物の混合写真。建物の外に植物が植えられた庭園がある様子が写っているため、(C)が正解。"
+  },
+  {
+    "id": "q5",
+    "number": 5,
+    "answer": "B",
+    "script": "(A) Some chairs are stacked in the corner.\n(B) Some light fixtures are mounted on the walls.\n(C) Some tables are covered with tablecloths.\n(D) Some furniture is on display in a window.",
+    "scriptJa": "(A) 椅子が隅に積み重ねられている。\n(B) 照明器具が壁に取り付けられている。\n(C) テーブルにテーブルクロスがかけられている。\n(D) 家具が陳列窓に展示されている。",
+    "explanation": "事物・風景の写真。照明器具が壁に取り付けられている様子が写っているため、(B)が正解。"
+  },
+  {
+    "id": "q6",
+    "number": 6,
+    "answer": "A",
+    "script": "(A) One of the employees is walking with an empty tray.\n(B) One of the employees is taping signs to a board.\n(C) One of the employees is carrying a pair of scissors.\n(D) One of the employees is hanging an apron on a hook.",
+    "scriptJa": "(A) 従業員の1人が空のトレイを持って歩いている。\n(B) 従業員の1人が掲示板に標識をテープで貼っている。\n(C) 従業員の1人がハサミを持っている。\n(D) 従業員の1人がエプロンをフックにかけている。",
+    "explanation": "2人以上が写っている写真。従業員の1人が空のトレイを持って歩いている様子が写っているため、(A)が正解。"
+  }
+]
