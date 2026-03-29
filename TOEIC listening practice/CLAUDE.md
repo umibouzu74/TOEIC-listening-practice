@@ -47,10 +47,13 @@ React + Vite で構築し、GitHub Pages にデプロイする。
 cd "TOEIC listening practice/listening-lab"
 git pull
 for i in 1 2 3 4; do node scripts/merge-extracted.js ../extracted/part$i.json --part $i --exam <examId>; done
+node scripts/validate-data.js --exam <examId> --fix
 node scripts/validate-data.js --exam <examId>
 ```
 
 ### Scripts
 - scripts/merge-extracted.js — 抽出JSONを既存データにマージ（--dry-run でプレビュー可）
 - scripts/validate-data.js — マージ後のデータ整合性チェック
+  - audio/image の欠落はエラー扱い（publicにファイルがあれば検出）
+  - `--fix` で欠落audio/imageを自動補完（ファイル名規則に基づく）
 - extracted/ — 抽出JSONの置き場（GitHub経由で受け渡し）
